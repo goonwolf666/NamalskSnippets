@@ -1,2 +1,2 @@
 # NamalskSnippets
-Various code snippets for DayZ Namalsk Servers
+This repository holds various code snippets for DayZ servers running Sumark's Namalsk Island mod.
