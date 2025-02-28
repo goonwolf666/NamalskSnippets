@@ -1,5 +1,5 @@
-#Namalsk Locker Shipping Containers
-##These code snippets add the locked shipping containers from DayZ 1.27 to servers running the Namalsk mod.
+# Namalsk Locker Shipping Containers
+## These code snippets add the locked shipping containers from DayZ 1.27 to servers running the Namalsk mod.
 
 * Containers spawn on the iceflows and islands around the map, mostly within the view of the shore.
 * There are 37 possible spawn locations, including a few distant spawns (Bering, the Sub and Oilrig).
