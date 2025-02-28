@@ -1,0 +1,295 @@
+	<!-- 
+		These code snippets add locked shipping containers to Namalsk iceflows and islands. 
+		The 'StaticContainerLocked' event is configured to spawn at least one container of each colored lock. 
+		There are 37 possible spawn locations, most are visible from the shore but also at Bering, Sub and Oilrig.
+		Container keys are configured to spawn in military tool loot positions, inside tier 4, 5 & 6 zones.
+		Container keys will be between 55%-85% damaged, to give each key a limited number of uses.
+		Containers themselves are configured to spawn military loot, including a mix of rifles and Namalsk lore.
+		
+		To install, you need to update five server files:
+			db\types.xml			* this manages how keys and containers behave in the central loot economy
+			db\events.xml			* this manages how many and which specific containers spawn in the events
+			cfgspawnabletypes.xml	* this manages what quality the keys spawn in with
+			cfgeventspawns.xml		* this manages all the possible locations that container events can spawn at
+			mapgroupproto.xml		* this manages where and what kind of loot appears in the containers
+	-->
+	
+	<!-- Add to types.xml *************************************************** -->
+		<type name="Land_ContainerLocked_Blue_DE">
+			<nominal>0</nominal>
+			<lifetime>0</lifetime>
+			<restock>0</restock>
+			<min>0</min>
+			<quantmin>-1</quantmin>
+			<quantmax>-1</quantmax>
+			<cost>100</cost>
+			<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0"/>
+		</type>
+		<type name="Land_ContainerLocked_Orange_DE">
+			<nominal>0</nominal>
+			<lifetime>0</lifetime>
+			<restock>0</restock>
+			<min>0</min>
+			<quantmin>-1</quantmin>
+			<quantmax>-1</quantmax>
+			<cost>100</cost>
+			<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0"/>
+		</type>
+		<type name="Land_ContainerLocked_Red_DE">
+			<nominal>0</nominal>
+			<lifetime>14400</lifetime>
+			<restock>0</restock>
+			<min>0</min>
+			<quantmin>-1</quantmin>
+			<quantmax>-1</quantmax>
+			<cost>100</cost>
+			<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		</type>
+		<type name="Land_ContainerLocked_Yellow_DE">
+			<nominal>0</nominal>
+			<lifetime>0</lifetime>
+			<restock>0</restock>
+			<min>0</min>
+			<quantmin>-1</quantmin>
+			<quantmax>-1</quantmax>
+			<cost>100</cost>
+			<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0"/>
+		</type>
+		<type name="ShippingContainerKeys_Blue">
+			<nominal>3</nominal>
+			<lifetime>5400</lifetime>
+			<restock>2700</restock>
+			<min>2</min>
+			<quantmin>-1</quantmin>
+			<quantmax>-1</quantmax>
+			<cost>100</cost>
+			<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+			<usage />
+			<value user="Tier4" />
+			<value user="Tier5" />
+			<value user="Tier6" />
+			<category name="tools" />
+			<tag name="military" />
+		</type>
+		<type name="ShippingContainerKeys_Orange">
+			<nominal>3</nominal>
+			<lifetime>5400</lifetime>
+			<restock>2700</restock>
+			<min>2</min>
+			<quantmin>-1</quantmin>
+			<quantmax>-1</quantmax>
+			<cost>100</cost>
+			<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+			<usage />
+			<value user="Tier4" />
+			<value user="Tier5" />
+			<value user="Tier6" />
+			<category name="tools" />
+			<tag name="military" />
+		</type>
+		<type name="ShippingContainerKeys_Red">
+			<nominal>3</nominal>
+			<lifetime>5400</lifetime>
+			<restock>2700</restock>
+			<min>2</min>
+			<quantmin>-1</quantmin>
+			<quantmax>-1</quantmax>
+			<cost>100</cost>
+			<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+			<usage />
+			<value user="Tier4" />
+			<value user="Tier5" />
+			<value user="Tier6" />
+			<category name="tools" />
+			<tag name="military" />
+		</type>
+		<type name="ShippingContainerKeys_Yellow">
+			<nominal>3</nominal>
+			<lifetime>5400</lifetime>
+			<restock>2700</restock>
+			<min>2</min>
+			<quantmin>-1</quantmin>
+			<quantmax>-1</quantmax>
+			<cost>100</cost>
+			<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+			<usage />
+			<value user="Tier4" />
+			<value user="Tier5" />
+			<value user="Tier6" />
+			<category name="tools" />
+			<tag name="military" />
+		</type>
+	<!-- ********************************************************************** -->
+	
+	
+	<!-- Add to events.xml *********************************************************** -->
+		<event name="StaticContainerLocked">
+			<nominal>8</nominal>
+			<min>4</min>
+			<max>0</max>
+			<lifetime>2400</lifetime>
+			<restock>0</restock>
+			<saferadius>500</saferadius>
+			<distanceradius>500</distanceradius>
+			<cleanupradius>250</cleanupradius>
+			<flags deletable="1" init_random="0" remove_damaged="0"/>
+			<position>fixed</position>
+			<limit>child</limit>
+			<active>1</active>
+			<children>
+				<child lootmax="9" lootmin="8" max="0" min="1" type="Land_ContainerLocked_Blue_DE"/>
+				<child lootmax="9" lootmin="8" max="0" min="1" type="Land_ContainerLocked_Orange_DE"/>
+				<child lootmax="9" lootmin="8" max="0" min="1" type="Land_ContainerLocked_Red_DE"/>
+				<child lootmax="9" lootmin="8" max="0" min="1" type="Land_ContainerLocked_Yellow_DE"/>
+			</children>
+		</event>
+	<!-- ********************************************************************** -->
+	
+	
+	<!-- Add to cfgspawnabletypes.xml ************************************************ -->
+		<type name="ShippingContainerKeys_Blue">
+			<damage min="0.55" max="0.85" />
+		</type>
+		<type name="ShippingContainerKeys_Yellow">
+			<damage min="0.55" max="0.85" />
+		</type>
+		<type name="ShippingContainerKeys_Red">
+			<damage min="0.55" max="0.85" />
+		</type>
+		<type name="ShippingContainerKeys_Orange">
+			<damage min="0.55" max="0.85" />
+		</type>
+	<!-- ********************************************************************** -->
+	
+	
+	<!-- Add to cfgeventspawns.xml *************************************************** -->
+		<event name="StaticContainerLocked">
+			<pos x="4335.509277" z="11472.91601" a="90"/>
+			<pos x="4192.992188" z="11313.28125" a="177.284"/>
+			<pos x="3937.530518" z="11209.58105" a="90"/>
+			<pos x="3899.425537" z="10468.03906" a="36.5853"/>
+			<pos x="3996.043701" z="10175.91894" a="88.1434"/>
+			<pos x="4005.774170" z="9903.770508" a="18.8131"/>
+			<pos x="4194.090820" z="9847.175781" a="135.794"/>
+			<pos x="3603.213623" z="9269.961914" a="90"/>
+			<pos x="3951.199463" z="9584.219727" a="-96.5716"/>
+			<pos x="4083.520020" z="10812.40039" a="-71.889"/>
+			<pos x="4732.800293" z="11411.50585" a="-19.955"/>
+			<pos x="5249.558594" z="11405.01171" a="21.1983"/>
+			<pos x="5718.578125" z="11767.45410" a="7.45164"/>
+			<pos x="6207.163574" z="12089.50585" a="90"/>
+			<pos x="6598.109863" z="12159.29980" a="-153.568"/>
+			<pos x="7088.959961" z="12196.29980" a="90"/>
+			<pos x="7807.819824" z="11911.90039" a="23.0417"/>
+			<pos x="8329.620117" z="11618.40039" a="-174.225"/>
+			<pos x="8829.619141" z="11301.86621" a="-124.052"/>
+			<pos x="8943.953125" z="10961.06738" a="-147.878"/>
+			<pos x="9107.835938" z="10621.52832" a="-143.224"/>
+			<pos x="9308.144531" z="9999.128906" a="90"/>
+			<pos x="8459.478516" z="9854.825195" a="144.649"/>
+			<pos x="8760.599609" z="9662.732422" a="-9.5683"/>
+			<pos x="7698.091797" z="9782.226563" a="-124.625"/>
+			<pos x="8379.025391" z="9090.063477" a="151.358"/>
+			<pos x="8424.849609" z="7859.959961" a="-149.573"/>
+			<pos x="8439.559570" z="8651.080078" a="-149.194"/>
+			<pos x="2731.272217" z="8343.205078" a="166.648"/>
+			<pos x="2486.500000" z="7452.720215" a="60.0781"/>
+			<pos x="2072.929932" z="6611.509766" a="-151.11"/>
+			<pos x="2247.169922" z="5464.459961" a="59.4334"/>
+			<pos x="6385.076172" z="5841.836426" a="-147.543"/>
+			<pos x="7679.810059" z="5703.640137" a="-59.835"/>
+			<pos x="11604.79980" z="11613.50000" a="-107.403"/>
+			<pos x="11968.56738" z="7471.498535" a="-64.625"/>
+			<pos x="1375.449951" z="11916.59960" a="112.163"/>
+		</event>
+	<!-- ********************************************************************** -->
+	
+	
+	<!-- Add to mapgroupproto.xml **************************************************** -->
+		<group name="Land_ContainerLocked_Blue_DE" lootmax="9">
+			<container name="lootFloor" lootmax="9">
+				<category name="weapons" />
+				<category name="rifles" />
+				<category name="pistols" />
+				<category name="explosives" />
+				<category name="lore" />
+				<category name="clothes" />
+				<category name="bags" />
+				<tag name="military" />
+				<point pos="1.280762 -1.087738 0.534241" range="0.339402" height="1.312256" />
+				<point pos="-2.489868 -1.087738 -0.568787" range="0.479492" height="1.198730" />
+				<point pos="1.435303 -1.087738 -0.435181" range="0.492053" height="1.533203" />
+				<point pos="-1.784058 -1.087738 0.510315" range="0.548584" height="1.371460" />
+				<point pos="2.228149 -1.087738 0.369354" range="0.622205" height="1.669312" />
+				<point pos="-0.109009 -1.087738 -0.011322" range="0.913440" height="2.000000" />
+				<point pos="-1.440674 -1.087740 -0.539337" range="0.509003" height="1.272507" />
+				<point pos="-2.695191 -1.087740 0.466858" range="0.363585" height="0.999451" />
+				<point pos="2.449341 -1.087740 -0.670532" range="0.377808" height="0.944519" />
+			</container>
+		</group>
+		<group name="Land_ContainerLocked_Yellow_DE" lootmax="9">
+			<container name="lootFloor" lootmax="9">
+				<category name="weapons" />
+				<category name="rifles" />
+				<category name="pistols" />
+				<category name="explosives" />
+				<category name="lore" />
+				<category name="clothes" />
+				<category name="bags" />
+				<tag name="military" />
+				<point pos="1.280762 -1.087738 0.534241" range="0.339402" height="1.312256" />
+				<point pos="-2.489868 -1.087738 -0.568787" range="0.479492" height="1.198730" />
+				<point pos="1.435303 -1.087738 -0.435181" range="0.492053" height="1.533203" />
+				<point pos="-1.784058 -1.087738 0.510315" range="0.548584" height="1.371460" />
+				<point pos="2.228149 -1.087738 0.369354" range="0.622205" height="1.669312" />
+				<point pos="-0.109009 -1.087738 -0.011322" range="0.913440" height="2.000000" />
+				<point pos="-1.440674 -1.087740 -0.539337" range="0.509003" height="1.272507" />
+				<point pos="-2.695191 -1.087740 0.466858" range="0.363585" height="0.999451" />
+				<point pos="2.449341 -1.087740 -0.670532" range="0.377808" height="0.944519" />
+			</container>
+		</group>
+		<group name="Land_ContainerLocked_Red_DE" lootmax="9">
+			<container name="lootFloor" lootmax="9">
+				<category name="weapons" />
+				<category name="rifles" />
+				<category name="pistols" />
+				<category name="explosives" />
+				<category name="lore" />
+				<category name="clothes" />
+				<category name="bags" />
+				<tag name="military" />
+				<point pos="1.280762 -1.087738 0.534241" range="0.339402" height="1.312256" />
+				<point pos="-2.489868 -1.087738 -0.568787" range="0.479492" height="1.198730" />
+				<point pos="1.435303 -1.087738 -0.435181" range="0.492053" height="1.533203" />
+				<point pos="-1.784058 -1.087738 0.510315" range="0.548584" height="1.371460" />
+				<point pos="2.228149 -1.087738 0.369354" range="0.622205" height="1.669312" />
+				<point pos="-0.109009 -1.087738 -0.011322" range="0.913440" height="2.000000" />
+				<point pos="-1.440674 -1.087740 -0.539337" range="0.509003" height="1.272507" />
+				<point pos="-2.695191 -1.087740 0.466858" range="0.363585" height="0.999451" />
+				<point pos="2.449341 -1.087740 -0.670532" range="0.377808" height="0.944519" />
+			</container>
+		</group>
+		<group name="Land_ContainerLocked_Orange_DE" lootmax="9">
+			<container name="lootFloor" lootmax="9">
+				<category name="weapons" />
+				<category name="rifles" />
+				<category name="pistols" />
+				<category name="explosives" />
+				<category name="lore" />
+				<category name="clothes" />
+				<category name="bags" />
+				<tag name="military" />
+				<point pos="1.280762 -1.087738 0.534241" range="0.339402" height="1.312256" />
+				<point pos="-2.489868 -1.087738 -0.568787" range="0.479492" height="1.198730" />
+				<point pos="1.435303 -1.087738 -0.435181" range="0.492053" height="1.533203" />
+				<point pos="-1.784058 -1.087738 0.510315" range="0.548584" height="1.371460" />
+				<point pos="2.228149 -1.087738 0.369354" range="0.622205" height="1.669312" />
+				<point pos="-0.109009 -1.087738 -0.011322" range="0.913440" height="2.000000" />
+				<point pos="-1.440674 -1.087740 -0.539337" range="0.509003" height="1.272507" />
+				<point pos="-2.695191 -1.087740 0.466858" range="0.363585" height="0.999451" />
+				<point pos="2.449341 -1.087740 -0.670532" range="0.377808" height="0.944519" />
+			</container>
+		</group>
+	<!-- ********************************************************************** -->
+	
+</namalskcontainers>
