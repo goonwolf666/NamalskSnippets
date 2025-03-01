@@ -1,4 +1,5 @@
-#AI Missions config for Namalsk, for Markzone's ["Dynamic AI Missions for DayZ Expansion AI"](https://steamcommunity.com/sharedfiles/filedetails/?id=3277130230) mod.
+# AI Missions config for Namalsk
+## For servers using Merkzone's ["Dynamic AI Missions for DayZ Expansion AI"](https://steamcommunity.com/sharedfiles/filedetails/?id=3277130230) mod.
 
 Notes:
 * Missions are mostly located on the south of the map, and generally near military, remote or lore areas.
