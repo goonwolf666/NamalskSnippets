@@ -3,6 +3,7 @@
 
 
 Notes:
+* To install, copy the 'MainConfig.json' into your <profile>\AIMissions folder. Recommend taking a backup of existing files.
 * Missions are mostly located  south of the Namalsk map, generally near military, remote or lore areas.
 * These missions are designed to replace most of the vanilla vehicle spawns - so players dont get to drive or fly without cleaning up a mission first. 
 * The AI loadouts and 'win' loot is mostly vanilla with some Namalsk lore items.
