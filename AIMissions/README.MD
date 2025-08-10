@@ -11,5 +11,5 @@ Notes:
 * There is only a single type of 'win' heli - you might want to add more here.
 * The vehicles spawn in at mission start, but you won't get all the required gear to start them until you clear the AI.
 * I have set the timing for mission start/cleanup processes to be slightly eccentric, as I found spawning more than one mission at time made them start in close "waves".
-* This has been tested on a live server for a couple of weeks and works fine (although we don't use map markers, so not sure if these work as intended).
-* If you change any values, remember to use a JSON validator to check your syntax aferward =)
+* This has been tested on a live server and works fine (although we don't use map markers, so not sure if that works as intended).
+* If you change any values, remember to use a [JSON validator to check your syntax](https://jsonlint.com/) afterward =)
