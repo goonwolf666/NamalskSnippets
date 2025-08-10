@@ -1,0 +1,3711 @@
+{
+    "ClassName": "",
+    "Include": "",
+    "Chance": 1.0,
+    "Quantity": {
+        "Min": 0.0,
+        "Max": 0.0
+	},
+    "Health": [],
+    "InventoryAttachments": [
+        {
+            "SlotName": "Body",
+            "Items": [
+                {
+                    "ClassName": "GorkaEJacket_Autumn",
+                    "Include": "",
+                    "Chance": 1.0,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+					},
+                    "Health": [
+                        {
+                            "Min": 0.699999988079071,
+                            "Max": 1.0,
+                            "Zone": ""
+						}
+					],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [
+						{
+							"ClassName": "PlateCarrierPouches_Camo",
+							"Include": "",
+							"Chance": 0.0132949730014801,
+							"Quantity": {"Min": 0,"Max": 0},
+							"Health": [{"Min": 0.544559779167175,"Max": 1,"Zone": ""}],
+							"InventoryAttachments": [],
+							"InventoryCargo": [],
+							"ConstructionPartsBuilt": [],
+							"Sets": []
+						},
+						{
+							"ClassName": "PaddedGloves_Brown",
+							"Include": "",
+							"Chance": 0.064993723487854,
+							"Quantity": {"Min": 0,"Max": 0},
+							"Health": [{"Min": 0.570346576372782,"Max": 1,"Zone": ""}],
+							"InventoryAttachments": [],
+							"InventoryCargo": [],
+							"ConstructionPartsBuilt": [],
+							"Sets": []
+						},
+						{
+							"ClassName": "BloodBagIV",
+							"Include": "",
+							"Chance": 0.08595187292099,
+							"Quantity": {"Min": 0,"Max": 0},
+							"Health": [{"Min": 0.328236403465271,"Max": 1,"Zone": ""}],
+							"InventoryAttachments": [],
+							"InventoryCargo": [],
+							"ConstructionPartsBuilt": [],
+							"Sets": []
+						},
+						{
+							"ClassName": "Plastic_Explosive",
+							"Include": "",
+							"Chance": 0.036558642244339,
+							"Quantity": {"Min": 0,"Max": 0},
+							"Health": [{"Min": 0.295328718821208,"Max": 1,"Zone": ""}],
+							"InventoryAttachments": [],
+							"InventoryCargo": [],
+							"ConstructionPartsBuilt": [],
+							"Sets": []
+						},
+						{
+							"ClassName": "Mag_SSG82_5rnd",
+							"Include": "",
+							"Chance": 0.044035574054718,
+							"Quantity": {"Min": 0,"Max": 0},
+							"Health": [{"Min": 0.145790082613627,"Max": 1,"Zone": ""}],
+							"InventoryAttachments": [],
+							"InventoryCargo": [],
+							"ConstructionPartsBuilt": [],
+							"Sets": []
+						},
+						{
+							"ClassName": "VitaminBottle",
+							"Include": "",
+							"Chance": 0.068602635717392,
+							"Quantity": {"Min": 0,"Max": 0},
+							"Health": [{"Min": 0.321115516026815,"Max": 1,"Zone": ""}],
+							"InventoryAttachments": [],
+							"InventoryCargo": [],
+							"ConstructionPartsBuilt": [],
+							"Sets": []
+						}
+					],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+				},
+                {
+                    "ClassName": "GorkaEJacket_Flat",
+                    "Include": "",
+                    "Chance": 1.0,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+					},
+                    "Health": [
+                        {
+                            "Min": 0.699999988079071,
+                            "Max": 1.0,
+                            "Zone": ""
+						}
+					],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [
+						{
+							"ClassName": "PlateCarrierPouches_Camo",
+							"Include": "",
+							"Chance": 0.0132949730014801,
+							"Quantity": {"Min": 0,"Max": 0},
+							"Health": [{"Min": 0.544559779167175,"Max": 1,"Zone": ""}],
+							"InventoryAttachments": [],
+							"InventoryCargo": [],
+							"ConstructionPartsBuilt": [],
+							"Sets": []
+						},
+						{
+							"ClassName": "PaddedGloves_Brown",
+							"Include": "",
+							"Chance": 0.064993723487854,
+							"Quantity": {"Min": 0,"Max": 0},
+							"Health": [{"Min": 0.570346576372782,"Max": 1,"Zone": ""}],
+							"InventoryAttachments": [],
+							"InventoryCargo": [],
+							"ConstructionPartsBuilt": [],
+							"Sets": []
+						},
+						{
+							"ClassName": "BloodBagIV",
+							"Include": "",
+							"Chance": 0.08595187292099,
+							"Quantity": {"Min": 0,"Max": 0},
+							"Health": [{"Min": 0.328236403465271,"Max": 1,"Zone": ""}],
+							"InventoryAttachments": [],
+							"InventoryCargo": [],
+							"ConstructionPartsBuilt": [],
+							"Sets": []
+						},
+						{
+							"ClassName": "Plastic_Explosive",
+							"Include": "",
+							"Chance": 0.036558642244339,
+							"Quantity": {"Min": 0,"Max": 0},
+							"Health": [{"Min": 0.295328718821208,"Max": 1,"Zone": ""}],
+							"InventoryAttachments": [],
+							"InventoryCargo": [],
+							"ConstructionPartsBuilt": [],
+							"Sets": []
+						},
+						{
+							"ClassName": "Mag_SSG82_5rnd",
+							"Include": "",
+							"Chance": 0.044035574054718,
+							"Quantity": {"Min": 0,"Max": 0},
+							"Health": [{"Min": 0.145790082613627,"Max": 1,"Zone": ""}],
+							"InventoryAttachments": [],
+							"InventoryCargo": [],
+							"ConstructionPartsBuilt": [],
+							"Sets": []
+						},
+						{
+							"ClassName": "VitaminBottle",
+							"Include": "",
+							"Chance": 0.068602635717392,
+							"Quantity": {"Min": 0,"Max": 0},
+							"Health": [{"Min": 0.321115516026815,"Max": 1,"Zone": ""}],
+							"InventoryAttachments": [],
+							"InventoryCargo": [],
+							"ConstructionPartsBuilt": [],
+							"Sets": []
+						}
+					],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+				},
+                {
+                    "ClassName": "GorkaEJacket_PautRev",
+                    "Include": "",
+                    "Chance": 1.0,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+					},
+                    "Health": [
+                        {
+                            "Min": 0.699999988079071,
+                            "Max": 1.0,
+                            "Zone": ""
+						}
+					],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [
+						{
+							"ClassName": "PlateCarrierPouches_Camo",
+							"Include": "",
+							"Chance": 0.0132949730014801,
+							"Quantity": {"Min": 0,"Max": 0},
+							"Health": [{"Min": 0.544559779167175,"Max": 1,"Zone": ""}],
+							"InventoryAttachments": [],
+							"InventoryCargo": [],
+							"ConstructionPartsBuilt": [],
+							"Sets": []
+						},
+						{
+							"ClassName": "PaddedGloves_Brown",
+							"Include": "",
+							"Chance": 0.064993723487854,
+							"Quantity": {"Min": 0,"Max": 0},
+							"Health": [{"Min": 0.570346576372782,"Max": 1,"Zone": ""}],
+							"InventoryAttachments": [],
+							"InventoryCargo": [],
+							"ConstructionPartsBuilt": [],
+							"Sets": []
+						},
+						{
+							"ClassName": "BloodBagIV",
+							"Include": "",
+							"Chance": 0.08595187292099,
+							"Quantity": {"Min": 0,"Max": 0},
+							"Health": [{"Min": 0.328236403465271,"Max": 1,"Zone": ""}],
+							"InventoryAttachments": [],
+							"InventoryCargo": [],
+							"ConstructionPartsBuilt": [],
+							"Sets": []
+						},
+						{
+							"ClassName": "Plastic_Explosive",
+							"Include": "",
+							"Chance": 0.036558642244339,
+							"Quantity": {"Min": 0,"Max": 0},
+							"Health": [{"Min": 0.295328718821208,"Max": 1,"Zone": ""}],
+							"InventoryAttachments": [],
+							"InventoryCargo": [],
+							"ConstructionPartsBuilt": [],
+							"Sets": []
+						},
+						{
+							"ClassName": "Mag_SSG82_5rnd",
+							"Include": "",
+							"Chance": 0.044035574054718,
+							"Quantity": {"Min": 0,"Max": 0},
+							"Health": [{"Min": 0.145790082613627,"Max": 1,"Zone": ""}],
+							"InventoryAttachments": [],
+							"InventoryCargo": [],
+							"ConstructionPartsBuilt": [],
+							"Sets": []
+						},
+						{
+							"ClassName": "VitaminBottle",
+							"Include": "",
+							"Chance": 0.068602635717392,
+							"Quantity": {"Min": 0,"Max": 0},
+							"Health": [{"Min": 0.321115516026815,"Max": 1,"Zone": ""}],
+							"InventoryAttachments": [],
+							"InventoryCargo": [],
+							"ConstructionPartsBuilt": [],
+							"Sets": []
+						}
+					],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+				},
+                {
+                    "ClassName": "GorkaEJacket_Summer",
+                    "Include": "",
+                    "Chance": 1.0,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+					},
+                    "Health": [
+                        {
+                            "Min": 0.699999988079071,
+                            "Max": 1.0,
+                            "Zone": ""
+						}
+					],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [
+						{
+							"ClassName": "PlateCarrierPouches_Camo",
+							"Include": "",
+							"Chance": 0.0132949730014801,
+							"Quantity": {"Min": 0,"Max": 0},
+							"Health": [{"Min": 0.544559779167175,"Max": 1,"Zone": ""}],
+							"InventoryAttachments": [],
+							"InventoryCargo": [],
+							"ConstructionPartsBuilt": [],
+							"Sets": []
+						},
+						{
+							"ClassName": "PaddedGloves_Brown",
+							"Include": "",
+							"Chance": 0.064993723487854,
+							"Quantity": {"Min": 0,"Max": 0},
+							"Health": [{"Min": 0.570346576372782,"Max": 1,"Zone": ""}],
+							"InventoryAttachments": [],
+							"InventoryCargo": [],
+							"ConstructionPartsBuilt": [],
+							"Sets": []
+						},
+						{
+							"ClassName": "BloodBagIV",
+							"Include": "",
+							"Chance": 0.08595187292099,
+							"Quantity": {"Min": 0,"Max": 0},
+							"Health": [{"Min": 0.328236403465271,"Max": 1,"Zone": ""}],
+							"InventoryAttachments": [],
+							"InventoryCargo": [],
+							"ConstructionPartsBuilt": [],
+							"Sets": []
+						},
+						{
+							"ClassName": "Plastic_Explosive",
+							"Include": "",
+							"Chance": 0.036558642244339,
+							"Quantity": {"Min": 0,"Max": 0},
+							"Health": [{"Min": 0.295328718821208,"Max": 1,"Zone": ""}],
+							"InventoryAttachments": [],
+							"InventoryCargo": [],
+							"ConstructionPartsBuilt": [],
+							"Sets": []
+						},
+						{
+							"ClassName": "Mag_SSG82_5rnd",
+							"Include": "",
+							"Chance": 0.044035574054718,
+							"Quantity": {"Min": 0,"Max": 0},
+							"Health": [{"Min": 0.145790082613627,"Max": 1,"Zone": ""}],
+							"InventoryAttachments": [],
+							"InventoryCargo": [],
+							"ConstructionPartsBuilt": [],
+							"Sets": []
+						},
+						{
+							"ClassName": "VitaminBottle",
+							"Include": "",
+							"Chance": 0.068602635717392,
+							"Quantity": {"Min": 0,"Max": 0},
+							"Health": [{"Min": 0.321115516026815,"Max": 1,"Zone": ""}],
+							"InventoryAttachments": [],
+							"InventoryCargo": [],
+							"ConstructionPartsBuilt": [],
+							"Sets": []
+						}
+					],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+				}
+			]
+		},
+        {
+            "SlotName": "Legs",
+            "Items": [
+                {
+                    "ClassName": "GorkaPants_Autumn",
+                    "Include": "",
+                    "Chance": 1.0,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+					},
+                    "Health": [
+                        {
+                            "Min": 0.699999988079071,
+                            "Max": 1.0,
+                            "Zone": ""
+						}
+					],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [
+						{
+							"ClassName": "FishNetTrap",
+							"Include": "",
+							"Chance": 0.02908171043396,
+							"Quantity": {"Min": 0,"Max": 0},
+							"Health": [{"Min": 0.444867355028788,"Max": 1,"Zone": ""}],
+							"InventoryAttachments": [],
+							"InventoryCargo": [],
+							"ConstructionPartsBuilt": [],
+							"Sets": []
+						},
+						{
+							"ClassName": "Mag_FAL_20Rnd",
+							"Include": "",
+							"Chance": 0.002795866394043,
+							"Quantity": {"Min": 0,"Max": 0},
+							"Health": [{"Min": 0.354023200670878,"Max": 1,"Zone": ""}],
+							"InventoryAttachments": [],
+							"InventoryCargo": [],
+							"ConstructionPartsBuilt": [],
+							"Sets": []
+						},
+						{
+							"ClassName": "dzn_DuctTape",
+							"Include": "",
+							"Chance": 0.078474941110611,
+							"Quantity": {"Min": 0,"Max": 0},
+							"Health": [{"Min": 0.477775039672852,"Max": 1,"Zone": ""}],
+							"InventoryAttachments": [],
+							"InventoryCargo": [],
+							"ConstructionPartsBuilt": [],
+							"Sets": []
+						},
+						{
+							"ClassName": "AmmoBox_762x39_20Rnd",
+							"Include": "",
+							"Chance": 0.057516791677475,
+							"Quantity": {"Min": 0,"Max": 0},
+							"Health": [{"Min": 0.42523207505544,"Max": 1,"Zone": ""}],
+							"InventoryAttachments": [],
+							"InventoryCargo": [],
+							"ConstructionPartsBuilt": [],
+							"Sets": []
+						},
+						{
+							"ClassName": "AmmoBox_308WinTracer_20Rnd",
+							"Include": "",
+							"Chance": 0.089560785150528,
+							"Quantity": {"Min": 0,"Max": 0},
+							"Health": [{"Min": 0.524924499193827,"Max": 1,"Zone": ""}],
+							"InventoryAttachments": [],
+							"InventoryCargo": [],
+							"ConstructionPartsBuilt": [],
+							"Sets": []
+						},
+						{
+							"ClassName": "Nail",
+							"Include": "",
+							"Chance": 0.100242116308212,
+							"Quantity": {"Min": 0,"Max": 0},
+							"Health": [{"Min": 0.532045386632284,"Max": 1,"Zone": ""}],
+							"InventoryAttachments": [],
+							"InventoryCargo": [],
+							"ConstructionPartsBuilt": [],
+							"Sets": []
+						}
+					],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+				},
+                {
+                    "ClassName": "GorkaPants_Flat",
+                    "Include": "",
+                    "Chance": 1.0,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+					},
+                    "Health": [
+                        {
+                            "Min": 0.699999988079071,
+                            "Max": 1.0,
+                            "Zone": ""
+						}
+					],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [
+						{
+							"ClassName": "FishNetTrap",
+							"Include": "",
+							"Chance": 0.02908171043396,
+							"Quantity": {"Min": 0,"Max": 0},
+							"Health": [{"Min": 0.444867355028788,"Max": 1,"Zone": ""}],
+							"InventoryAttachments": [],
+							"InventoryCargo": [],
+							"ConstructionPartsBuilt": [],
+							"Sets": []
+						},
+						{
+							"ClassName": "Mag_FAL_20Rnd",
+							"Include": "",
+							"Chance": 0.002795866394043,
+							"Quantity": {"Min": 0,"Max": 0},
+							"Health": [{"Min": 0.354023200670878,"Max": 1,"Zone": ""}],
+							"InventoryAttachments": [],
+							"InventoryCargo": [],
+							"ConstructionPartsBuilt": [],
+							"Sets": []
+						},
+						{
+							"ClassName": "dzn_DuctTape",
+							"Include": "",
+							"Chance": 0.078474941110611,
+							"Quantity": {"Min": 0,"Max": 0},
+							"Health": [{"Min": 0.477775039672852,"Max": 1,"Zone": ""}],
+							"InventoryAttachments": [],
+							"InventoryCargo": [],
+							"ConstructionPartsBuilt": [],
+							"Sets": []
+						},
+						{
+							"ClassName": "AmmoBox_762x39_20Rnd",
+							"Include": "",
+							"Chance": 0.057516791677475,
+							"Quantity": {"Min": 0,"Max": 0},
+							"Health": [{"Min": 0.42523207505544,"Max": 1,"Zone": ""}],
+							"InventoryAttachments": [],
+							"InventoryCargo": [],
+							"ConstructionPartsBuilt": [],
+							"Sets": []
+						},
+						{
+							"ClassName": "AmmoBox_308WinTracer_20Rnd",
+							"Include": "",
+							"Chance": 0.089560785150528,
+							"Quantity": {"Min": 0,"Max": 0},
+							"Health": [{"Min": 0.524924499193827,"Max": 1,"Zone": ""}],
+							"InventoryAttachments": [],
+							"InventoryCargo": [],
+							"ConstructionPartsBuilt": [],
+							"Sets": []
+						},
+						{
+							"ClassName": "Nail",
+							"Include": "",
+							"Chance": 0.100242116308212,
+							"Quantity": {"Min": 0,"Max": 0},
+							"Health": [{"Min": 0.532045386632284,"Max": 1,"Zone": ""}],
+							"InventoryAttachments": [],
+							"InventoryCargo": [],
+							"ConstructionPartsBuilt": [],
+							"Sets": []
+						}
+					],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+				},
+                {
+                    "ClassName": "GorkaPants_PautRev",
+                    "Include": "",
+                    "Chance": 1.0,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+					},
+                    "Health": [
+                        {
+                            "Min": 0.699999988079071,
+                            "Max": 1.0,
+                            "Zone": ""
+						}
+					],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [
+						{
+							"ClassName": "FishNetTrap",
+							"Include": "",
+							"Chance": 0.02908171043396,
+							"Quantity": {"Min": 0,"Max": 0},
+							"Health": [{"Min": 0.444867355028788,"Max": 1,"Zone": ""}],
+							"InventoryAttachments": [],
+							"InventoryCargo": [],
+							"ConstructionPartsBuilt": [],
+							"Sets": []
+						},
+						{
+							"ClassName": "Mag_FAL_20Rnd",
+							"Include": "",
+							"Chance": 0.002795866394043,
+							"Quantity": {"Min": 0,"Max": 0},
+							"Health": [{"Min": 0.354023200670878,"Max": 1,"Zone": ""}],
+							"InventoryAttachments": [],
+							"InventoryCargo": [],
+							"ConstructionPartsBuilt": [],
+							"Sets": []
+						},
+						{
+							"ClassName": "dzn_DuctTape",
+							"Include": "",
+							"Chance": 0.078474941110611,
+							"Quantity": {"Min": 0,"Max": 0},
+							"Health": [{"Min": 0.477775039672852,"Max": 1,"Zone": ""}],
+							"InventoryAttachments": [],
+							"InventoryCargo": [],
+							"ConstructionPartsBuilt": [],
+							"Sets": []
+						},
+						{
+							"ClassName": "AmmoBox_762x39_20Rnd",
+							"Include": "",
+							"Chance": 0.057516791677475,
+							"Quantity": {"Min": 0,"Max": 0},
+							"Health": [{"Min": 0.42523207505544,"Max": 1,"Zone": ""}],
+							"InventoryAttachments": [],
+							"InventoryCargo": [],
+							"ConstructionPartsBuilt": [],
+							"Sets": []
+						},
+						{
+							"ClassName": "AmmoBox_308WinTracer_20Rnd",
+							"Include": "",
+							"Chance": 0.089560785150528,
+							"Quantity": {"Min": 0,"Max": 0},
+							"Health": [{"Min": 0.524924499193827,"Max": 1,"Zone": ""}],
+							"InventoryAttachments": [],
+							"InventoryCargo": [],
+							"ConstructionPartsBuilt": [],
+							"Sets": []
+						},
+						{
+							"ClassName": "Nail",
+							"Include": "",
+							"Chance": 0.100242116308212,
+							"Quantity": {"Min": 0,"Max": 0},
+							"Health": [{"Min": 0.532045386632284,"Max": 1,"Zone": ""}],
+							"InventoryAttachments": [],
+							"InventoryCargo": [],
+							"ConstructionPartsBuilt": [],
+							"Sets": []
+						}
+					],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+				},
+                {
+                    "ClassName": "GorkaPants_Summer",
+                    "Include": "",
+                    "Chance": 1.0,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+					},
+                    "Health": [
+                        {
+                            "Min": 0.699999988079071,
+                            "Max": 1.0,
+                            "Zone": ""
+						}
+					],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [
+						{
+							"ClassName": "FishNetTrap",
+							"Include": "",
+							"Chance": 0.02908171043396,
+							"Quantity": {"Min": 0,"Max": 0},
+							"Health": [{"Min": 0.444867355028788,"Max": 1,"Zone": ""}],
+							"InventoryAttachments": [],
+							"InventoryCargo": [],
+							"ConstructionPartsBuilt": [],
+							"Sets": []
+						},
+						{
+							"ClassName": "Mag_FAL_20Rnd",
+							"Include": "",
+							"Chance": 0.002795866394043,
+							"Quantity": {"Min": 0,"Max": 0},
+							"Health": [{"Min": 0.354023200670878,"Max": 1,"Zone": ""}],
+							"InventoryAttachments": [],
+							"InventoryCargo": [],
+							"ConstructionPartsBuilt": [],
+							"Sets": []
+						},
+						{
+							"ClassName": "dzn_DuctTape",
+							"Include": "",
+							"Chance": 0.078474941110611,
+							"Quantity": {"Min": 0,"Max": 0},
+							"Health": [{"Min": 0.477775039672852,"Max": 1,"Zone": ""}],
+							"InventoryAttachments": [],
+							"InventoryCargo": [],
+							"ConstructionPartsBuilt": [],
+							"Sets": []
+						},
+						{
+							"ClassName": "AmmoBox_762x39_20Rnd",
+							"Include": "",
+							"Chance": 0.057516791677475,
+							"Quantity": {"Min": 0,"Max": 0},
+							"Health": [{"Min": 0.42523207505544,"Max": 1,"Zone": ""}],
+							"InventoryAttachments": [],
+							"InventoryCargo": [],
+							"ConstructionPartsBuilt": [],
+							"Sets": []
+						},
+						{
+							"ClassName": "AmmoBox_308WinTracer_20Rnd",
+							"Include": "",
+							"Chance": 0.089560785150528,
+							"Quantity": {"Min": 0,"Max": 0},
+							"Health": [{"Min": 0.524924499193827,"Max": 1,"Zone": ""}],
+							"InventoryAttachments": [],
+							"InventoryCargo": [],
+							"ConstructionPartsBuilt": [],
+							"Sets": []
+						},
+						{
+							"ClassName": "Nail",
+							"Include": "",
+							"Chance": 0.100242116308212,
+							"Quantity": {"Min": 0,"Max": 0},
+							"Health": [{"Min": 0.532045386632284,"Max": 1,"Zone": ""}],
+							"InventoryAttachments": [],
+							"InventoryCargo": [],
+							"ConstructionPartsBuilt": [],
+							"Sets": []
+						}
+					],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+				}
+			]
+		},
+        {
+            "SlotName": "Feet",
+            "Items": [
+                {
+                    "ClassName": "CombatBoots_Beige",
+                    "Include": "",
+                    "Chance": 1.0,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+					},
+                    "Health": [
+                        {
+                            "Min": 0.699999988079071,
+                            "Max": 1.0,
+                            "Zone": ""
+						}
+					],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+				},
+                {
+                    "ClassName": "CombatBoots_Black",
+                    "Include": "",
+                    "Chance": 1.0,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+					},
+                    "Health": [
+                        {
+                            "Min": 0.699999988079071,
+                            "Max": 1.0,
+                            "Zone": ""
+						}
+					],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+				},
+                {
+                    "ClassName": "CombatBoots_Brown",
+                    "Include": "",
+                    "Chance": 1.0,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+					},
+                    "Health": [
+                        {
+                            "Min": 0.699999988079071,
+                            "Max": 1.0,
+                            "Zone": ""
+						}
+					],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+				},
+                {
+                    "ClassName": "CombatBoots_Green",
+                    "Include": "",
+                    "Chance": 1.0,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+					},
+                    "Health": [
+                        {
+                            "Min": 0.699999988079071,
+                            "Max": 1.0,
+                            "Zone": ""
+						}
+					],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+				},
+                {
+                    "ClassName": "CombatBoots_Grey",
+                    "Include": "",
+                    "Chance": 1.0,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+					},
+                    "Health": [
+                        {
+                            "Min": 0.699999988079071,
+                            "Max": 1.0,
+                            "Zone": ""
+						}
+					],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+				}
+			]
+		},
+        {
+            "SlotName": "Back",
+            "Items": [
+                {
+                    "ClassName": "TortillaBag",
+                    "Include": "",
+                    "Chance": 0.6000000238418579,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+					},
+                    "Health": [
+                        {
+                            "Min": 0.699999988079071,
+                            "Max": 1.0,
+                            "Zone": ""
+						}
+					],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [
+                        {
+                            "ClassName": "MakarovIJ70",
+                            "Include": "",
+                            "Chance": 0.3400000035762787,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 0.0
+							},
+                            "Health": [],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+						},
+                        {
+                            "ClassName": "Mag_IJ70_8Rnd",
+                            "Include": "",
+                            "Chance": 0.30000001192092898,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 0.0
+							},
+                            "Health": [],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+						},
+                        {
+                            "ClassName": "Mag_IJ70_8Rnd",
+                            "Include": "",
+                            "Chance": 0.20000000298023225,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 0.0
+							},
+                            "Health": [],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+						},
+                        {
+                            "ClassName": "BandageDressing",
+                            "Include": "",
+                            "Chance": 0.10000000149011612,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 0.0
+							},
+                            "Health": [],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+						},
+                        {
+                            "ClassName": "BandageDressing",
+                            "Include": "",
+                            "Chance": 0.10000000149011612,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 0.0
+							},
+                            "Health": [],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+						},
+                        {
+                            "ClassName": "Chemlight_Green",
+                            "Include": "",
+                            "Chance": 0.10000000149011612,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 0.0
+							},
+                            "Health": [],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+						},
+                        {
+                            "ClassName": "Chemlight_Green",
+                            "Include": "",
+                            "Chance": 0.10000000149011612,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 0.0
+							},
+                            "Health": [],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+						},
+                        {
+                            "ClassName": "RDG2SmokeGrenade_Black",
+                            "Include": "",
+                            "Chance": 0.10000000149011612,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 0.0
+							},
+                            "Health": [],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+						},
+                        {
+                            "ClassName": "RDG2SmokeGrenade_White",
+                            "Include": "",
+                            "Chance": 0.10000000149011612,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 0.0
+							},
+                            "Health": [],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+						},
+                        {
+                            "ClassName": "Ammo_762x39",
+                            "Include": "",
+                            "Chance": 0.10000000149011612,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 0.0
+							},
+                            "Health": [],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+						}
+					],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+				},
+                {
+                    "ClassName": "SmershBag",
+                    "Include": "",
+                    "Chance": 0.10000000149011612,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+					},
+                    "Health": [
+                        {
+                            "Min": 0.699999988079071,
+                            "Max": 1.0,
+                            "Zone": ""
+						}
+					],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [
+                        {
+                            "ClassName": "MakarovIJ70",
+                            "Include": "",
+                            "Chance": 0.3400000035762787,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 0.0
+							},
+                            "Health": [],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+						},
+                        {
+                            "ClassName": "Mag_IJ70_8Rnd",
+                            "Include": "",
+                            "Chance": 0.30000001192092898,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 0.0
+							},
+                            "Health": [],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+						},
+                        {
+                            "ClassName": "Mag_IJ70_8Rnd",
+                            "Include": "",
+                            "Chance": 0.20000000298023225,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 0.0
+							},
+                            "Health": [],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+						},
+                        {
+                            "ClassName": "BandageDressing",
+                            "Include": "",
+                            "Chance": 0.10000000149011612,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 0.0
+							},
+                            "Health": [],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+						},
+                        {
+                            "ClassName": "BandageDressing",
+                            "Include": "",
+                            "Chance": 0.10000000149011612,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 0.0
+							},
+                            "Health": [],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+						},
+                        {
+                            "ClassName": "Chemlight_Green",
+                            "Include": "",
+                            "Chance": 0.10000000149011612,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 0.0
+							},
+                            "Health": [],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+						},
+                        {
+                            "ClassName": "Chemlight_Green",
+                            "Include": "",
+                            "Chance": 0.10000000149011612,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 0.0
+							},
+                            "Health": [],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+						},
+                        {
+                            "ClassName": "RDG2SmokeGrenade_Black",
+                            "Include": "",
+                            "Chance": 0.10000000149011612,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 0.0
+							},
+                            "Health": [],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+						},
+                        {
+                            "ClassName": "RDG2SmokeGrenade_White",
+                            "Include": "",
+                            "Chance": 0.10000000149011612,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 0.0
+							},
+                            "Health": [],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+						},
+                        {
+                            "ClassName": "Ammo_762x39",
+                            "Include": "",
+                            "Chance": 0.10000000149011612,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 0.0
+							},
+                            "Health": [],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+						},
+						{
+							"ClassName": "Mag_CZ75_15Rnd",
+							"Include": "",
+							"Chance": 0.072470655298233,
+							"Quantity": {"Min": 0,"Max": 0},
+							"Health": [{"Min": 0.420807940165202,"Max": 1,"Zone": ""}],
+							"InventoryAttachments": [],
+							"InventoryCargo": [],
+							"ConstructionPartsBuilt": [],
+							"Sets": []
+						},
+						{
+							"ClassName": "Handcuffs",
+							"Include": "",
+							"Chance": 0.076079567527771,
+							"Quantity": {"Min": 0,"Max": 0},
+							"Health": [{"Min": 0.171576879819234,"Max": 1,"Zone": ""}],
+							"InventoryAttachments": [],
+							"InventoryCargo": [],
+							"ConstructionPartsBuilt": [],
+							"Sets": []
+						},
+						{
+							"ClassName": "AmmoBox_556x45Tracer_20Rnd",
+							"Include": "",
+							"Chance": 0.025472798204422,
+							"Quantity": {"Min": 0,"Max": 0},
+							"Health": [{"Min": 0.204484564463298,"Max": 1,"Zone": ""}],
+							"InventoryAttachments": [],
+							"InventoryCargo": [],
+							"ConstructionPartsBuilt": [],
+							"Sets": []
+						},
+						{
+							"ClassName": "Derringer_Pink",
+							"Include": "",
+							"Chance": 0.046430947637558,
+							"Quantity": {"Min": 0,"Max": 0},
+							"Health": [{"Min": 0.451988242467244,"Max": 1,"Zone": ""}],
+							"InventoryAttachments": [],
+							"InventoryCargo": [],
+							"ConstructionPartsBuilt": [],
+							"Sets": []
+						},
+						{
+							"ClassName": "Ammo_545x39",
+							"Include": "",
+							"Chance": 0.011991580581665,
+							"Quantity": {"Min": 0,"Max": 0},
+							"Health": [{"Min": 0.297056101163228,"Max": 1,"Zone": ""}],
+							"InventoryAttachments": [],
+							"InventoryCargo": [],
+							"ConstructionPartsBuilt": [],
+							"Sets": []
+						}
+					],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+				}
+			]
+		},
+        {
+            "SlotName": "Vest",
+            "Items": [
+                {
+                    "ClassName": "SmershVest",
+                    "Include": "",
+                    "Chance": 1.0,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+					},
+                    "Health": [
+                        {
+                            "Min": 0.699999988079071,
+                            "Max": 1.0,
+                            "Zone": ""
+						}
+					],
+                    "InventoryAttachments": [
+                        {
+                            "SlotName": "",
+                            "Items": [
+                                {
+                                    "ClassName": "SmershBag",
+                                    "Include": "",
+                                    "Chance": 0.800000011920929,
+                                    "Quantity": {
+                                        "Min": 0.0,
+                                        "Max": 0.0
+									},
+                                    "Health": [],
+                                    "InventoryAttachments": [],
+                                    "InventoryCargo": [],
+                                    "ConstructionPartsBuilt": [],
+                                    "Sets": []
+								}
+							]
+						}
+					],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+				},
+                {
+                    "ClassName": "UKAssVest_Olive",
+                    "Include": "",
+                    "Chance": 1.0,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+					},
+                    "Health": [
+                        {
+                            "Min": 0.699999988079071,
+                            "Max": 1.0,
+                            "Zone": ""
+						}
+					],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [
+						{
+							"ClassName": "Mag_CZ75_15Rnd",
+							"Include": "",
+							"Chance": 0.072470655298233,
+							"Quantity": {"Min": 0,"Max": 0},
+							"Health": [{"Min": 0.420807940165202,"Max": 1,"Zone": ""}],
+							"InventoryAttachments": [],
+							"InventoryCargo": [],
+							"ConstructionPartsBuilt": [],
+							"Sets": []
+						},
+						{
+							"ClassName": "Handcuffs",
+							"Include": "",
+							"Chance": 0.076079567527771,
+							"Quantity": {"Min": 0,"Max": 0},
+							"Health": [{"Min": 0.171576879819234,"Max": 1,"Zone": ""}],
+							"InventoryAttachments": [],
+							"InventoryCargo": [],
+							"ConstructionPartsBuilt": [],
+							"Sets": []
+						},
+						{
+							"ClassName": "AmmoBox_556x45Tracer_20Rnd",
+							"Include": "",
+							"Chance": 0.025472798204422,
+							"Quantity": {"Min": 0,"Max": 0},
+							"Health": [{"Min": 0.204484564463298,"Max": 1,"Zone": ""}],
+							"InventoryAttachments": [],
+							"InventoryCargo": [],
+							"ConstructionPartsBuilt": [],
+							"Sets": []
+						},
+						{
+							"ClassName": "Derringer_Pink",
+							"Include": "",
+							"Chance": 0.046430947637558,
+							"Quantity": {"Min": 0,"Max": 0},
+							"Health": [{"Min": 0.451988242467244,"Max": 1,"Zone": ""}],
+							"InventoryAttachments": [],
+							"InventoryCargo": [],
+							"ConstructionPartsBuilt": [],
+							"Sets": []
+						},
+						{
+							"ClassName": "Ammo_545x39",
+							"Include": "",
+							"Chance": 0.011991580581665,
+							"Quantity": {"Min": 0,"Max": 0},
+							"Health": [{"Min": 0.297056101163228,"Max": 1,"Zone": ""}],
+							"InventoryAttachments": [],
+							"InventoryCargo": [],
+							"ConstructionPartsBuilt": [],
+							"Sets": []
+						}
+					],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+				},
+                {
+                    "ClassName": "HighCapacityVest_Olive",
+                    "Include": "",
+                    "Chance": 1.0,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+					},
+                    "Health": [
+                        {
+                            "Min": 0.699999988079071,
+                            "Max": 1.0,
+                            "Zone": ""
+						}
+					],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [
+						{
+							"ClassName": "Mag_CZ75_15Rnd",
+							"Include": "",
+							"Chance": 0.072470655298233,
+							"Quantity": {"Min": 0,"Max": 0},
+							"Health": [{"Min": 0.420807940165202,"Max": 1,"Zone": ""}],
+							"InventoryAttachments": [],
+							"InventoryCargo": [],
+							"ConstructionPartsBuilt": [],
+							"Sets": []
+						},
+						{
+							"ClassName": "Handcuffs",
+							"Include": "",
+							"Chance": 0.076079567527771,
+							"Quantity": {"Min": 0,"Max": 0},
+							"Health": [{"Min": 0.171576879819234,"Max": 1,"Zone": ""}],
+							"InventoryAttachments": [],
+							"InventoryCargo": [],
+							"ConstructionPartsBuilt": [],
+							"Sets": []
+						},
+						{
+							"ClassName": "AmmoBox_556x45Tracer_20Rnd",
+							"Include": "",
+							"Chance": 0.025472798204422,
+							"Quantity": {"Min": 0,"Max": 0},
+							"Health": [{"Min": 0.204484564463298,"Max": 1,"Zone": ""}],
+							"InventoryAttachments": [],
+							"InventoryCargo": [],
+							"ConstructionPartsBuilt": [],
+							"Sets": []
+						},
+						{
+							"ClassName": "Derringer_Pink",
+							"Include": "",
+							"Chance": 0.046430947637558,
+							"Quantity": {"Min": 0,"Max": 0},
+							"Health": [{"Min": 0.451988242467244,"Max": 1,"Zone": ""}],
+							"InventoryAttachments": [],
+							"InventoryCargo": [],
+							"ConstructionPartsBuilt": [],
+							"Sets": []
+						},
+						{
+							"ClassName": "Ammo_545x39",
+							"Include": "",
+							"Chance": 0.011991580581665,
+							"Quantity": {"Min": 0,"Max": 0},
+							"Health": [{"Min": 0.297056101163228,"Max": 1,"Zone": ""}],
+							"InventoryAttachments": [],
+							"InventoryCargo": [],
+							"ConstructionPartsBuilt": [],
+							"Sets": []
+						}
+					],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+				}
+			]
+		},
+        {
+            "SlotName": "Headgear",
+            "Items": [
+                {
+                    "ClassName": "Ssh68Helmet",
+                    "Include": "",
+                    "Chance": 1.0,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+					},
+                    "Health": [
+                        {
+                            "Min": 0.699999988079071,
+                            "Max": 1.0,
+                            "Zone": ""
+						}
+					],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+				},
+                {
+                    "ClassName": "TankerHelmet",
+                    "Include": "",
+                    "Chance": 1.0,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+					},
+                    "Health": [
+                        {
+                            "Min": 0.699999988079071,
+                            "Max": 1.0,
+                            "Zone": ""
+						}
+					],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+				},
+                {
+                    "ClassName": "PilotkaCap",
+                    "Include": "",
+                    "Chance": 1.0,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+					},
+                    "Health": [
+                        {
+                            "Min": 0.699999988079071,
+                            "Max": 1.0,
+                            "Zone": ""
+						}
+					],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+				},
+                {
+                    "ClassName": "OfficerHat",
+                    "Include": "",
+                    "Chance": 1.0,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+					},
+                    "Health": [
+                        {
+                            "Min": 0.699999988079071,
+                            "Max": 1.0,
+                            "Zone": ""
+						}
+					],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+				},
+                {
+                    "ClassName": "GorkaHelmet",
+                    "Include": "",
+                    "Chance": 1.0,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+					},
+                    "Health": [
+                        {
+                            "Min": 0.699999988079071,
+                            "Max": 1.0,
+                            "Zone": ""
+						}
+					],
+                    "InventoryAttachments": [
+                        {
+                            "SlotName": "Glass",
+                            "Items": [
+                                {
+                                    "ClassName": "GorkaHelmetVisor",
+                                    "Include": "",
+                                    "Chance": 0.4000000059604645,
+                                    "Quantity": {
+                                        "Min": 0.0,
+                                        "Max": 0.0
+									},
+                                    "Health": [
+                                        {
+                                            "Min": 0.699999988079071,
+                                            "Max": 1.0,
+                                            "Zone": ""
+										}
+									],
+                                    "InventoryAttachments": [],
+                                    "InventoryCargo": [],
+                                    "ConstructionPartsBuilt": [],
+                                    "Sets": []
+								}
+							]
+						}
+					],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+				}
+			]
+		},
+        {
+            "SlotName": "Gloves",
+            "Items": [
+                {
+                    "ClassName": "OMNOGloves_Brown",
+                    "Include": "",
+                    "Chance": 1.0,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+					},
+                    "Health": [
+                        {
+                            "Min": 0.699999988079071,
+                            "Max": 1.0,
+                            "Zone": ""
+						}
+					],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+				},
+                {
+                    "ClassName": "OMNOGloves_Gray",
+                    "Include": "",
+                    "Chance": 1.0,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+					},
+                    "Health": [
+                        {
+                            "Min": 0.699999988079071,
+                            "Max": 1.0,
+                            "Zone": ""
+						}
+					],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+				}
+			]
+		},
+        {
+            "SlotName": "Hips",
+            "Items": [
+                {
+                    "ClassName": "MilitaryBelt",
+                    "Include": "",
+                    "Chance": 1.0,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+					},
+                    "Health": [
+                        {
+                            "Min": 0.699999988079071,
+                            "Max": 1.0,
+                            "Zone": ""
+						}
+					],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+				}
+			]
+		}
+	],
+    "InventoryCargo": [
+        {
+            "ClassName": "Apple",
+            "Include": "",
+            "Chance": 0.10000000149011612,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+			},
+            "Health": [],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+		},
+        {
+            "ClassName": "BandageDressing",
+            "Include": "",
+            "Chance": 0.15000000596046449,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+			},
+            "Health": [],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+		},
+		{
+			"ClassName": "SkiGloves_Blue",
+			"Include": "",
+			"Chance": 0.08355649933815,
+			"Quantity": {"Min": 0,"Max": 0},
+			"Health": [{"Min": 0.68870491027832,"Max": 1,"Zone": ""}],
+			"InventoryAttachments": [],
+			"InventoryCargo": [],
+			"ConstructionPartsBuilt": [],
+			"Sets": []
+		},
+		{
+			"ClassName": "DeadRabbit",
+			"Include": "",
+			"Chance": 0.021863885974884,
+			"Quantity": {"Min": 0,"Max": 0},
+			"Health": [{"Min": 0.453715624809265,"Max": 1,"Zone": ""}],
+			"InventoryAttachments": [],
+			"InventoryCargo": [],
+			"ConstructionPartsBuilt": [],
+			"Sets": []
+		},
+		{
+			"ClassName": "Battery9V",
+			"Include": "",
+			"Chance": 0.051512505865097,
+			"Quantity": {"Min": 0,"Max": 0},
+			"Health": [{"Min": 0.662918113072713,"Max": 1,"Zone": ""}],
+			"InventoryAttachments": [],
+			"InventoryCargo": [],
+			"ConstructionPartsBuilt": [],
+			"Sets": []
+		},
+		{
+			"ClassName": "Cleaver",
+			"Include": "",
+			"Chance": 0.093428804731369,
+			"Quantity": {"Min": 0,"Max": 0},
+			"Health": [{"Min": 0.17869776725769,"Max": 1,"Zone": ""}],
+			"InventoryAttachments": [],
+			"InventoryCargo": [],
+			"ConstructionPartsBuilt": [],
+			"Sets": []
+		},
+		{
+			"ClassName": "RDG2SmokeGrenade_Black",
+			"Include": "",
+			"Chance": 0.038954015827179,
+			"Quantity": {"Min": 0,"Max": 0},
+			"Health": [{"Min": 0.601526878674825,"Max": 1,"Zone": ""}],
+			"InventoryAttachments": [],
+			"InventoryCargo": [],
+			"ConstructionPartsBuilt": [],
+			"Sets": []
+		},
+		{
+			"ClassName": "Rangefinder",
+			"Include": "",
+			"Chance": 0.032949730014801,
+			"Quantity": {"Min": 0,"Max": 0},
+			"Health": [{"Min": 0.544559779167175,"Max": 1,"Zone": ""}],
+			"InventoryAttachments": [],
+			"InventoryCargo": [],
+			"ConstructionPartsBuilt": [],
+			"Sets": []
+		},
+		{
+			"ClassName": "Epinephrine",
+			"Include": "",
+			"Chance": 0.064993723487854,
+			"Quantity": {"Min": 0,"Max": 0},
+			"Health": [{"Min": 0.570346576372782,"Max": 1,"Zone": ""}],
+			"InventoryAttachments": [],
+			"InventoryCargo": [],
+			"ConstructionPartsBuilt": [],
+			"Sets": []
+		},
+		{
+			"ClassName": "MetalPlate",
+			"Include": "",
+			"Chance": 0.08595187292099,
+			"Quantity": {"Min": 0,"Max": 0},
+			"Health": [{"Min": 0.328236403465271,"Max": 1,"Zone": ""}],
+			"InventoryAttachments": [],
+			"InventoryCargo": [],
+			"ConstructionPartsBuilt": [],
+			"Sets": []
+		},
+		{
+			"ClassName": "ChickenFeather",
+			"Include": "",
+			"Chance": 0.036558642244339,
+			"Quantity": {"Min": 0,"Max": 0},
+			"Health": [{"Min": 0.295328718821208,"Max": 1,"Zone": ""}],
+			"InventoryAttachments": [],
+			"InventoryCargo": [],
+			"ConstructionPartsBuilt": [],
+			"Sets": []
+		},
+		{
+			"ClassName": "dzn_athena_action1",
+			"Include": "",
+			"Chance": 0.044035574054718,
+			"Quantity": {"Min": 0,"Max": 0},
+			"Health": [{"Min": 0.145790082613627,"Max": 1,"Zone": ""}],
+			"InventoryAttachments": [],
+			"InventoryCargo": [],
+			"ConstructionPartsBuilt": [],
+			"Sets": []
+		},
+		{
+			"ClassName": "SaltySticks",
+			"Include": "",
+			"Chance": 0.068602635717392,
+			"Quantity": {"Min": 0,"Max": 0},
+			"Health": [{"Min": 0.321115516026815,"Max": 1,"Zone": ""}],
+			"InventoryAttachments": [],
+			"InventoryCargo": [],
+			"ConstructionPartsBuilt": [],
+			"Sets": []
+		},
+		{
+			"ClassName": "UnknownFoodCan",
+			"Include": "",
+			"Chance": 0.02908171043396,
+			"Quantity": {"Min": 0,"Max": 0},
+			"Health": [{"Min": 0.444867355028788,"Max": 1,"Zone": ""}],
+			"InventoryAttachments": [],
+			"InventoryCargo": [],
+			"ConstructionPartsBuilt": [],
+			"Sets": []
+		},
+		{
+			"ClassName": "Glock19",
+			"Include": "",
+			"Chance": 0.017995866394043,
+			"Quantity": {"Min": 0,"Max": 0},
+			"Health": [{"Min": 0.354023200670878,"Max": 1,"Zone": ""}],
+			"InventoryAttachments": [],
+			"InventoryCargo": [],
+			"ConstructionPartsBuilt": [],
+			"Sets": []
+		},
+		{
+			"ClassName": "FNX45",
+			"Include": "",
+			"Chance": 0.078474941110611,
+			"Quantity": {"Min": 0,"Max": 0},
+			"Health": [{"Min": 0.477775039672852,"Max": 1,"Zone": ""}],
+			"InventoryAttachments": [],
+			"InventoryCargo": [],
+			"ConstructionPartsBuilt": [],
+			"Sets": []
+		},
+		{
+			"ClassName": "Mosin_Bayonet",
+			"Include": "",
+			"Chance": 0.057516791677475,
+			"Quantity": {"Min": 0,"Max": 0},
+			"Health": [{"Min": 0.42523207505544,"Max": 1,"Zone": ""}],
+			"InventoryAttachments": [],
+			"InventoryCargo": [],
+			"ConstructionPartsBuilt": [],
+			"Sets": []
+		},
+		{
+			"ClassName": "M9A1_Bayonet",
+			"Include": "",
+			"Chance": 0.089560785150528,
+			"Quantity": {"Min": 0,"Max": 0},
+			"Health": [{"Min": 0.524924499193827,"Max": 1,"Zone": ""}],
+			"InventoryAttachments": [],
+			"InventoryCargo": [],
+			"ConstructionPartsBuilt": [],
+			"Sets": []
+		},
+		{
+			"ClassName": "dzn_module_surge",
+			"Include": "",
+			"Chance": 0.100242116308212,
+			"Quantity": {"Min": 0,"Max": 0},
+			"Health": [{"Min": 0.532045386632284,"Max": 1,"Zone": ""}],
+			"InventoryAttachments": [],
+			"InventoryCargo": [],
+			"ConstructionPartsBuilt": [],
+			"Sets": []
+		},
+		{
+			"ClassName": "KitchenTimer",
+			"Include": "",
+			"Chance": 0.072470655298233,
+			"Quantity": {"Min": 0,"Max": 0},
+			"Health": [{"Min": 0.420807940165202,"Max": 1,"Zone": ""}],
+			"InventoryAttachments": [],
+			"InventoryCargo": [],
+			"ConstructionPartsBuilt": [],
+			"Sets": []
+		},
+		{
+			"ClassName": "ElectronicRepairKit",
+			"Include": "",
+			"Chance": 0.076079567527771,
+			"Quantity": {"Min": 0,"Max": 0},
+			"Health": [{"Min": 0.171576879819234,"Max": 1,"Zone": ""}],
+			"InventoryAttachments": [],
+			"InventoryCargo": [],
+			"ConstructionPartsBuilt": [],
+			"Sets": []
+		},
+		{
+			"ClassName": "PlateCarrierPouches_Winter",
+			"Include": "",
+			"Chance": 0.025472798204422,
+			"Quantity": {"Min": 0,"Max": 0},
+			"Health": [{"Min": 0.204484564463298,"Max": 1,"Zone": ""}],
+			"InventoryAttachments": [],
+			"InventoryCargo": [],
+			"ConstructionPartsBuilt": [],
+			"Sets": []
+		},
+		{
+			"ClassName": "AK_Bayonet",
+			"Include": "",
+			"Chance": 0.046430947637558,
+			"Quantity": {"Min": 0,"Max": 0},
+			"Health": [{"Min": 0.451988242467244,"Max": 1,"Zone": ""}],
+			"InventoryAttachments": [],
+			"InventoryCargo": [],
+			"ConstructionPartsBuilt": [],
+			"Sets": []
+		},
+		{
+			"ClassName": "PlateCarrierPouches",
+			"Include": "",
+			"Chance": 0.011991580581665,
+			"Quantity": {"Min": 0,"Max": 0},
+			"Health": [{"Min": 0.297056101163228,"Max": 1,"Zone": ""}],
+			"InventoryAttachments": [],
+			"InventoryCargo": [],
+			"ConstructionPartsBuilt": [],
+			"Sets": []
+		},
+		{
+			"ClassName": "BudenovkaHat_Gray",
+			"Include": "",
+			"Chance": 0.053907879447937,
+			"Quantity": {"Min": 0,"Max": 0},
+			"Health": [{"Min": 0.302449606259664,"Max": 1,"Zone": ""}],
+			"InventoryAttachments": [],
+			"InventoryCargo": [],
+			"ConstructionPartsBuilt": [],
+			"Sets": []
+		},
+		{
+			"ClassName": "dzn_tool_watch2",
+			"Include": "",
+			"Chance": 0.08355649933815,
+			"Quantity": {"Min": 0,"Max": 0},
+			"Health": [{"Min": 0.68870491027832,"Max": 1,"Zone": ""}],
+			"InventoryAttachments": [],
+			"InventoryCargo": [],
+			"ConstructionPartsBuilt": [],
+			"Sets": []
+		},
+		{
+			"ClassName": "HandDrillKit",
+			"Include": "",
+			"Chance": 0.021863885974884,
+			"Quantity": {"Min": 0,"Max": 0},
+			"Health": [{"Min": 0.453715624809265,"Max": 1,"Zone": ""}],
+			"InventoryAttachments": [],
+			"InventoryCargo": [],
+			"ConstructionPartsBuilt": [],
+			"Sets": []
+		},
+		{
+			"ClassName": "ZenSleep_StimSyringe",
+			"Include": "",
+			"Chance": 0.051512505865097,
+			"Quantity": {"Min": 0,"Max": 0},
+			"Health": [{"Min": 0.662918113072713,"Max": 1,"Zone": ""}],
+			"InventoryAttachments": [],
+			"InventoryCargo": [],
+			"ConstructionPartsBuilt": [],
+			"Sets": []
+		},
+		{
+			"ClassName": "BoxCerealCrunchin",
+			"Include": "",
+			"Chance": 0.093428804731369,
+			"Quantity": {"Min": 0,"Max": 0},
+			"Health": [{"Min": 0.17869776725769,"Max": 1,"Zone": ""}],
+			"InventoryAttachments": [],
+			"InventoryCargo": [],
+			"ConstructionPartsBuilt": [],
+			"Sets": []
+		},
+		{
+			"ClassName": "M18SmokeGrenade_Green",
+			"Include": "",
+			"Chance": 0.038954015827179,
+			"Quantity": {"Min": 0,"Max": 0},
+			"Health": [{"Min": 0.601526878674825,"Max": 1,"Zone": ""}],
+			"InventoryAttachments": [],
+			"InventoryCargo": [],
+			"ConstructionPartsBuilt": [],
+			"Sets": []
+		},
+		{
+			"ClassName": "HandcuffKeys",
+			"Include": "",
+			"Chance": 0.032949730014801,
+			"Quantity": {"Min": 0,"Max": 0},
+			"Health": [{"Min": 0.544559779167175,"Max": 1,"Zone": ""}],
+			"InventoryAttachments": [],
+			"InventoryCargo": [],
+			"ConstructionPartsBuilt": [],
+			"Sets": []
+		},
+		{
+			"ClassName": "AlarmClock_Red",
+			"Include": "",
+			"Chance": 0.064993723487854,
+			"Quantity": {"Min": 0,"Max": 0},
+			"Health": [{"Min": 0.570346576372782,"Max": 1,"Zone": ""}],
+			"InventoryAttachments": [],
+			"InventoryCargo": [],
+			"ConstructionPartsBuilt": [],
+			"Sets": []
+		},
+		{
+			"ClassName": "MediumGasCanister",
+			"Include": "",
+			"Chance": 0.08595187292099,
+			"Quantity": {"Min": 0,"Max": 0},
+			"Health": [{"Min": 0.328236403465271,"Max": 1,"Zone": ""}],
+			"InventoryAttachments": [],
+			"InventoryCargo": [],
+			"ConstructionPartsBuilt": [],
+			"Sets": []
+		},
+		{
+			"ClassName": "Mag_CZ527_5rnd",
+			"Include": "",
+			"Chance": 0.036558642244339,
+			"Quantity": {"Min": 0,"Max": 0},
+			"Health": [{"Min": 0.295328718821208,"Max": 1,"Zone": ""}],
+			"InventoryAttachments": [],
+			"InventoryCargo": [],
+			"ConstructionPartsBuilt": [],
+			"Sets": []
+		},
+		{
+			"ClassName": "SalineBagIV",
+			"Include": "",
+			"Chance": 0.044035574054718,
+			"Quantity": {"Min": 0,"Max": 0},
+			"Health": [{"Min": 0.145790082613627,"Max": 1,"Zone": ""}],
+			"InventoryAttachments": [],
+			"InventoryCargo": [],
+			"ConstructionPartsBuilt": [],
+			"Sets": []
+		},
+		{
+			"ClassName": "Mosin_Compensator",
+			"Include": "",
+			"Chance": 0.068602635717392,
+			"Quantity": {"Min": 0,"Max": 0},
+			"Health": [{"Min": 0.321115516026815,"Max": 1,"Zone": ""}],
+			"InventoryAttachments": [],
+			"InventoryCargo": [],
+			"ConstructionPartsBuilt": [],
+			"Sets": []
+		},
+		{
+			"ClassName": "WoolGloves_White",
+			"Include": "",
+			"Chance": 0.02908171043396,
+			"Quantity": {"Min": 0,"Max": 0},
+			"Health": [{"Min": 0.444867355028788,"Max": 1,"Zone": ""}],
+			"InventoryAttachments": [],
+			"InventoryCargo": [],
+			"ConstructionPartsBuilt": [],
+			"Sets": []
+		},
+		{
+			"ClassName": "PowderedMilk",
+			"Include": "",
+			"Chance": 0.017995866394043,
+			"Quantity": {"Min": 0,"Max": 0},
+			"Health": [{"Min": 0.354023200670878,"Max": 1,"Zone": ""}],
+			"InventoryAttachments": [],
+			"InventoryCargo": [],
+			"ConstructionPartsBuilt": [],
+			"Sets": []
+		},
+		{
+			"ClassName": "Derringer_Grey",
+			"Include": "",
+			"Chance": 0.078474941110611,
+			"Quantity": {"Min": 0,"Max": 0},
+			"Health": [{"Min": 0.477775039672852,"Max": 1,"Zone": ""}],
+			"InventoryAttachments": [],
+			"InventoryCargo": [],
+			"ConstructionPartsBuilt": [],
+			"Sets": []
+		},
+		{
+			"ClassName": "CJ_Key6",
+			"Include": "",
+			"Chance": 0.057516791677475,
+			"Quantity": {"Min": 0,"Max": 0},
+			"Health": [{"Min": 0.42523207505544,"Max": 1,"Zone": ""}],
+			"InventoryAttachments": [],
+			"InventoryCargo": [],
+			"ConstructionPartsBuilt": [],
+			"Sets": []
+		},
+		{
+			"ClassName": "CJ_Key3",
+			"Include": "",
+			"Chance": 0.089560785150528,
+			"Quantity": {"Min": 0,"Max": 0},
+			"Health": [{"Min": 0.524924499193827,"Max": 1,"Zone": ""}],
+			"InventoryAttachments": [],
+			"InventoryCargo": [],
+			"ConstructionPartsBuilt": [],
+			"Sets": []
+		},
+		{
+			"ClassName": "ReindeerSteakMeat",
+			"Include": "",
+			"Chance": 0.072470655298233,
+			"Quantity": {"Min": 0,"Max": 0},
+			"Health": [{"Min": 0.420807940165202,"Max": 1,"Zone": ""}],
+			"InventoryAttachments": [],
+			"InventoryCargo": [],
+			"ConstructionPartsBuilt": [],
+			"Sets": []
+		},
+		{
+			"ClassName": "Hacksaw",
+			"Include": "",
+			"Chance": 0.076079567527771,
+			"Quantity": {"Min": 0,"Max": 0},
+			"Health": [{"Min": 0.171576879819234,"Max": 1,"Zone": ""}],
+			"InventoryAttachments": [],
+			"InventoryCargo": [],
+			"ConstructionPartsBuilt": [],
+			"Sets": []
+		},
+		{
+			"ClassName": "BurlapSack",
+			"Include": "",
+			"Chance": 0.025472798204422,
+			"Quantity": {"Min": 0,"Max": 0},
+			"Health": [{"Min": 0.204484564463298,"Max": 1,"Zone": ""}],
+			"InventoryAttachments": [],
+			"InventoryCargo": [],
+			"ConstructionPartsBuilt": [],
+			"Sets": []
+		},
+		{
+			"ClassName": "M4_Suppressor",
+			"Include": "",
+			"Chance": 0.046430947637558,
+			"Quantity": {"Min": 0,"Max": 0},
+			"Health": [{"Min": 0.451988242467244,"Max": 1,"Zone": ""}],
+			"InventoryAttachments": [],
+			"InventoryCargo": [],
+			"ConstructionPartsBuilt": [],
+			"Sets": []
+		},
+		{
+			"ClassName": "Bark_Birch",
+			"Include": "",
+			"Chance": 0.011991580581665,
+			"Quantity": {"Min": 0,"Max": 0},
+			"Health": [{"Min": 0.297056101163228,"Max": 1,"Zone": ""}],
+			"InventoryAttachments": [],
+			"InventoryCargo": [],
+			"ConstructionPartsBuilt": [],
+			"Sets": []
+		},
+		{
+			"ClassName": "AirborneMask",
+			"Include": "",
+			"Chance": 0.08355649933815,
+			"Quantity": {"Min": 0,"Max": 0},
+			"Health": [{"Min": 0.68870491027832,"Max": 1,"Zone": ""}],
+			"InventoryAttachments": [],
+			"InventoryCargo": [],
+			"ConstructionPartsBuilt": [],
+			"Sets": []
+		},
+		{
+			"ClassName": "Chemlight_White",
+			"Include": "",
+			"Chance": 0.021863885974884,
+			"Quantity": {"Min": 0,"Max": 0},
+			"Health": [{"Min": 0.453715624809265,"Max": 1,"Zone": ""}],
+			"InventoryAttachments": [],
+			"InventoryCargo": [],
+			"ConstructionPartsBuilt": [],
+			"Sets": []
+		},
+		{
+			"ClassName": "TacticalGoggles",
+			"Include": "",
+			"Chance": 0.100355818128586,
+			"Quantity": {"Min": 0,"Max": 0},
+			"Health": [{"Min": 0.435807727177938,"Max": 1,"Zone": ""}],
+			"InventoryAttachments": [],
+			"InventoryCargo": [],
+			"ConstructionPartsBuilt": [],
+			"Sets": []
+		},
+		{
+			"ClassName": "dzn_athena3_october",
+			"Include": "",
+			"Chance": 0.083524795627594,
+			"Quantity": {"Min": 0,"Max": 0},
+			"Health": [{"Min": 0.636919957796733,"Max": 1,"Zone": ""}],
+			"InventoryAttachments": [],
+			"InventoryCargo": [],
+			"ConstructionPartsBuilt": [],
+			"Sets": []
+		},
+		{
+			"ClassName": "BakedBeansCan",
+			"Include": "",
+			"Chance": 0.037740477180481,
+			"Quantity": {"Min": 0,"Max": 0},
+			"Health": [{"Min": 0.354781212806702,"Max": 1,"Zone": ""}],
+			"InventoryAttachments": [],
+			"InventoryCargo": [],
+			"ConstructionPartsBuilt": [],
+			"Sets": []
+		},
+		{
+			"ClassName": "WinterCoif_Black",
+			"Include": "",
+			"Chance": 0.023045720911026,
+			"Quantity": {"Min": 0,"Max": 0},
+			"Health": [{"Min": 0.336115303039551,"Max": 1,"Zone": ""}],
+			"InventoryAttachments": [],
+			"InventoryCargo": [],
+			"ConstructionPartsBuilt": [],
+			"Sets": []
+		},
+		{
+			"ClassName": "Bitterlings",
+			"Include": "",
+			"Chance": 0.076047863817215,
+			"Quantity": {"Min": 0,"Max": 0},
+			"Health": [{"Min": 0.119791927337646,"Max": 1,"Zone": ""}],
+			"InventoryAttachments": [],
+			"InventoryCargo": [],
+			"ConstructionPartsBuilt": [],
+			"Sets": []
+		},
+		{
+			"ClassName": "GasMask_Filter_Improvised",
+			"Include": "",
+			"Chance": 0.066175558423996,
+			"Quantity": {"Min": 0,"Max": 0},
+			"Health": [{"Min": 0.629799070358276,"Max": 1,"Zone": ""}],
+			"InventoryAttachments": [],
+			"InventoryCargo": [],
+			"ConstructionPartsBuilt": [],
+			"Sets": []
+		},
+		{
+			"ClassName": "Bandana_Camopattern",
+			"Include": "",
+			"Chance": 0.034131564950943,
+			"Quantity": {"Min": 0,"Max": 0},
+			"Health": [{"Min": 0.604012273152669,"Max": 1,"Zone": ""}],
+			"InventoryAttachments": [],
+			"InventoryCargo": [],
+			"ConstructionPartsBuilt": [],
+			"Sets": []
+		},
+		{
+			"ClassName": "RemoteDetonator",
+			"Include": "",
+			"Chance": 0.013173415517807,
+			"Quantity": {"Min": 0,"Max": 0},
+			"Health": [{"Min": 0.179455779393514,"Max": 1,"Zone": ""}],
+			"InventoryAttachments": [],
+			"InventoryCargo": [],
+			"ConstructionPartsBuilt": [],
+			"Sets": []
+		},
+		{
+			"ClassName": "AmmoBox_22_50Rnd",
+			"Include": "",
+			"Chance": 0.100614925479889,
+			"Quantity": {"Min": 0,"Max": 0},
+			"Health": [{"Min": 0.118064544995626,"Max": 1,"Zone": ""}],
+			"InventoryAttachments": [],
+			"InventoryCargo": [],
+			"ConstructionPartsBuilt": [],
+			"Sets": []
+		},
+		{
+			"ClassName": "AmmoBox_00buck_10rnd",
+			"Include": "",
+			"Chance": 0.094610639667511,
+			"Quantity": {"Min": 0,"Max": 0},
+			"Health": [{"Min": 0.307631753285726,"Max": 1,"Zone": ""}],
+			"InventoryAttachments": [],
+			"InventoryCargo": [],
+			"ConstructionPartsBuilt": [],
+			"Sets": []
+		},
+		{
+			"ClassName": "TetracyclineAntibiotics",
+			"Include": "",
+			"Chance": 0.098219551897049,
+			"Quantity": {"Min": 0,"Max": 0},
+			"Health": [{"Min": 0.478533051808675,"Max": 1,"Zone": ""}],
+			"InventoryAttachments": [],
+			"InventoryCargo": [],
+			"ConstructionPartsBuilt": [],
+			"Sets": []
+		},
+		{
+			"ClassName": "Roadflare",
+			"Include": "",
+			"Chance": 0.081129422044754,
+			"Quantity": {"Min": 0,"Max": 0},
+			"Health": [{"Min": 0.153668982187907,"Max": 1,"Zone": ""}],
+			"InventoryAttachments": [],
+			"InventoryCargo": [],
+			"ConstructionPartsBuilt": [],
+			"Sets": []
+		},
+		{
+			"ClassName": "Chemlight_Blue",
+			"Include": "",
+			"Chance": 0.041608496761322,
+			"Quantity": {"Min": 0,"Max": 0},
+			"Health": [{"Min": 0.454473636945089,"Max": 1,"Zone": ""}],
+			"InventoryAttachments": [],
+			"InventoryCargo": [],
+			"ConstructionPartsBuilt": [],
+			"Sets": []
+		},
+		{
+			"ClassName": "Chips",
+			"Include": "",
+			"Chance": 0.091001727437973,
+			"Quantity": {"Min": 0,"Max": 0},
+			"Health": [{"Min": 0.487381321589152,"Max": 1,"Zone": ""}],
+			"InventoryAttachments": [],
+			"InventoryCargo": [],
+			"ConstructionPartsBuilt": [],
+			"Sets": []
+		},
+		{
+			"ClassName": "Carp",
+			"Include": "",
+			"Chance": 0.101019438362122,
+			"Quantity": {"Min": 0,"Max": 0},
+			"Health": [{"Min": 0.599588138262431,"Max": 1,"Zone": ""}],
+			"InventoryAttachments": [],
+			"InventoryCargo": [],
+			"ConstructionPartsBuilt": [],
+			"Sets": []
+		},
+		{
+			"ClassName": "Sardines",
+			"Include": "",
+			"Chance": 0.026654633140564,
+			"Quantity": {"Min": 0,"Max": 0},
+			"Health": [{"Min": 0.407324177424113,"Max": 1,"Zone": ""}],
+			"InventoryAttachments": [],
+			"InventoryCargo": [],
+			"ConstructionPartsBuilt": [],
+			"Sets": []
+		},
+		{
+			"ClassName": "Ammo_12gaPellets",
+			"Include": "",
+			"Chance": 0.073652490234375,
+			"Quantity": {"Min": 0,"Max": 0},
+			"Health": [{"Min": 0.303207618395487,"Max": 1,"Zone": ""}],
+			"InventoryAttachments": [],
+			"InventoryCargo": [],
+			"ConstructionPartsBuilt": [],
+			"Sets": []
+		},
+		{
+			"ClassName": "Sickle",
+			"Include": "",
+			"Chance": 0.062566646194458,
+			"Quantity": {"Min": 0,"Max": 0},
+			"Health": [{"Min": 0.212363464037577,"Max": 1,"Zone": ""}],
+			"InventoryAttachments": [],
+			"InventoryCargo": [],
+			"ConstructionPartsBuilt": [],
+			"Sets": []
+		},
+		{
+			"ClassName": "GiftBox_Small_3",
+			"Include": "",
+			"Chance": 0.030522652721405,
+			"Quantity": {"Min": 0,"Max": 0},
+			"Health": [{"Min": 0.18657666683197,"Max": 1,"Zone": ""}],
+			"InventoryAttachments": [],
+			"InventoryCargo": [],
+			"ConstructionPartsBuilt": [],
+			"Sets": []
+		},
+		{
+			"ClassName": "Bone",
+			"Include": "",
+			"Chance": 0.049085428571701,
+			"Quantity": {"Min": 0,"Max": 0},
+			"Health": [{"Min": 0.304935000737508,"Max": 1,"Zone": ""}],
+			"InventoryAttachments": [],
+			"InventoryCargo": [],
+			"ConstructionPartsBuilt": [],
+			"Sets": []
+		},
+		{
+			"ClassName": "expBookItem",
+			"Include": "",
+			"Chance": 0.087133707857132,
+			"Quantity": {"Min": 0,"Max": 0},
+			"Health": [{"Min": 0.210636081695557,"Max": 1,"Zone": ""}],
+			"InventoryAttachments": [],
+			"InventoryCargo": [],
+			"ConstructionPartsBuilt": [],
+			"Sets": []
+		},
+		{
+			"ClassName": "dzn_blueprint_lehs",
+			"Include": "",
+			"Chance": 0.070043578004837,
+			"Quantity": {"Min": 0,"Max": 0},
+			"Health": [{"Min": 0.656555237770081,"Max": 1,"Zone": ""}],
+			"InventoryAttachments": [],
+			"InventoryCargo": [],
+			"ConstructionPartsBuilt": [],
+			"Sets": []
+		}
+	],
+    "ConstructionPartsBuilt": [],
+    "Sets": [
+        {
+            "ClassName": "WEAPON",
+            "Include": "",
+            "Chance": 1.0,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+			},
+            "Health": [],
+            "InventoryAttachments": [
+                {
+                    "SlotName": "Shoulder",
+                    "Items": [
+                        {
+                            "ClassName": "AK101",
+                            "Include": "",
+                            "Chance": 1.0,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 0.0
+							},
+                            "Health": [],
+                            "InventoryAttachments": [
+                                {
+                                    "SlotName": "",
+                                    "Items": [
+                                        {
+                                            "ClassName": "Mag_AK101_30Rnd",
+                                            "Include": "",
+                                            "Chance": 1.0,
+                                            "Quantity": {
+                                                "Min": 0.0,
+                                                "Max": 0.0
+											},
+                                            "Health": [],
+                                            "InventoryAttachments": [],
+                                            "InventoryCargo": [],
+                                            "ConstructionPartsBuilt": [],
+                                            "Sets": []
+										},
+                                        {
+                                            "ClassName": "AK_PlasticBttstck",
+                                            "Include": "",
+                                            "Chance": 0.30000001192092898,
+                                            "Quantity": {
+                                                "Min": 0.0,
+                                                "Max": 0.0
+											},
+                                            "Health": [],
+                                            "InventoryAttachments": [],
+                                            "InventoryCargo": [],
+                                            "ConstructionPartsBuilt": [],
+                                            "Sets": []
+										},
+                                        {
+                                            "ClassName": "AK_FoldingBttstck",
+                                            "Include": "",
+                                            "Chance": 0.30000001192092898,
+                                            "Quantity": {
+                                                "Min": 0.0,
+                                                "Max": 0.0
+											},
+                                            "Health": [],
+                                            "InventoryAttachments": [],
+                                            "InventoryCargo": [],
+                                            "ConstructionPartsBuilt": [],
+                                            "Sets": []
+										},
+                                        {
+                                            "ClassName": "AK74_WoodBttstck",
+                                            "Include": "",
+                                            "Chance": 0.10000000149011612,
+                                            "Quantity": {
+                                                "Min": 0.0,
+                                                "Max": 0.0
+											},
+                                            "Health": [],
+                                            "InventoryAttachments": [],
+                                            "InventoryCargo": [],
+                                            "ConstructionPartsBuilt": [],
+                                            "Sets": []
+										},
+                                        {
+                                            "ClassName": "AK_WoodBttstck",
+                                            "Include": "",
+                                            "Chance": 1.0,
+                                            "Quantity": {
+                                                "Min": 0.0,
+                                                "Max": 0.0
+											},
+                                            "Health": [],
+                                            "InventoryAttachments": [],
+                                            "InventoryCargo": [],
+                                            "ConstructionPartsBuilt": [],
+                                            "Sets": []
+										},
+                                        {
+                                            "ClassName": "AK_PlasticHndgrd",
+                                            "Include": "",
+                                            "Chance": 1.0,
+                                            "Quantity": {
+                                                "Min": 0.0,
+                                                "Max": 0.0
+											},
+                                            "Health": [],
+                                            "InventoryAttachments": [],
+                                            "InventoryCargo": [],
+                                            "ConstructionPartsBuilt": [],
+                                            "Sets": []
+										},
+                                        {
+                                            "ClassName": "AK_WoodHndgrd",
+                                            "Include": "",
+                                            "Chance": 1.0,
+                                            "Quantity": {
+                                                "Min": 0.0,
+                                                "Max": 0.0
+											},
+                                            "Health": [],
+                                            "InventoryAttachments": [],
+                                            "InventoryCargo": [],
+                                            "ConstructionPartsBuilt": [],
+                                            "Sets": []
+										},
+                                        {
+                                            "ClassName": "KashtanOptic",
+                                            "Include": "",
+                                            "Chance": 0.10000000149011612,
+                                            "Quantity": {
+                                                "Min": 0.0,
+                                                "Max": 0.0
+											},
+                                            "Health": [],
+                                            "InventoryAttachments": [],
+                                            "InventoryCargo": [],
+                                            "ConstructionPartsBuilt": [],
+                                            "Sets": []
+										},
+                                        {
+                                            "ClassName": "KobraOptic",
+                                            "Include": "",
+                                            "Chance": 0.20000000298023225,
+                                            "Quantity": {
+                                                "Min": 0.0,
+                                                "Max": 0.0
+											},
+                                            "Health": [],
+                                            "InventoryAttachments": [
+                                                {
+                                                    "SlotName": "",
+                                                    "Items": [
+                                                        {
+                                                            "ClassName": "Battery9V",
+                                                            "Include": "",
+                                                            "Chance": 1.0,
+                                                            "Quantity": {
+                                                                "Min": 0.0,
+                                                                "Max": 0.0
+															},
+                                                            "Health": [],
+                                                            "InventoryAttachments": [],
+                                                            "InventoryCargo": [],
+                                                            "ConstructionPartsBuilt": [],
+                                                            "Sets": []
+														}
+													]
+												}
+											],
+                                            "InventoryCargo": [],
+                                            "ConstructionPartsBuilt": [],
+                                            "Sets": []
+										},
+                                        {
+                                            "ClassName": "PSO1Optic",
+                                            "Include": "",
+                                            "Chance": 0.20000000298023225,
+                                            "Quantity": {
+                                                "Min": 0.0,
+                                                "Max": 0.0
+											},
+                                            "Health": [],
+                                            "InventoryAttachments": [
+                                                {
+                                                    "SlotName": "",
+                                                    "Items": [
+                                                        {
+                                                            "ClassName": "Battery9V",
+                                                            "Include": "",
+                                                            "Chance": 1.0,
+                                                            "Quantity": {
+                                                                "Min": 0.0,
+                                                                "Max": 0.0
+															},
+                                                            "Health": [],
+                                                            "InventoryAttachments": [],
+                                                            "InventoryCargo": [],
+                                                            "ConstructionPartsBuilt": [],
+                                                            "Sets": []
+														}
+													]
+												}
+											],
+                                            "InventoryCargo": [],
+                                            "ConstructionPartsBuilt": [],
+                                            "Sets": []
+										}
+									]
+								}
+							],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+						}
+					]
+				}
+			],
+            "InventoryCargo": [
+                {
+                    "ClassName": "Mag_AK101_30Rnd",
+                    "Include": "",
+                    "Chance": 1.0,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+					},
+                    "Health": [],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+				},
+                {
+                    "ClassName": "Mag_AK101_30Rnd",
+                    "Include": "",
+                    "Chance": 0.15000000596046449,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+					},
+                    "Health": [],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+				}
+			],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+		},
+        {
+            "ClassName": "WEAPON",
+            "Include": "",
+            "Chance": 1.0,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+			},
+            "Health": [],
+            "InventoryAttachments": [
+                {
+                    "SlotName": "Shoulder",
+                    "Items": [
+                        {
+                            "ClassName": "AK74",
+                            "Include": "",
+                            "Chance": 1.0,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 0.0
+							},
+                            "Health": [],
+                            "InventoryAttachments": [
+                                {
+                                    "SlotName": "",
+                                    "Items": [
+                                        {
+                                            "ClassName": "Mag_AK74_30Rnd",
+                                            "Include": "",
+                                            "Chance": 1.0,
+                                            "Quantity": {
+                                                "Min": 0.0,
+                                                "Max": 0.0
+											},
+                                            "Health": [],
+                                            "InventoryAttachments": [],
+                                            "InventoryCargo": [],
+                                            "ConstructionPartsBuilt": [],
+                                            "Sets": []
+										},
+                                        {
+                                            "ClassName": "AK_PlasticBttstck",
+                                            "Include": "",
+                                            "Chance": 0.30000001192092898,
+                                            "Quantity": {
+                                                "Min": 0.0,
+                                                "Max": 0.0
+											},
+                                            "Health": [],
+                                            "InventoryAttachments": [],
+                                            "InventoryCargo": [],
+                                            "ConstructionPartsBuilt": [],
+                                            "Sets": []
+										},
+                                        {
+                                            "ClassName": "AK_FoldingBttstck",
+                                            "Include": "",
+                                            "Chance": 0.30000001192092898,
+                                            "Quantity": {
+                                                "Min": 0.0,
+                                                "Max": 0.0
+											},
+                                            "Health": [],
+                                            "InventoryAttachments": [],
+                                            "InventoryCargo": [],
+                                            "ConstructionPartsBuilt": [],
+                                            "Sets": []
+										},
+                                        {
+                                            "ClassName": "AK74_WoodBttstck",
+                                            "Include": "",
+                                            "Chance": 0.10000000149011612,
+                                            "Quantity": {
+                                                "Min": 0.0,
+                                                "Max": 0.0
+											},
+                                            "Health": [],
+                                            "InventoryAttachments": [],
+                                            "InventoryCargo": [],
+                                            "ConstructionPartsBuilt": [],
+                                            "Sets": []
+										},
+                                        {
+                                            "ClassName": "AK_WoodBttstck",
+                                            "Include": "",
+                                            "Chance": 1.0,
+                                            "Quantity": {
+                                                "Min": 0.0,
+                                                "Max": 0.0
+											},
+                                            "Health": [],
+                                            "InventoryAttachments": [],
+                                            "InventoryCargo": [],
+                                            "ConstructionPartsBuilt": [],
+                                            "Sets": []
+										},
+                                        {
+                                            "ClassName": "AK74_Hndgrd",
+                                            "Include": "",
+                                            "Chance": 1.0,
+                                            "Quantity": {
+                                                "Min": 0.0,
+                                                "Max": 0.0
+											},
+                                            "Health": [],
+                                            "InventoryAttachments": [],
+                                            "InventoryCargo": [],
+                                            "ConstructionPartsBuilt": [],
+                                            "Sets": []
+										},
+                                        {
+                                            "ClassName": "AK_PlasticHndgrd",
+                                            "Include": "",
+                                            "Chance": 1.0,
+                                            "Quantity": {
+                                                "Min": 0.0,
+                                                "Max": 0.0
+											},
+                                            "Health": [],
+                                            "InventoryAttachments": [],
+                                            "InventoryCargo": [],
+                                            "ConstructionPartsBuilt": [],
+                                            "Sets": []
+										},
+                                        {
+                                            "ClassName": "AK_WoodHndgrd",
+                                            "Include": "",
+                                            "Chance": 1.0,
+                                            "Quantity": {
+                                                "Min": 0.0,
+                                                "Max": 0.0
+											},
+                                            "Health": [],
+                                            "InventoryAttachments": [],
+                                            "InventoryCargo": [],
+                                            "ConstructionPartsBuilt": [],
+                                            "Sets": []
+										},
+                                        {
+                                            "ClassName": "KashtanOptic",
+                                            "Include": "",
+                                            "Chance": 0.10000000149011612,
+                                            "Quantity": {
+                                                "Min": 0.0,
+                                                "Max": 0.0
+											},
+                                            "Health": [],
+                                            "InventoryAttachments": [],
+                                            "InventoryCargo": [],
+                                            "ConstructionPartsBuilt": [],
+                                            "Sets": []
+										},
+                                        {
+                                            "ClassName": "KobraOptic",
+                                            "Include": "",
+                                            "Chance": 0.20000000298023225,
+                                            "Quantity": {
+                                                "Min": 0.0,
+                                                "Max": 0.0
+											},
+                                            "Health": [],
+                                            "InventoryAttachments": [
+                                                {
+                                                    "SlotName": "",
+                                                    "Items": [
+                                                        {
+                                                            "ClassName": "Battery9V",
+                                                            "Include": "",
+                                                            "Chance": 1.0,
+                                                            "Quantity": {
+                                                                "Min": 0.0,
+                                                                "Max": 0.0
+															},
+                                                            "Health": [],
+                                                            "InventoryAttachments": [],
+                                                            "InventoryCargo": [],
+                                                            "ConstructionPartsBuilt": [],
+                                                            "Sets": []
+														}
+													]
+												}
+											],
+                                            "InventoryCargo": [],
+                                            "ConstructionPartsBuilt": [],
+                                            "Sets": []
+										},
+                                        {
+                                            "ClassName": "PSO1Optic",
+                                            "Include": "",
+                                            "Chance": 0.20000000298023225,
+                                            "Quantity": {
+                                                "Min": 0.0,
+                                                "Max": 0.0
+											},
+                                            "Health": [],
+                                            "InventoryAttachments": [
+                                                {
+                                                    "SlotName": "",
+                                                    "Items": [
+                                                        {
+                                                            "ClassName": "Battery9V",
+                                                            "Include": "",
+                                                            "Chance": 1.0,
+                                                            "Quantity": {
+                                                                "Min": 0.0,
+                                                                "Max": 0.0
+															},
+                                                            "Health": [],
+                                                            "InventoryAttachments": [],
+                                                            "InventoryCargo": [],
+                                                            "ConstructionPartsBuilt": [],
+                                                            "Sets": []
+														}
+													]
+												}
+											],
+                                            "InventoryCargo": [],
+                                            "ConstructionPartsBuilt": [],
+                                            "Sets": []
+										}
+									]
+								}
+							],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+						}
+					]
+				}
+			],
+            "InventoryCargo": [
+                {
+                    "ClassName": "Mag_AK74_30Rnd",
+                    "Include": "",
+                    "Chance": 1.0,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+					},
+                    "Health": [],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+				},
+                {
+                    "ClassName": "Mag_AK74_30Rnd",
+                    "Include": "",
+                    "Chance": 0.15000000596046449,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+					},
+                    "Health": [],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+				}
+			],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+		},
+        {
+            "ClassName": "WEAPON",
+            "Include": "",
+            "Chance": 1.0,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+			},
+            "Health": [],
+            "InventoryAttachments": [
+                {
+                    "SlotName": "Shoulder",
+                    "Items": [
+                        {
+                            "ClassName": "AKS74U",
+                            "Include": "",
+                            "Chance": 1.0,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 0.0
+							},
+                            "Health": [],
+                            "InventoryAttachments": [
+                                {
+                                    "SlotName": "",
+                                    "Items": [
+                                        {
+                                            "ClassName": "Mag_AK74_30Rnd",
+                                            "Include": "",
+                                            "Chance": 1.0,
+                                            "Quantity": {
+                                                "Min": 0.0,
+                                                "Max": 0.0
+											},
+                                            "Health": [],
+                                            "InventoryAttachments": [],
+                                            "InventoryCargo": [],
+                                            "ConstructionPartsBuilt": [],
+                                            "Sets": []
+										},
+                                        {
+                                            "ClassName": "AKS74U_Bttstck",
+                                            "Include": "",
+                                            "Chance": 1.0,
+                                            "Quantity": {
+                                                "Min": 0.0,
+                                                "Max": 0.0
+											},
+                                            "Health": [],
+                                            "InventoryAttachments": [],
+                                            "InventoryCargo": [],
+                                            "ConstructionPartsBuilt": [],
+                                            "Sets": []
+										},
+                                        {
+                                            "ClassName": "KobraOptic",
+                                            "Include": "",
+                                            "Chance": 0.10000000149011612,
+                                            "Quantity": {
+                                                "Min": 0.0,
+                                                "Max": 0.0
+											},
+                                            "Health": [],
+                                            "InventoryAttachments": [
+                                                {
+                                                    "SlotName": "",
+                                                    "Items": [
+                                                        {
+                                                            "ClassName": "Battery9V",
+                                                            "Include": "",
+                                                            "Chance": 1.0,
+                                                            "Quantity": {
+                                                                "Min": 0.0,
+                                                                "Max": 0.0
+															},
+                                                            "Health": [],
+                                                            "InventoryAttachments": [],
+                                                            "InventoryCargo": [],
+                                                            "ConstructionPartsBuilt": [],
+                                                            "Sets": []
+														}
+													]
+												}
+											],
+                                            "InventoryCargo": [],
+                                            "ConstructionPartsBuilt": [],
+                                            "Sets": []
+										}
+									]
+								}
+							],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+						}
+					]
+				}
+			],
+            "InventoryCargo": [
+                {
+                    "ClassName": "Mag_AK74_30Rnd",
+                    "Include": "",
+                    "Chance": 1.0,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+					},
+                    "Health": [],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+				},
+                {
+                    "ClassName": "Mag_AK74_30Rnd",
+                    "Include": "",
+                    "Chance": 0.15000000596046449,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+					},
+                    "Health": [],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+				}
+			],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+		},
+        {
+            "ClassName": "WEAPON",
+            "Include": "",
+            "Chance": 1.0,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+			},
+            "Health": [],
+            "InventoryAttachments": [
+                {
+                    "SlotName": "Shoulder",
+                    "Items": [
+                        {
+                            "ClassName": "AKM",
+                            "Include": "",
+                            "Chance": 1.0,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 0.0
+							},
+                            "Health": [],
+                            "InventoryAttachments": [
+                                {
+                                    "SlotName": "",
+                                    "Items": [
+                                        {
+                                            "ClassName": "Mag_AKM_30Rnd",
+                                            "Include": "",
+                                            "Chance": 0.8999999761581421,
+                                            "Quantity": {
+                                                "Min": 0.0,
+                                                "Max": 0.0
+											},
+                                            "Health": [],
+                                            "InventoryAttachments": [],
+                                            "InventoryCargo": [],
+                                            "ConstructionPartsBuilt": [],
+                                            "Sets": []
+										},
+                                        {
+                                            "ClassName": "Mag_AKM_Drum75Rnd",
+                                            "Include": "",
+                                            "Chance": 0.10000000149011612,
+                                            "Quantity": {
+                                                "Min": 0.0,
+                                                "Max": 0.0
+											},
+                                            "Health": [],
+                                            "InventoryAttachments": [],
+                                            "InventoryCargo": [],
+                                            "ConstructionPartsBuilt": [],
+                                            "Sets": []
+										},
+                                        {
+                                            "ClassName": "AK_PlasticBttstck",
+                                            "Include": "",
+                                            "Chance": 0.30000001192092898,
+                                            "Quantity": {
+                                                "Min": 0.0,
+                                                "Max": 0.0
+											},
+                                            "Health": [],
+                                            "InventoryAttachments": [],
+                                            "InventoryCargo": [],
+                                            "ConstructionPartsBuilt": [],
+                                            "Sets": []
+										},
+                                        {
+                                            "ClassName": "AK_FoldingBttstck",
+                                            "Include": "",
+                                            "Chance": 0.30000001192092898,
+                                            "Quantity": {
+                                                "Min": 0.0,
+                                                "Max": 0.0
+											},
+                                            "Health": [],
+                                            "InventoryAttachments": [],
+                                            "InventoryCargo": [],
+                                            "ConstructionPartsBuilt": [],
+                                            "Sets": []
+										},
+                                        {
+                                            "ClassName": "AK74_WoodBttstck",
+                                            "Include": "",
+                                            "Chance": 0.10000000149011612,
+                                            "Quantity": {
+                                                "Min": 0.0,
+                                                "Max": 0.0
+											},
+                                            "Health": [],
+                                            "InventoryAttachments": [],
+                                            "InventoryCargo": [],
+                                            "ConstructionPartsBuilt": [],
+                                            "Sets": []
+										},
+                                        {
+                                            "ClassName": "AK_WoodBttstck",
+                                            "Include": "",
+                                            "Chance": 1.0,
+                                            "Quantity": {
+                                                "Min": 0.0,
+                                                "Max": 0.0
+											},
+                                            "Health": [],
+                                            "InventoryAttachments": [],
+                                            "InventoryCargo": [],
+                                            "ConstructionPartsBuilt": [],
+                                            "Sets": []
+										},
+                                        {
+                                            "ClassName": "AK_PlasticHndgrd",
+                                            "Include": "",
+                                            "Chance": 1.0,
+                                            "Quantity": {
+                                                "Min": 0.0,
+                                                "Max": 0.0
+											},
+                                            "Health": [],
+                                            "InventoryAttachments": [],
+                                            "InventoryCargo": [],
+                                            "ConstructionPartsBuilt": [],
+                                            "Sets": []
+										},
+                                        {
+                                            "ClassName": "AK_WoodHndgrd",
+                                            "Include": "",
+                                            "Chance": 1.0,
+                                            "Quantity": {
+                                                "Min": 0.0,
+                                                "Max": 0.0
+											},
+                                            "Health": [],
+                                            "InventoryAttachments": [],
+                                            "InventoryCargo": [],
+                                            "ConstructionPartsBuilt": [],
+                                            "Sets": []
+										},
+                                        {
+                                            "ClassName": "KashtanOptic",
+                                            "Include": "",
+                                            "Chance": 0.10000000149011612,
+                                            "Quantity": {
+                                                "Min": 0.0,
+                                                "Max": 0.0
+											},
+                                            "Health": [],
+                                            "InventoryAttachments": [],
+                                            "InventoryCargo": [],
+                                            "ConstructionPartsBuilt": [],
+                                            "Sets": []
+										},
+                                        {
+                                            "ClassName": "KobraOptic",
+                                            "Include": "",
+                                            "Chance": 0.20000000298023225,
+                                            "Quantity": {
+                                                "Min": 0.0,
+                                                "Max": 0.0
+											},
+                                            "Health": [],
+                                            "InventoryAttachments": [
+                                                {
+                                                    "SlotName": "",
+                                                    "Items": [
+                                                        {
+                                                            "ClassName": "Battery9V",
+                                                            "Include": "",
+                                                            "Chance": 1.0,
+                                                            "Quantity": {
+                                                                "Min": 0.0,
+                                                                "Max": 0.0
+															},
+                                                            "Health": [],
+                                                            "InventoryAttachments": [],
+                                                            "InventoryCargo": [],
+                                                            "ConstructionPartsBuilt": [],
+                                                            "Sets": []
+														}
+													]
+												}
+											],
+                                            "InventoryCargo": [],
+                                            "ConstructionPartsBuilt": [],
+                                            "Sets": []
+										},
+                                        {
+                                            "ClassName": "PSO1Optic",
+                                            "Include": "",
+                                            "Chance": 0.20000000298023225,
+                                            "Quantity": {
+                                                "Min": 0.0,
+                                                "Max": 0.0
+											},
+                                            "Health": [],
+                                            "InventoryAttachments": [
+                                                {
+                                                    "SlotName": "",
+                                                    "Items": [
+                                                        {
+                                                            "ClassName": "Battery9V",
+                                                            "Include": "",
+                                                            "Chance": 1.0,
+                                                            "Quantity": {
+                                                                "Min": 0.0,
+                                                                "Max": 0.0
+															},
+                                                            "Health": [],
+                                                            "InventoryAttachments": [],
+                                                            "InventoryCargo": [],
+                                                            "ConstructionPartsBuilt": [],
+                                                            "Sets": []
+														}
+													]
+												}
+											],
+                                            "InventoryCargo": [],
+                                            "ConstructionPartsBuilt": [],
+                                            "Sets": []
+										}
+									]
+								}
+							],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+						}
+					]
+				}
+			],
+            "InventoryCargo": [
+                {
+                    "ClassName": "Mag_AKM_30Rnd",
+                    "Include": "",
+                    "Chance": 1.0,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+					},
+                    "Health": [],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+				},
+                {
+                    "ClassName": "Mag_AKM_30Rnd",
+                    "Include": "",
+                    "Chance": 0.15000000596046449,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+					},
+                    "Health": [],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+				}
+			],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+		},
+        {
+            "ClassName": "WEAPON",
+            "Include": "",
+            "Chance": 1.0,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+			},
+            "Health": [],
+            "InventoryAttachments": [
+                {
+                    "SlotName": "Shoulder",
+                    "Items": [
+                        {
+                            "ClassName": "SVD",
+                            "Include": "",
+                            "Chance": 1.0,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 0.0
+							},
+                            "Health": [],
+                            "InventoryAttachments": [
+                                {
+                                    "SlotName": "",
+                                    "Items": [
+                                        {
+                                            "ClassName": "Mag_SVD_10Rnd",
+                                            "Include": "",
+                                            "Chance": 1.0,
+                                            "Quantity": {
+                                                "Min": 0.0,
+                                                "Max": 0.0
+											},
+                                            "Health": [],
+                                            "InventoryAttachments": [],
+                                            "InventoryCargo": [],
+                                            "ConstructionPartsBuilt": [],
+                                            "Sets": []
+										},
+                                        {
+                                            "ClassName": "PSO1Optic",
+                                            "Include": "",
+                                            "Chance": 0.20000000298023225,
+                                            "Quantity": {
+                                                "Min": 0.0,
+                                                "Max": 0.0
+											},
+                                            "Health": [],
+                                            "InventoryAttachments": [
+                                                {
+                                                    "SlotName": "",
+                                                    "Items": [
+                                                        {
+                                                            "ClassName": "Battery9V",
+                                                            "Include": "",
+                                                            "Chance": 1.0,
+                                                            "Quantity": {
+                                                                "Min": 0.0,
+                                                                "Max": 0.0
+															},
+                                                            "Health": [],
+                                                            "InventoryAttachments": [],
+                                                            "InventoryCargo": [],
+                                                            "ConstructionPartsBuilt": [],
+                                                            "Sets": []
+														}
+													]
+												}
+											],
+                                            "InventoryCargo": [],
+                                            "ConstructionPartsBuilt": [],
+                                            "Sets": []
+										}
+									]
+								}
+							],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+						}
+					]
+				}
+			],
+            "InventoryCargo": [
+                {
+                    "ClassName": "Mag_SVD_10Rnd",
+                    "Include": "",
+                    "Chance": 1.0,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+					},
+                    "Health": [],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+				},
+                {
+                    "ClassName": "Mag_SVD_10Rnd",
+                    "Include": "",
+                    "Chance": 0.15000000596046449,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+					},
+                    "Health": [],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+				}
+			],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+		},
+        {
+            "ClassName": "WEAPON",
+            "Include": "",
+            "Chance": 1.0,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+			},
+            "Health": [],
+            "InventoryAttachments": [
+                {
+                    "SlotName": "Shoulder",
+                    "Items": [
+                        {
+                            "ClassName": "PP19",
+                            "Include": "",
+                            "Chance": 1.0,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 0.0
+							},
+                            "Health": [],
+                            "InventoryAttachments": [
+                                {
+                                    "SlotName": "",
+                                    "Items": [
+                                        {
+                                            "ClassName": "Mag_PP19_64Rnd",
+                                            "Include": "",
+                                            "Chance": 1.0,
+                                            "Quantity": {
+                                                "Min": 0.0,
+                                                "Max": 0.0
+											},
+                                            "Health": [],
+                                            "InventoryAttachments": [],
+                                            "InventoryCargo": [],
+                                            "ConstructionPartsBuilt": [],
+                                            "Sets": []
+										},
+                                        {
+                                            "ClassName": "PP19_Bttstck",
+                                            "Include": "",
+                                            "Chance": 1.0,
+                                            "Quantity": {
+                                                "Min": 0.0,
+                                                "Max": 0.0
+											},
+                                            "Health": [],
+                                            "InventoryAttachments": [],
+                                            "InventoryCargo": [],
+                                            "ConstructionPartsBuilt": [],
+                                            "Sets": []
+										},
+                                        {
+                                            "ClassName": "PistolSuppressor",
+                                            "Include": "",
+                                            "Chance": 0.20000000298023225,
+                                            "Quantity": {
+                                                "Min": 0.0,
+                                                "Max": 0.0
+											},
+                                            "Health": [],
+                                            "InventoryAttachments": [],
+                                            "InventoryCargo": [],
+                                            "ConstructionPartsBuilt": [],
+                                            "Sets": []
+										},
+                                        {
+                                            "ClassName": "KobraOptic",
+                                            "Include": "",
+                                            "Chance": 0.20000000298023225,
+                                            "Quantity": {
+                                                "Min": 0.0,
+                                                "Max": 0.0
+											},
+                                            "Health": [],
+                                            "InventoryAttachments": [
+                                                {
+                                                    "SlotName": "",
+                                                    "Items": [
+                                                        {
+                                                            "ClassName": "Battery9V",
+                                                            "Include": "",
+                                                            "Chance": 1.0,
+                                                            "Quantity": {
+                                                                "Min": 0.0,
+                                                                "Max": 0.0
+															},
+                                                            "Health": [],
+                                                            "InventoryAttachments": [],
+                                                            "InventoryCargo": [],
+                                                            "ConstructionPartsBuilt": [],
+                                                            "Sets": []
+														}
+													]
+												}
+											],
+                                            "InventoryCargo": [],
+                                            "ConstructionPartsBuilt": [],
+                                            "Sets": []
+										}
+									]
+								}
+							],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+						}
+					]
+				}
+			],
+            "InventoryCargo": [
+                {
+                    "ClassName": "Mag_PP19_64Rnd",
+                    "Include": "",
+                    "Chance": 1.0,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+					},
+                    "Health": [],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+				},
+                {
+                    "ClassName": "Mag_PP19_64Rnd",
+                    "Include": "",
+                    "Chance": 0.15000000596046449,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+					},
+                    "Health": [],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+				}
+			],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+		},
+        {
+            "ClassName": "WEAPON",
+            "Include": "",
+            "Chance": 1.0,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+			},
+            "Health": [],
+            "InventoryAttachments": [
+                {
+                    "SlotName": "Shoulder",
+                    "Items": [
+                        {
+                            "ClassName": "FAL",
+                            "Include": "",
+                            "Chance": 1.0,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 0.0
+							},
+                            "Health": [],
+                            "InventoryAttachments": [
+                                {
+                                    "SlotName": "",
+                                    "Items": [
+                                        {
+                                            "ClassName": "Mag_FAL_20Rnd",
+                                            "Include": "",
+                                            "Chance": 1.0,
+                                            "Quantity": {
+                                                "Min": 0.0,
+                                                "Max": 0.0
+											},
+                                            "Health": [],
+                                            "InventoryAttachments": [],
+                                            "InventoryCargo": [],
+                                            "ConstructionPartsBuilt": [],
+                                            "Sets": []
+										},
+                                        {
+                                            "ClassName": "Fal_FoldingBttstck",
+                                            "Include": "",
+                                            "Chance": 0.5,
+                                            "Quantity": {
+                                                "Min": 0.0,
+                                                "Max": 0.0
+											},
+                                            "Health": [],
+                                            "InventoryAttachments": [],
+                                            "InventoryCargo": [],
+                                            "ConstructionPartsBuilt": [],
+                                            "Sets": []
+										},
+                                        {
+                                            "ClassName": "Fal_OeBttstck",
+                                            "Include": "",
+                                            "Chance": 1.0,
+                                            "Quantity": {
+                                                "Min": 0.0,
+                                                "Max": 0.0
+											},
+                                            "Health": [],
+                                            "InventoryAttachments": [],
+                                            "InventoryCargo": [],
+                                            "ConstructionPartsBuilt": [],
+                                            "Sets": []
+										},
+                                        {
+                                            "ClassName": "ACOGOptic",
+                                            "Include": "",
+                                            "Chance": 0.20000000298023225,
+                                            "Quantity": {
+                                                "Min": 0.0,
+                                                "Max": 0.0
+											},
+                                            "Health": [],
+                                            "InventoryAttachments": [],
+                                            "InventoryCargo": [],
+                                            "ConstructionPartsBuilt": [],
+                                            "Sets": []
+										},
+                                        {
+                                            "ClassName": "ReflexOptic",
+                                            "Include": "",
+                                            "Chance": 0.20000000298023225,
+                                            "Quantity": {
+                                                "Min": 0.0,
+                                                "Max": 0.0
+											},
+                                            "Health": [],
+                                            "InventoryAttachments": [
+                                                {
+                                                    "SlotName": "",
+                                                    "Items": [
+                                                        {
+                                                            "ClassName": "Battery9V",
+                                                            "Include": "",
+                                                            "Chance": 1.0,
+                                                            "Quantity": {
+                                                                "Min": 0.0,
+                                                                "Max": 0.0
+															},
+                                                            "Health": [],
+                                                            "InventoryAttachments": [],
+                                                            "InventoryCargo": [],
+                                                            "ConstructionPartsBuilt": [],
+                                                            "Sets": []
+														}
+													]
+												}
+											],
+                                            "InventoryCargo": [],
+                                            "ConstructionPartsBuilt": [],
+                                            "Sets": []
+										}
+									]
+								}
+							],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+						}
+					]
+				}
+			],
+            "InventoryCargo": [
+                {
+                    "ClassName": "Mag_FAL_20Rnd",
+                    "Include": "",
+                    "Chance": 1.0,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+					},
+                    "Health": [],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+				},
+                {
+                    "ClassName": "Mag_FAL_20Rnd",
+                    "Include": "",
+                    "Chance": 0.15000000596046449,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+					},
+                    "Health": [],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+				}
+			],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+		}
+	]
+}
