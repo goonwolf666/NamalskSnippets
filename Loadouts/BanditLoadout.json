@@ -97,7 +97,7 @@
 						{
 							"ClassName": "dzn_printer_filament_abs",
 							"Include": "",
-							"Chance": 0.056829728937149,
+							"Chance": 0.146829728937149,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.105605227152507,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -119,7 +119,7 @@
 						{
 							"ClassName": "Sickle",
 							"Include": "",
-							"Chance": 0.023313089466095,
+							"Chance": 0.123313089466095,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.463376981417338,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -217,7 +217,7 @@
 						{
 							"ClassName": "dzn_printer_filament_abs",
 							"Include": "",
-							"Chance": 0.056829728937149,
+							"Chance": 0.146829728937149,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.105605227152507,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -239,7 +239,7 @@
 						{
 							"ClassName": "Sickle",
 							"Include": "",
-							"Chance": 0.023313089466095,
+							"Chance": 0.123313089466095,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.463376981417338,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -337,7 +337,7 @@
 						{
 							"ClassName": "dzn_printer_filament_abs",
 							"Include": "",
-							"Chance": 0.056829728937149,
+							"Chance": 0.146829728937149,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.105605227152507,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -359,7 +359,7 @@
 						{
 							"ClassName": "Sickle",
 							"Include": "",
-							"Chance": 0.023313089466095,
+							"Chance": 0.123313089466095,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.463376981417338,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -457,7 +457,7 @@
 						{
 							"ClassName": "dzn_printer_filament_abs",
 							"Include": "",
-							"Chance": 0.056829728937149,
+							"Chance": 0.146829728937149,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.105605227152507,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -479,7 +479,7 @@
 						{
 							"ClassName": "Sickle",
 							"Include": "",
-							"Chance": 0.023313089466095,
+							"Chance": 0.123313089466095,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.463376981417338,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -577,7 +577,7 @@
 						{
 							"ClassName": "dzn_printer_filament_abs",
 							"Include": "",
-							"Chance": 0.056829728937149,
+							"Chance": 0.146829728937149,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.105605227152507,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -599,7 +599,7 @@
 						{
 							"ClassName": "Sickle",
 							"Include": "",
-							"Chance": 0.023313089466095,
+							"Chance": 0.123313089466095,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.463376981417338,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -697,7 +697,7 @@
 						{
 							"ClassName": "dzn_printer_filament_abs",
 							"Include": "",
-							"Chance": 0.056829728937149,
+							"Chance": 0.146829728937149,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.105605227152507,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -719,7 +719,7 @@
 						{
 							"ClassName": "Sickle",
 							"Include": "",
-							"Chance": 0.023313089466095,
+							"Chance": 0.123313089466095,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.463376981417338,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -817,7 +817,7 @@
 						{
 							"ClassName": "dzn_printer_filament_abs",
 							"Include": "",
-							"Chance": 0.056829728937149,
+							"Chance": 0.146829728937149,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.105605227152507,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -839,7 +839,7 @@
 						{
 							"ClassName": "Sickle",
 							"Include": "",
-							"Chance": 0.023313089466095,
+							"Chance": 0.123313089466095,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.463376981417338,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -937,7 +937,7 @@
 						{
 							"ClassName": "dzn_printer_filament_abs",
 							"Include": "",
-							"Chance": 0.056829728937149,
+							"Chance": 0.146829728937149,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.105605227152507,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -959,7 +959,7 @@
 						{
 							"ClassName": "Sickle",
 							"Include": "",
-							"Chance": 0.023313089466095,
+							"Chance": 0.123313089466095,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.463376981417338,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -1057,7 +1057,7 @@
 						{
 							"ClassName": "dzn_printer_filament_abs",
 							"Include": "",
-							"Chance": 0.056829728937149,
+							"Chance": 0.146829728937149,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.105605227152507,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -1079,7 +1079,7 @@
 						{
 							"ClassName": "Sickle",
 							"Include": "",
-							"Chance": 0.023313089466095,
+							"Chance": 0.123313089466095,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.463376981417338,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -1177,7 +1177,7 @@
 						{
 							"ClassName": "dzn_printer_filament_abs",
 							"Include": "",
-							"Chance": 0.056829728937149,
+							"Chance": 0.146829728937149,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.105605227152507,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -1199,7 +1199,7 @@
 						{
 							"ClassName": "Sickle",
 							"Include": "",
-							"Chance": 0.023313089466095,
+							"Chance": 0.123313089466095,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.463376981417338,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -1297,7 +1297,7 @@
 						{
 							"ClassName": "dzn_printer_filament_abs",
 							"Include": "",
-							"Chance": 0.056829728937149,
+							"Chance": 0.146829728937149,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.105605227152507,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -1319,7 +1319,7 @@
 						{
 							"ClassName": "Sickle",
 							"Include": "",
-							"Chance": 0.023313089466095,
+							"Chance": 0.123313089466095,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.463376981417338,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -1417,7 +1417,7 @@
 						{
 							"ClassName": "dzn_printer_filament_abs",
 							"Include": "",
-							"Chance": 0.056829728937149,
+							"Chance": 0.146829728937149,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.105605227152507,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -1439,7 +1439,7 @@
 						{
 							"ClassName": "Sickle",
 							"Include": "",
-							"Chance": 0.023313089466095,
+							"Chance": 0.123313089466095,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.463376981417338,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -1537,7 +1537,7 @@
 						{
 							"ClassName": "dzn_printer_filament_abs",
 							"Include": "",
-							"Chance": 0.056829728937149,
+							"Chance": 0.146829728937149,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.105605227152507,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -1559,7 +1559,7 @@
 						{
 							"ClassName": "Sickle",
 							"Include": "",
-							"Chance": 0.023313089466095,
+							"Chance": 0.123313089466095,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.463376981417338,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -1657,7 +1657,7 @@
 						{
 							"ClassName": "dzn_printer_filament_abs",
 							"Include": "",
-							"Chance": 0.056829728937149,
+							"Chance": 0.146829728937149,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.105605227152507,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -1679,7 +1679,7 @@
 						{
 							"ClassName": "Sickle",
 							"Include": "",
-							"Chance": 0.023313089466095,
+							"Chance": 0.123313089466095,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.463376981417338,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -1777,7 +1777,7 @@
 						{
 							"ClassName": "dzn_printer_filament_abs",
 							"Include": "",
-							"Chance": 0.056829728937149,
+							"Chance": 0.146829728937149,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.105605227152507,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -1799,7 +1799,7 @@
 						{
 							"ClassName": "Sickle",
 							"Include": "",
-							"Chance": 0.023313089466095,
+							"Chance": 0.123313089466095,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.463376981417338,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -1897,7 +1897,7 @@
 						{
 							"ClassName": "dzn_printer_filament_abs",
 							"Include": "",
-							"Chance": 0.056829728937149,
+							"Chance": 0.146829728937149,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.105605227152507,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -1919,7 +1919,7 @@
 						{
 							"ClassName": "Sickle",
 							"Include": "",
-							"Chance": 0.023313089466095,
+							"Chance": 0.123313089466095,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.463376981417338,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -2017,7 +2017,7 @@
 						{
 							"ClassName": "dzn_printer_filament_abs",
 							"Include": "",
-							"Chance": 0.056829728937149,
+							"Chance": 0.146829728937149,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.105605227152507,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -2039,7 +2039,7 @@
 						{
 							"ClassName": "Sickle",
 							"Include": "",
-							"Chance": 0.023313089466095,
+							"Chance": 0.123313089466095,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.463376981417338,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -2137,7 +2137,7 @@
 						{
 							"ClassName": "dzn_printer_filament_abs",
 							"Include": "",
-							"Chance": 0.056829728937149,
+							"Chance": 0.146829728937149,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.105605227152507,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -2159,7 +2159,7 @@
 						{
 							"ClassName": "Sickle",
 							"Include": "",
-							"Chance": 0.023313089466095,
+							"Chance": 0.123313089466095,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.463376981417338,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -2191,7 +2191,7 @@
 						{
 							"ClassName": "Ammo_40mm_Smoke_Black",
 							"Include": "",
-							"Chance": 0.023313089466095,
+							"Chance": 0.123313089466095,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.463376981417338,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -2202,7 +2202,7 @@
 						{
 							"ClassName": "M4_Suppressor",
 							"Include": "",
-							"Chance": 0.038266953086853,
+							"Chance": 0.138266953086853,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.164299709002177,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -2268,7 +2268,7 @@
 						{
 							"ClassName": "HeadlightH7_Box",
 							"Include": "",
-							"Chance": 0.030790021276474,
+							"Chance": 0.130790021276474,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.313838345209758,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -2279,7 +2279,7 @@
 						{
 							"ClassName": "Ammo_40mm_Smoke_Red",
 							"Include": "",
-							"Chance": 0.059225102519989,
+							"Chance": 0.149225102519989,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.588856202761332,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -2290,7 +2290,7 @@
 						{
 							"ClassName": "RabbitLegMeat",
 							"Include": "",
-							"Chance": 0.020917715883255,
+							"Chance": 0.120917715883255,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.157178821563721,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -2322,7 +2322,7 @@
 						{
 							"ClassName": "Ammo_40mm_Smoke_Black",
 							"Include": "",
-							"Chance": 0.023313089466095,
+							"Chance": 0.123313089466095,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.463376981417338,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -2333,7 +2333,7 @@
 						{
 							"ClassName": "M4_Suppressor",
 							"Include": "",
-							"Chance": 0.038266953086853,
+							"Chance": 0.138266953086853,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.164299709002177,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -2399,7 +2399,7 @@
 						{
 							"ClassName": "HeadlightH7_Box",
 							"Include": "",
-							"Chance": 0.030790021276474,
+							"Chance": 0.130790021276474,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.313838345209758,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -2410,7 +2410,7 @@
 						{
 							"ClassName": "Ammo_40mm_Smoke_Red",
 							"Include": "",
-							"Chance": 0.059225102519989,
+							"Chance": 0.149225102519989,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.588856202761332,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -2421,7 +2421,7 @@
 						{
 							"ClassName": "RabbitLegMeat",
 							"Include": "",
-							"Chance": 0.020917715883255,
+							"Chance": 0.120917715883255,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.157178821563721,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -2453,7 +2453,7 @@
 						{
 							"ClassName": "Ammo_40mm_Smoke_Black",
 							"Include": "",
-							"Chance": 0.023313089466095,
+							"Chance": 0.123313089466095,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.463376981417338,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -2464,7 +2464,7 @@
 						{
 							"ClassName": "M4_Suppressor",
 							"Include": "",
-							"Chance": 0.038266953086853,
+							"Chance": 0.138266953086853,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.164299709002177,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -2530,7 +2530,7 @@
 						{
 							"ClassName": "HeadlightH7_Box",
 							"Include": "",
-							"Chance": 0.030790021276474,
+							"Chance": 0.130790021276474,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.313838345209758,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -2541,7 +2541,7 @@
 						{
 							"ClassName": "Ammo_40mm_Smoke_Red",
 							"Include": "",
-							"Chance": 0.059225102519989,
+							"Chance": 0.149225102519989,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.588856202761332,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -2552,7 +2552,7 @@
 						{
 							"ClassName": "RabbitLegMeat",
 							"Include": "",
-							"Chance": 0.020917715883255,
+							"Chance": 0.120917715883255,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.157178821563721,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -2584,7 +2584,7 @@
 						{
 							"ClassName": "Ammo_40mm_Smoke_Black",
 							"Include": "",
-							"Chance": 0.023313089466095,
+							"Chance": 0.123313089466095,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.463376981417338,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -2595,7 +2595,7 @@
 						{
 							"ClassName": "M4_Suppressor",
 							"Include": "",
-							"Chance": 0.038266953086853,
+							"Chance": 0.138266953086853,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.164299709002177,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -2661,7 +2661,7 @@
 						{
 							"ClassName": "HeadlightH7_Box",
 							"Include": "",
-							"Chance": 0.030790021276474,
+							"Chance": 0.130790021276474,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.313838345209758,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -2672,7 +2672,7 @@
 						{
 							"ClassName": "Ammo_40mm_Smoke_Red",
 							"Include": "",
-							"Chance": 0.059225102519989,
+							"Chance": 0.149225102519989,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.588856202761332,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -2683,7 +2683,7 @@
 						{
 							"ClassName": "RabbitLegMeat",
 							"Include": "",
-							"Chance": 0.020917715883255,
+							"Chance": 0.120917715883255,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.157178821563721,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -2715,7 +2715,7 @@
 						{
 							"ClassName": "Ammo_40mm_Smoke_Black",
 							"Include": "",
-							"Chance": 0.023313089466095,
+							"Chance": 0.123313089466095,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.463376981417338,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -2726,7 +2726,7 @@
 						{
 							"ClassName": "M4_Suppressor",
 							"Include": "",
-							"Chance": 0.038266953086853,
+							"Chance": 0.138266953086853,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.164299709002177,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -2792,7 +2792,7 @@
 						{
 							"ClassName": "HeadlightH7_Box",
 							"Include": "",
-							"Chance": 0.030790021276474,
+							"Chance": 0.130790021276474,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.313838345209758,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -2803,7 +2803,7 @@
 						{
 							"ClassName": "Ammo_40mm_Smoke_Red",
 							"Include": "",
-							"Chance": 0.059225102519989,
+							"Chance": 0.149225102519989,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.588856202761332,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -2814,7 +2814,7 @@
 						{
 							"ClassName": "RabbitLegMeat",
 							"Include": "",
-							"Chance": 0.020917715883255,
+							"Chance": 0.120917715883255,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.157178821563721,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -2846,7 +2846,7 @@
 						{
 							"ClassName": "Ammo_40mm_Smoke_Black",
 							"Include": "",
-							"Chance": 0.023313089466095,
+							"Chance": 0.123313089466095,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.463376981417338,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -2857,7 +2857,7 @@
 						{
 							"ClassName": "M4_Suppressor",
 							"Include": "",
-							"Chance": 0.038266953086853,
+							"Chance": 0.138266953086853,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.164299709002177,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -2923,7 +2923,7 @@
 						{
 							"ClassName": "HeadlightH7_Box",
 							"Include": "",
-							"Chance": 0.030790021276474,
+							"Chance": 0.130790021276474,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.313838345209758,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -2934,7 +2934,7 @@
 						{
 							"ClassName": "Ammo_40mm_Smoke_Red",
 							"Include": "",
-							"Chance": 0.059225102519989,
+							"Chance": 0.149225102519989,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.588856202761332,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -2945,7 +2945,7 @@
 						{
 							"ClassName": "RabbitLegMeat",
 							"Include": "",
-							"Chance": 0.020917715883255,
+							"Chance": 0.120917715883255,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.157178821563721,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -2977,7 +2977,7 @@
 						{
 							"ClassName": "Ammo_40mm_Smoke_Black",
 							"Include": "",
-							"Chance": 0.023313089466095,
+							"Chance": 0.123313089466095,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.463376981417338,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -2988,7 +2988,7 @@
 						{
 							"ClassName": "M4_Suppressor",
 							"Include": "",
-							"Chance": 0.038266953086853,
+							"Chance": 0.138266953086853,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.164299709002177,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -3054,7 +3054,7 @@
 						{
 							"ClassName": "HeadlightH7_Box",
 							"Include": "",
-							"Chance": 0.030790021276474,
+							"Chance": 0.130790021276474,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.313838345209758,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -3065,7 +3065,7 @@
 						{
 							"ClassName": "Ammo_40mm_Smoke_Red",
 							"Include": "",
-							"Chance": 0.059225102519989,
+							"Chance": 0.149225102519989,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.588856202761332,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -3076,7 +3076,7 @@
 						{
 							"ClassName": "RabbitLegMeat",
 							"Include": "",
-							"Chance": 0.020917715883255,
+							"Chance": 0.120917715883255,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.157178821563721,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -3108,7 +3108,7 @@
 						{
 							"ClassName": "Ammo_40mm_Smoke_Black",
 							"Include": "",
-							"Chance": 0.023313089466095,
+							"Chance": 0.123313089466095,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.463376981417338,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -3119,7 +3119,7 @@
 						{
 							"ClassName": "M4_Suppressor",
 							"Include": "",
-							"Chance": 0.038266953086853,
+							"Chance": 0.138266953086853,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.164299709002177,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -3185,7 +3185,7 @@
 						{
 							"ClassName": "HeadlightH7_Box",
 							"Include": "",
-							"Chance": 0.030790021276474,
+							"Chance": 0.130790021276474,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.313838345209758,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -3196,7 +3196,7 @@
 						{
 							"ClassName": "Ammo_40mm_Smoke_Red",
 							"Include": "",
-							"Chance": 0.059225102519989,
+							"Chance": 0.149225102519989,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.588856202761332,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -3207,7 +3207,7 @@
 						{
 							"ClassName": "RabbitLegMeat",
 							"Include": "",
-							"Chance": 0.020917715883255,
+							"Chance": 0.120917715883255,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.157178821563721,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -3239,7 +3239,7 @@
 						{
 							"ClassName": "Ammo_40mm_Smoke_Black",
 							"Include": "",
-							"Chance": 0.023313089466095,
+							"Chance": 0.123313089466095,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.463376981417338,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -3250,7 +3250,7 @@
 						{
 							"ClassName": "M4_Suppressor",
 							"Include": "",
-							"Chance": 0.038266953086853,
+							"Chance": 0.138266953086853,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.164299709002177,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -3316,7 +3316,7 @@
 						{
 							"ClassName": "HeadlightH7_Box",
 							"Include": "",
-							"Chance": 0.030790021276474,
+							"Chance": 0.130790021276474,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.313838345209758,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -3327,7 +3327,7 @@
 						{
 							"ClassName": "Ammo_40mm_Smoke_Red",
 							"Include": "",
-							"Chance": 0.059225102519989,
+							"Chance": 0.149225102519989,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.588856202761332,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -3338,7 +3338,7 @@
 						{
 							"ClassName": "RabbitLegMeat",
 							"Include": "",
-							"Chance": 0.020917715883255,
+							"Chance": 0.120917715883255,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.157178821563721,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -3370,7 +3370,7 @@
 						{
 							"ClassName": "Ammo_40mm_Smoke_Black",
 							"Include": "",
-							"Chance": 0.023313089466095,
+							"Chance": 0.123313089466095,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.463376981417338,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -3381,7 +3381,7 @@
 						{
 							"ClassName": "M4_Suppressor",
 							"Include": "",
-							"Chance": 0.038266953086853,
+							"Chance": 0.138266953086853,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.164299709002177,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -3447,7 +3447,7 @@
 						{
 							"ClassName": "HeadlightH7_Box",
 							"Include": "",
-							"Chance": 0.030790021276474,
+							"Chance": 0.130790021276474,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.313838345209758,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -3458,7 +3458,7 @@
 						{
 							"ClassName": "Ammo_40mm_Smoke_Red",
 							"Include": "",
-							"Chance": 0.059225102519989,
+							"Chance": 0.149225102519989,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.588856202761332,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -3469,7 +3469,7 @@
 						{
 							"ClassName": "RabbitLegMeat",
 							"Include": "",
-							"Chance": 0.020917715883255,
+							"Chance": 0.120917715883255,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.157178821563721,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -3501,7 +3501,7 @@
 						{
 							"ClassName": "Ammo_40mm_Smoke_Black",
 							"Include": "",
-							"Chance": 0.023313089466095,
+							"Chance": 0.123313089466095,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.463376981417338,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -3512,7 +3512,7 @@
 						{
 							"ClassName": "M4_Suppressor",
 							"Include": "",
-							"Chance": 0.038266953086853,
+							"Chance": 0.138266953086853,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.164299709002177,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -3578,7 +3578,7 @@
 						{
 							"ClassName": "HeadlightH7_Box",
 							"Include": "",
-							"Chance": 0.030790021276474,
+							"Chance": 0.130790021276474,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.313838345209758,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -3589,7 +3589,7 @@
 						{
 							"ClassName": "Ammo_40mm_Smoke_Red",
 							"Include": "",
-							"Chance": 0.059225102519989,
+							"Chance": 0.149225102519989,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.588856202761332,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -3600,7 +3600,7 @@
 						{
 							"ClassName": "RabbitLegMeat",
 							"Include": "",
-							"Chance": 0.020917715883255,
+							"Chance": 0.120917715883255,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.157178821563721,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -3632,7 +3632,7 @@
 						{
 							"ClassName": "Ammo_40mm_Smoke_Black",
 							"Include": "",
-							"Chance": 0.023313089466095,
+							"Chance": 0.123313089466095,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.463376981417338,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -3643,7 +3643,7 @@
 						{
 							"ClassName": "M4_Suppressor",
 							"Include": "",
-							"Chance": 0.038266953086853,
+							"Chance": 0.138266953086853,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.164299709002177,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -3709,7 +3709,7 @@
 						{
 							"ClassName": "HeadlightH7_Box",
 							"Include": "",
-							"Chance": 0.030790021276474,
+							"Chance": 0.130790021276474,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.313838345209758,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -3720,7 +3720,7 @@
 						{
 							"ClassName": "Ammo_40mm_Smoke_Red",
 							"Include": "",
-							"Chance": 0.059225102519989,
+							"Chance": 0.149225102519989,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.588856202761332,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -3731,7 +3731,7 @@
 						{
 							"ClassName": "RabbitLegMeat",
 							"Include": "",
-							"Chance": 0.020917715883255,
+							"Chance": 0.120917715883255,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.157178821563721,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -3763,7 +3763,7 @@
 						{
 							"ClassName": "Ammo_40mm_Smoke_Black",
 							"Include": "",
-							"Chance": 0.023313089466095,
+							"Chance": 0.123313089466095,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.463376981417338,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -3774,7 +3774,7 @@
 						{
 							"ClassName": "M4_Suppressor",
 							"Include": "",
-							"Chance": 0.038266953086853,
+							"Chance": 0.138266953086853,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.164299709002177,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -3840,7 +3840,7 @@
 						{
 							"ClassName": "HeadlightH7_Box",
 							"Include": "",
-							"Chance": 0.030790021276474,
+							"Chance": 0.130790021276474,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.313838345209758,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -3851,7 +3851,7 @@
 						{
 							"ClassName": "Ammo_40mm_Smoke_Red",
 							"Include": "",
-							"Chance": 0.059225102519989,
+							"Chance": 0.149225102519989,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.588856202761332,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -3862,7 +3862,7 @@
 						{
 							"ClassName": "RabbitLegMeat",
 							"Include": "",
-							"Chance": 0.020917715883255,
+							"Chance": 0.120917715883255,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.157178821563721,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -3894,7 +3894,7 @@
 						{
 							"ClassName": "Ammo_40mm_Smoke_Black",
 							"Include": "",
-							"Chance": 0.023313089466095,
+							"Chance": 0.123313089466095,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.463376981417338,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -3905,7 +3905,7 @@
 						{
 							"ClassName": "M4_Suppressor",
 							"Include": "",
-							"Chance": 0.038266953086853,
+							"Chance": 0.138266953086853,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.164299709002177,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -3971,7 +3971,7 @@
 						{
 							"ClassName": "HeadlightH7_Box",
 							"Include": "",
-							"Chance": 0.030790021276474,
+							"Chance": 0.130790021276474,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.313838345209758,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -3982,7 +3982,7 @@
 						{
 							"ClassName": "Ammo_40mm_Smoke_Red",
 							"Include": "",
-							"Chance": 0.059225102519989,
+							"Chance": 0.149225102519989,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.588856202761332,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -3993,7 +3993,7 @@
 						{
 							"ClassName": "RabbitLegMeat",
 							"Include": "",
-							"Chance": 0.020917715883255,
+							"Chance": 0.120917715883255,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.157178821563721,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -4025,7 +4025,7 @@
 						{
 							"ClassName": "Ammo_40mm_Smoke_Black",
 							"Include": "",
-							"Chance": 0.023313089466095,
+							"Chance": 0.123313089466095,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.463376981417338,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -4036,7 +4036,7 @@
 						{
 							"ClassName": "M4_Suppressor",
 							"Include": "",
-							"Chance": 0.038266953086853,
+							"Chance": 0.138266953086853,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.164299709002177,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -4102,7 +4102,7 @@
 						{
 							"ClassName": "HeadlightH7_Box",
 							"Include": "",
-							"Chance": 0.030790021276474,
+							"Chance": 0.130790021276474,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.313838345209758,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -4113,7 +4113,7 @@
 						{
 							"ClassName": "Ammo_40mm_Smoke_Red",
 							"Include": "",
-							"Chance": 0.059225102519989,
+							"Chance": 0.149225102519989,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.588856202761332,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -4124,7 +4124,7 @@
 						{
 							"ClassName": "RabbitLegMeat",
 							"Include": "",
-							"Chance": 0.020917715883255,
+							"Chance": 0.120917715883255,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.157178821563721,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -4156,7 +4156,7 @@
 						{
 							"ClassName": "Ammo_40mm_Smoke_Black",
 							"Include": "",
-							"Chance": 0.023313089466095,
+							"Chance": 0.123313089466095,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.463376981417338,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -4167,7 +4167,7 @@
 						{
 							"ClassName": "M4_Suppressor",
 							"Include": "",
-							"Chance": 0.038266953086853,
+							"Chance": 0.138266953086853,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.164299709002177,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -4233,7 +4233,7 @@
 						{
 							"ClassName": "HeadlightH7_Box",
 							"Include": "",
-							"Chance": 0.030790021276474,
+							"Chance": 0.130790021276474,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.313838345209758,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -4244,7 +4244,7 @@
 						{
 							"ClassName": "Ammo_40mm_Smoke_Red",
 							"Include": "",
-							"Chance": 0.059225102519989,
+							"Chance": 0.149225102519989,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.588856202761332,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -4255,7 +4255,7 @@
 						{
 							"ClassName": "RabbitLegMeat",
 							"Include": "",
-							"Chance": 0.020917715883255,
+							"Chance": 0.120917715883255,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.157178821563721,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -4287,7 +4287,7 @@
 						{
 							"ClassName": "Ammo_40mm_Smoke_Black",
 							"Include": "",
-							"Chance": 0.023313089466095,
+							"Chance": 0.123313089466095,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.463376981417338,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -4298,7 +4298,7 @@
 						{
 							"ClassName": "M4_Suppressor",
 							"Include": "",
-							"Chance": 0.038266953086853,
+							"Chance": 0.138266953086853,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.164299709002177,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -4364,7 +4364,7 @@
 						{
 							"ClassName": "HeadlightH7_Box",
 							"Include": "",
-							"Chance": 0.030790021276474,
+							"Chance": 0.130790021276474,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.313838345209758,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -4375,7 +4375,7 @@
 						{
 							"ClassName": "Ammo_40mm_Smoke_Red",
 							"Include": "",
-							"Chance": 0.059225102519989,
+							"Chance": 0.149225102519989,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.588856202761332,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -4386,7 +4386,7 @@
 						{
 							"ClassName": "RabbitLegMeat",
 							"Include": "",
-							"Chance": 0.020917715883255,
+							"Chance": 0.120917715883255,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.157178821563721,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -4418,7 +4418,7 @@
 						{
 							"ClassName": "Ammo_40mm_Smoke_Black",
 							"Include": "",
-							"Chance": 0.023313089466095,
+							"Chance": 0.123313089466095,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.463376981417338,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -4429,7 +4429,7 @@
 						{
 							"ClassName": "M4_Suppressor",
 							"Include": "",
-							"Chance": 0.038266953086853,
+							"Chance": 0.138266953086853,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.164299709002177,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -4495,7 +4495,7 @@
 						{
 							"ClassName": "HeadlightH7_Box",
 							"Include": "",
-							"Chance": 0.030790021276474,
+							"Chance": 0.130790021276474,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.313838345209758,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -4506,7 +4506,7 @@
 						{
 							"ClassName": "Ammo_40mm_Smoke_Red",
 							"Include": "",
-							"Chance": 0.059225102519989,
+							"Chance": 0.149225102519989,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.588856202761332,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -4517,7 +4517,7 @@
 						{
 							"ClassName": "RabbitLegMeat",
 							"Include": "",
-							"Chance": 0.020917715883255,
+							"Chance": 0.120917715883255,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.157178821563721,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -4554,7 +4554,7 @@
 						{
 							"ClassName": "AmmoBox_545x39_20Rnd",
 							"Include": "",
-							"Chance": 0.020917715883255,
+							"Chance": 0.120917715883255,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.157178821563721,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -4565,7 +4565,7 @@
 						{
 							"ClassName": "FNP45_MRDSOptic",
 							"Include": "",
-							"Chance": 0.05174817070961,
+							"Chance": 0.14174817070961,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.513223193486532,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -4574,7 +4574,7 @@
 							"Sets": []
 						},
 						{
-							"ClassName": "ZenSleep_StimSyringe",
+							"ClassName": "Epinephrine",
 							"Include": "",
 							"Chance": 0.04935279712677,
 							"Quantity": {"Min": 0,"Max": 0},
@@ -4642,7 +4642,7 @@
 						{
 							"ClassName": "Derringer_Grey",
 							"Include": "",
-							"Chance": 0.056829728937149,
+							"Chance": 0.146829728937149,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.105605227152507,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -4685,7 +4685,7 @@
 						{
 							"ClassName": "AmmoBox_545x39_20Rnd",
 							"Include": "",
-							"Chance": 0.020917715883255,
+							"Chance": 0.120917715883255,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.157178821563721,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -4696,7 +4696,7 @@
 						{
 							"ClassName": "FNP45_MRDSOptic",
 							"Include": "",
-							"Chance": 0.05174817070961,
+							"Chance": 0.14174817070961,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.513223193486532,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -4705,7 +4705,7 @@
 							"Sets": []
 						},
 						{
-							"ClassName": "ZenSleep_StimSyringe",
+							"ClassName": "Epinephrine",
 							"Include": "",
 							"Chance": 0.04935279712677,
 							"Quantity": {"Min": 0,"Max": 0},
@@ -4773,7 +4773,7 @@
 						{
 							"ClassName": "Derringer_Grey",
 							"Include": "",
-							"Chance": 0.056829728937149,
+							"Chance": 0.146829728937149,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.105605227152507,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -4816,7 +4816,7 @@
 						{
 							"ClassName": "AmmoBox_545x39_20Rnd",
 							"Include": "",
-							"Chance": 0.020917715883255,
+							"Chance": 0.120917715883255,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.157178821563721,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -4827,7 +4827,7 @@
 						{
 							"ClassName": "FNP45_MRDSOptic",
 							"Include": "",
-							"Chance": 0.05174817070961,
+							"Chance": 0.14174817070961,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.513223193486532,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -4836,7 +4836,7 @@
 							"Sets": []
 						},
 						{
-							"ClassName": "ZenSleep_StimSyringe",
+							"ClassName": "Epinephrine",
 							"Include": "",
 							"Chance": 0.04935279712677,
 							"Quantity": {"Min": 0,"Max": 0},
@@ -4904,7 +4904,7 @@
 						{
 							"ClassName": "Derringer_Grey",
 							"Include": "",
-							"Chance": 0.056829728937149,
+							"Chance": 0.146829728937149,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.105605227152507,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -4947,7 +4947,7 @@
 						{
 							"ClassName": "AmmoBox_545x39_20Rnd",
 							"Include": "",
-							"Chance": 0.020917715883255,
+							"Chance": 0.120917715883255,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.157178821563721,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -4958,7 +4958,7 @@
 						{
 							"ClassName": "FNP45_MRDSOptic",
 							"Include": "",
-							"Chance": 0.05174817070961,
+							"Chance": 0.14174817070961,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.513223193486532,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -4967,7 +4967,7 @@
 							"Sets": []
 						},
 						{
-							"ClassName": "ZenSleep_StimSyringe",
+							"ClassName": "Epinephrine",
 							"Include": "",
 							"Chance": 0.04935279712677,
 							"Quantity": {"Min": 0,"Max": 0},
@@ -5035,7 +5035,7 @@
 						{
 							"ClassName": "Derringer_Grey",
 							"Include": "",
-							"Chance": 0.056829728937149,
+							"Chance": 0.146829728937149,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.105605227152507,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -5078,7 +5078,7 @@
 						{
 							"ClassName": "AmmoBox_545x39_20Rnd",
 							"Include": "",
-							"Chance": 0.020917715883255,
+							"Chance": 0.120917715883255,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.157178821563721,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -5089,7 +5089,7 @@
 						{
 							"ClassName": "FNP45_MRDSOptic",
 							"Include": "",
-							"Chance": 0.05174817070961,
+							"Chance": 0.14174817070961,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.513223193486532,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -5098,7 +5098,7 @@
 							"Sets": []
 						},
 						{
-							"ClassName": "ZenSleep_StimSyringe",
+							"ClassName": "Epinephrine",
 							"Include": "",
 							"Chance": 0.04935279712677,
 							"Quantity": {"Min": 0,"Max": 0},
@@ -5166,7 +5166,7 @@
 						{
 							"ClassName": "Derringer_Grey",
 							"Include": "",
-							"Chance": 0.056829728937149,
+							"Chance": 0.146829728937149,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.105605227152507,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -5209,7 +5209,7 @@
 						{
 							"ClassName": "AmmoBox_545x39_20Rnd",
 							"Include": "",
-							"Chance": 0.020917715883255,
+							"Chance": 0.120917715883255,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.157178821563721,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -5220,7 +5220,7 @@
 						{
 							"ClassName": "FNP45_MRDSOptic",
 							"Include": "",
-							"Chance": 0.05174817070961,
+							"Chance": 0.14174817070961,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.513223193486532,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -5229,7 +5229,7 @@
 							"Sets": []
 						},
 						{
-							"ClassName": "ZenSleep_StimSyringe",
+							"ClassName": "Epinephrine",
 							"Include": "",
 							"Chance": 0.04935279712677,
 							"Quantity": {"Min": 0,"Max": 0},
@@ -5297,7 +5297,7 @@
 						{
 							"ClassName": "Derringer_Grey",
 							"Include": "",
-							"Chance": 0.056829728937149,
+							"Chance": 0.146829728937149,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.105605227152507,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -5340,7 +5340,7 @@
 						{
 							"ClassName": "AmmoBox_545x39_20Rnd",
 							"Include": "",
-							"Chance": 0.020917715883255,
+							"Chance": 0.120917715883255,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.157178821563721,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -5351,7 +5351,7 @@
 						{
 							"ClassName": "FNP45_MRDSOptic",
 							"Include": "",
-							"Chance": 0.05174817070961,
+							"Chance": 0.14174817070961,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.513223193486532,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -5360,7 +5360,7 @@
 							"Sets": []
 						},
 						{
-							"ClassName": "ZenSleep_StimSyringe",
+							"ClassName": "Epinephrine",
 							"Include": "",
 							"Chance": 0.04935279712677,
 							"Quantity": {"Min": 0,"Max": 0},
@@ -5428,7 +5428,7 @@
 						{
 							"ClassName": "Derringer_Grey",
 							"Include": "",
-							"Chance": 0.056829728937149,
+							"Chance": 0.146829728937149,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.105605227152507,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -5471,7 +5471,7 @@
 						{
 							"ClassName": "AmmoBox_545x39_20Rnd",
 							"Include": "",
-							"Chance": 0.020917715883255,
+							"Chance": 0.120917715883255,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.157178821563721,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -5482,7 +5482,7 @@
 						{
 							"ClassName": "FNP45_MRDSOptic",
 							"Include": "",
-							"Chance": 0.05174817070961,
+							"Chance": 0.14174817070961,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.513223193486532,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -5491,7 +5491,7 @@
 							"Sets": []
 						},
 						{
-							"ClassName": "ZenSleep_StimSyringe",
+							"ClassName": "Epinephrine",
 							"Include": "",
 							"Chance": 0.04935279712677,
 							"Quantity": {"Min": 0,"Max": 0},
@@ -5559,7 +5559,7 @@
 						{
 							"ClassName": "Derringer_Grey",
 							"Include": "",
-							"Chance": 0.056829728937149,
+							"Chance": 0.146829728937149,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.105605227152507,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -5602,7 +5602,7 @@
 						{
 							"ClassName": "AmmoBox_545x39_20Rnd",
 							"Include": "",
-							"Chance": 0.020917715883255,
+							"Chance": 0.120917715883255,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.157178821563721,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -5613,7 +5613,7 @@
 						{
 							"ClassName": "FNP45_MRDSOptic",
 							"Include": "",
-							"Chance": 0.05174817070961,
+							"Chance": 0.14174817070961,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.513223193486532,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -5622,7 +5622,7 @@
 							"Sets": []
 						},
 						{
-							"ClassName": "ZenSleep_StimSyringe",
+							"ClassName": "Epinephrine",
 							"Include": "",
 							"Chance": 0.04935279712677,
 							"Quantity": {"Min": 0,"Max": 0},
@@ -5690,7 +5690,7 @@
 						{
 							"ClassName": "Derringer_Grey",
 							"Include": "",
-							"Chance": 0.056829728937149,
+							"Chance": 0.146829728937149,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.105605227152507,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -5733,7 +5733,7 @@
 						{
 							"ClassName": "AmmoBox_545x39_20Rnd",
 							"Include": "",
-							"Chance": 0.020917715883255,
+							"Chance": 0.120917715883255,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.157178821563721,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -5744,7 +5744,7 @@
 						{
 							"ClassName": "FNP45_MRDSOptic",
 							"Include": "",
-							"Chance": 0.05174817070961,
+							"Chance": 0.14174817070961,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.513223193486532,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -5753,7 +5753,7 @@
 							"Sets": []
 						},
 						{
-							"ClassName": "ZenSleep_StimSyringe",
+							"ClassName": "Epinephrine",
 							"Include": "",
 							"Chance": 0.04935279712677,
 							"Quantity": {"Min": 0,"Max": 0},
@@ -5821,7 +5821,7 @@
 						{
 							"ClassName": "Derringer_Grey",
 							"Include": "",
-							"Chance": 0.056829728937149,
+							"Chance": 0.146829728937149,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.105605227152507,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -5864,7 +5864,7 @@
 						{
 							"ClassName": "AmmoBox_545x39_20Rnd",
 							"Include": "",
-							"Chance": 0.020917715883255,
+							"Chance": 0.120917715883255,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.157178821563721,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -5875,7 +5875,7 @@
 						{
 							"ClassName": "FNP45_MRDSOptic",
 							"Include": "",
-							"Chance": 0.05174817070961,
+							"Chance": 0.14174817070961,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.513223193486532,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -5884,7 +5884,7 @@
 							"Sets": []
 						},
 						{
-							"ClassName": "ZenSleep_StimSyringe",
+							"ClassName": "Epinephrine",
 							"Include": "",
 							"Chance": 0.04935279712677,
 							"Quantity": {"Min": 0,"Max": 0},
@@ -5952,7 +5952,7 @@
 						{
 							"ClassName": "Derringer_Grey",
 							"Include": "",
-							"Chance": 0.056829728937149,
+							"Chance": 0.146829728937149,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.105605227152507,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -5995,7 +5995,7 @@
 						{
 							"ClassName": "AmmoBox_545x39_20Rnd",
 							"Include": "",
-							"Chance": 0.020917715883255,
+							"Chance": 0.120917715883255,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.157178821563721,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -6006,7 +6006,7 @@
 						{
 							"ClassName": "FNP45_MRDSOptic",
 							"Include": "",
-							"Chance": 0.05174817070961,
+							"Chance": 0.14174817070961,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.513223193486532,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -6015,7 +6015,7 @@
 							"Sets": []
 						},
 						{
-							"ClassName": "ZenSleep_StimSyringe",
+							"ClassName": "Epinephrine",
 							"Include": "",
 							"Chance": 0.04935279712677,
 							"Quantity": {"Min": 0,"Max": 0},
@@ -6083,7 +6083,7 @@
 						{
 							"ClassName": "Derringer_Grey",
 							"Include": "",
-							"Chance": 0.056829728937149,
+							"Chance": 0.146829728937149,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.105605227152507,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -6126,7 +6126,7 @@
 						{
 							"ClassName": "AmmoBox_545x39_20Rnd",
 							"Include": "",
-							"Chance": 0.020917715883255,
+							"Chance": 0.120917715883255,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.157178821563721,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -6137,7 +6137,7 @@
 						{
 							"ClassName": "FNP45_MRDSOptic",
 							"Include": "",
-							"Chance": 0.05174817070961,
+							"Chance": 0.14174817070961,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.513223193486532,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -6146,7 +6146,7 @@
 							"Sets": []
 						},
 						{
-							"ClassName": "ZenSleep_StimSyringe",
+							"ClassName": "Epinephrine",
 							"Include": "",
 							"Chance": 0.04935279712677,
 							"Quantity": {"Min": 0,"Max": 0},
@@ -6214,7 +6214,7 @@
 						{
 							"ClassName": "Derringer_Grey",
 							"Include": "",
-							"Chance": 0.056829728937149,
+							"Chance": 0.146829728937149,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.105605227152507,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -6257,7 +6257,7 @@
 						{
 							"ClassName": "AmmoBox_545x39_20Rnd",
 							"Include": "",
-							"Chance": 0.020917715883255,
+							"Chance": 0.120917715883255,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.157178821563721,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -6268,7 +6268,7 @@
 						{
 							"ClassName": "FNP45_MRDSOptic",
 							"Include": "",
-							"Chance": 0.05174817070961,
+							"Chance": 0.14174817070961,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.513223193486532,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -6277,7 +6277,7 @@
 							"Sets": []
 						},
 						{
-							"ClassName": "ZenSleep_StimSyringe",
+							"ClassName": "Epinephrine",
 							"Include": "",
 							"Chance": 0.04935279712677,
 							"Quantity": {"Min": 0,"Max": 0},
@@ -6345,7 +6345,7 @@
 						{
 							"ClassName": "Derringer_Grey",
 							"Include": "",
-							"Chance": 0.056829728937149,
+							"Chance": 0.146829728937149,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.105605227152507,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -6388,7 +6388,7 @@
 						{
 							"ClassName": "AmmoBox_545x39_20Rnd",
 							"Include": "",
-							"Chance": 0.020917715883255,
+							"Chance": 0.120917715883255,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.157178821563721,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -6399,7 +6399,7 @@
 						{
 							"ClassName": "FNP45_MRDSOptic",
 							"Include": "",
-							"Chance": 0.05174817070961,
+							"Chance": 0.14174817070961,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.513223193486532,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -6408,7 +6408,7 @@
 							"Sets": []
 						},
 						{
-							"ClassName": "ZenSleep_StimSyringe",
+							"ClassName": "Epinephrine",
 							"Include": "",
 							"Chance": 0.04935279712677,
 							"Quantity": {"Min": 0,"Max": 0},
@@ -6476,7 +6476,7 @@
 						{
 							"ClassName": "Derringer_Grey",
 							"Include": "",
-							"Chance": 0.056829728937149,
+							"Chance": 0.146829728937149,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.105605227152507,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -6519,7 +6519,7 @@
 						{
 							"ClassName": "AmmoBox_545x39_20Rnd",
 							"Include": "",
-							"Chance": 0.020917715883255,
+							"Chance": 0.120917715883255,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.157178821563721,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -6530,7 +6530,7 @@
 						{
 							"ClassName": "FNP45_MRDSOptic",
 							"Include": "",
-							"Chance": 0.05174817070961,
+							"Chance": 0.14174817070961,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.513223193486532,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -6539,7 +6539,7 @@
 							"Sets": []
 						},
 						{
-							"ClassName": "ZenSleep_StimSyringe",
+							"ClassName": "Epinephrine",
 							"Include": "",
 							"Chance": 0.04935279712677,
 							"Quantity": {"Min": 0,"Max": 0},
@@ -6607,7 +6607,7 @@
 						{
 							"ClassName": "Derringer_Grey",
 							"Include": "",
-							"Chance": 0.056829728937149,
+							"Chance": 0.146829728937149,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.105605227152507,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -6650,7 +6650,7 @@
 						{
 							"ClassName": "AmmoBox_545x39_20Rnd",
 							"Include": "",
-							"Chance": 0.020917715883255,
+							"Chance": 0.120917715883255,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.157178821563721,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -6661,7 +6661,7 @@
 						{
 							"ClassName": "FNP45_MRDSOptic",
 							"Include": "",
-							"Chance": 0.05174817070961,
+							"Chance": 0.14174817070961,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.513223193486532,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -6670,7 +6670,7 @@
 							"Sets": []
 						},
 						{
-							"ClassName": "ZenSleep_StimSyringe",
+							"ClassName": "Epinephrine",
 							"Include": "",
 							"Chance": 0.04935279712677,
 							"Quantity": {"Min": 0,"Max": 0},
@@ -6738,7 +6738,7 @@
 						{
 							"ClassName": "Derringer_Grey",
 							"Include": "",
-							"Chance": 0.056829728937149,
+							"Chance": 0.146829728937149,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.105605227152507,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -6781,7 +6781,7 @@
 						{
 							"ClassName": "AmmoBox_545x39_20Rnd",
 							"Include": "",
-							"Chance": 0.020917715883255,
+							"Chance": 0.120917715883255,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.157178821563721,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -6792,7 +6792,7 @@
 						{
 							"ClassName": "FNP45_MRDSOptic",
 							"Include": "",
-							"Chance": 0.05174817070961,
+							"Chance": 0.14174817070961,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.513223193486532,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -6801,7 +6801,7 @@
 							"Sets": []
 						},
 						{
-							"ClassName": "ZenSleep_StimSyringe",
+							"ClassName": "Epinephrine",
 							"Include": "",
 							"Chance": 0.04935279712677,
 							"Quantity": {"Min": 0,"Max": 0},
@@ -6869,7 +6869,7 @@
 						{
 							"ClassName": "Derringer_Grey",
 							"Include": "",
-							"Chance": 0.056829728937149,
+							"Chance": 0.146829728937149,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.105605227152507,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -6912,7 +6912,7 @@
 						{
 							"ClassName": "AmmoBox_545x39_20Rnd",
 							"Include": "",
-							"Chance": 0.020917715883255,
+							"Chance": 0.120917715883255,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.157178821563721,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -6923,7 +6923,7 @@
 						{
 							"ClassName": "FNP45_MRDSOptic",
 							"Include": "",
-							"Chance": 0.05174817070961,
+							"Chance": 0.14174817070961,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.513223193486532,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -6932,7 +6932,7 @@
 							"Sets": []
 						},
 						{
-							"ClassName": "ZenSleep_StimSyringe",
+							"ClassName": "Epinephrine",
 							"Include": "",
 							"Chance": 0.04935279712677,
 							"Quantity": {"Min": 0,"Max": 0},
@@ -7000,7 +7000,7 @@
 						{
 							"ClassName": "Derringer_Grey",
 							"Include": "",
-							"Chance": 0.056829728937149,
+							"Chance": 0.146829728937149,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.105605227152507,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -7043,7 +7043,7 @@
 						{
 							"ClassName": "AmmoBox_545x39_20Rnd",
 							"Include": "",
-							"Chance": 0.020917715883255,
+							"Chance": 0.120917715883255,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.157178821563721,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -7054,7 +7054,7 @@
 						{
 							"ClassName": "FNP45_MRDSOptic",
 							"Include": "",
-							"Chance": 0.05174817070961,
+							"Chance": 0.14174817070961,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.513223193486532,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -7063,7 +7063,7 @@
 							"Sets": []
 						},
 						{
-							"ClassName": "ZenSleep_StimSyringe",
+							"ClassName": "Epinephrine",
 							"Include": "",
 							"Chance": 0.04935279712677,
 							"Quantity": {"Min": 0,"Max": 0},
@@ -7131,7 +7131,7 @@
 						{
 							"ClassName": "Derringer_Grey",
 							"Include": "",
-							"Chance": 0.056829728937149,
+							"Chance": 0.146829728937149,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.105605227152507,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -7174,7 +7174,7 @@
 						{
 							"ClassName": "AmmoBox_545x39_20Rnd",
 							"Include": "",
-							"Chance": 0.020917715883255,
+							"Chance": 0.120917715883255,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.157178821563721,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -7185,7 +7185,7 @@
 						{
 							"ClassName": "FNP45_MRDSOptic",
 							"Include": "",
-							"Chance": 0.05174817070961,
+							"Chance": 0.14174817070961,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.513223193486532,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -7194,7 +7194,7 @@
 							"Sets": []
 						},
 						{
-							"ClassName": "ZenSleep_StimSyringe",
+							"ClassName": "Epinephrine",
 							"Include": "",
 							"Chance": 0.04935279712677,
 							"Quantity": {"Min": 0,"Max": 0},
@@ -7262,7 +7262,7 @@
 						{
 							"ClassName": "Derringer_Grey",
 							"Include": "",
-							"Chance": 0.056829728937149,
+							"Chance": 0.146829728937149,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.105605227152507,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -7558,7 +7558,7 @@
                 {
                     "ClassName": "OMNOGloves_Brown",
                     "Include": "",
-                    "Chance": 0.019999999552965165,
+                    "Chance": 0.119999999552965165,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
@@ -7578,7 +7578,7 @@
                 {
                     "ClassName": "OMNOGloves_Gray",
                     "Include": "",
-                    "Chance": 0.019999999552965165,
+                    "Chance": 0.119999999552965165,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
@@ -7965,7 +7965,7 @@
 					{
 	"ClassName": "SodaCan_Pipsi",
 	"Include": "",
-	"Chance": 0.038266953086853,
+	"Chance": 0.138266953086853,
 	"Quantity": {"Min": 0,"Max": 0},
 	"Health": [{"Min": 0.164299709002177,"Max": 1,"Zone": ""}],
 	"InventoryAttachments": [],
@@ -8031,7 +8031,7 @@
 {
 	"ClassName": "UniversalLight",
 	"Include": "",
-	"Chance": 0.030790021276474,
+	"Chance": 0.130790021276474,
 	"Quantity": {"Min": 0,"Max": 0},
 	"Health": [{"Min": 0.313838345209758,"Max": 1,"Zone": ""}],
 	"InventoryAttachments": [],
@@ -8063,7 +8063,7 @@
 					{
 	"ClassName": "SodaCan_Pipsi",
 	"Include": "",
-	"Chance": 0.038266953086853,
+	"Chance": 0.138266953086853,
 	"Quantity": {"Min": 0,"Max": 0},
 	"Health": [{"Min": 0.164299709002177,"Max": 1,"Zone": ""}],
 	"InventoryAttachments": [],
@@ -8129,7 +8129,7 @@
 {
 	"ClassName": "UniversalLight",
 	"Include": "",
-	"Chance": 0.030790021276474,
+	"Chance": 0.130790021276474,
 	"Quantity": {"Min": 0,"Max": 0},
 	"Health": [{"Min": 0.313838345209758,"Max": 1,"Zone": ""}],
 	"InventoryAttachments": [],
@@ -8161,7 +8161,7 @@
 					{
 	"ClassName": "SodaCan_Pipsi",
 	"Include": "",
-	"Chance": 0.038266953086853,
+	"Chance": 0.138266953086853,
 	"Quantity": {"Min": 0,"Max": 0},
 	"Health": [{"Min": 0.164299709002177,"Max": 1,"Zone": ""}],
 	"InventoryAttachments": [],
@@ -8227,7 +8227,7 @@
 {
 	"ClassName": "UniversalLight",
 	"Include": "",
-	"Chance": 0.030790021276474,
+	"Chance": 0.130790021276474,
 	"Quantity": {"Min": 0,"Max": 0},
 	"Health": [{"Min": 0.313838345209758,"Max": 1,"Zone": ""}],
 	"InventoryAttachments": [],
@@ -8259,7 +8259,7 @@
 					{
 	"ClassName": "SodaCan_Pipsi",
 	"Include": "",
-	"Chance": 0.038266953086853,
+	"Chance": 0.138266953086853,
 	"Quantity": {"Min": 0,"Max": 0},
 	"Health": [{"Min": 0.164299709002177,"Max": 1,"Zone": ""}],
 	"InventoryAttachments": [],
@@ -8325,7 +8325,7 @@
 {
 	"ClassName": "UniversalLight",
 	"Include": "",
-	"Chance": 0.030790021276474,
+	"Chance": 0.130790021276474,
 	"Quantity": {"Min": 0,"Max": 0},
 	"Health": [{"Min": 0.313838345209758,"Max": 1,"Zone": ""}],
 	"InventoryAttachments": [],
@@ -8390,7 +8390,7 @@
                 {
                     "ClassName": "BaseballBat",
                     "Include": "",
-                    "Chance": 0.05000000074505806,
+                    "Chance": 0.14000000074505806,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
@@ -8410,7 +8410,7 @@
                 {
                     "ClassName": "FirefighterAxe",
                     "Include": "",
-                    "Chance": 0.05000000074505806,
+                    "Chance": 0.14000000074505806,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
@@ -8430,7 +8430,7 @@
                 {
                     "ClassName": "Shovel",
                     "Include": "",
-                    "Chance": 0.05000000074505806,
+                    "Chance": 0.14000000074505806,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
@@ -8450,7 +8450,7 @@
                 {
                     "ClassName": "PipeWrench",
                     "Include": "",
-                    "Chance": 0.05000000074505806,
+                    "Chance": 0.14000000074505806,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
@@ -8470,7 +8470,7 @@
                 {
                     "ClassName": "Pipe",
                     "Include": "",
-                    "Chance": 0.05000000074505806,
+                    "Chance": 0.14000000074505806,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
@@ -8490,7 +8490,7 @@
                 {
                     "ClassName": "Pickaxe",
                     "Include": "",
-                    "Chance": 0.05000000074505806,
+                    "Chance": 0.14000000074505806,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0

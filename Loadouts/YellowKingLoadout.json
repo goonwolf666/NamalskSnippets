@@ -81,7 +81,7 @@
 						{
 							"ClassName": "Epinephrine",
 							"Include": "",
-							"Chance": 0.018214794254303,
+							"Chance": 0.118214794254303,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.412449819246928,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -92,7 +92,7 @@
 						{
 							"ClassName": "Grenade_ChemGas",
 							"Include": "",
-							"Chance": 0.039172943687439,
+							"Chance": 0.139172943687439,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.170339646339417,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -136,7 +136,7 @@
 						{
 							"ClassName": "CJ_Key2",
 							"Include": "",
-							"Chance": 0.035564031457901,
+							"Chance": 0.135564031457901,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.419570706685384,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -169,7 +169,7 @@
 						{
 							"ClassName": "Morphine",
 							"Include": "",
-							"Chance": 0.025691726064682,
+							"Chance": 0.125691726064682,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.262911183039347,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -180,7 +180,7 @@
 						{
 							"ClassName": "dzn_phoenix_log_3",
 							"Include": "",
-							"Chance": 0.010737862443924,
+							"Chance": 0.110737862443924,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.561988455454508,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -323,7 +323,7 @@
 						{
 							"ClassName": "dzn_athena3_exp1",
 							"Include": "",
-							"Chance": 0.017001255607605,
+							"Chance": 0.117001255607605,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.478265188535055,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -345,7 +345,7 @@
 						{
 							"ClassName": "WoolGlovesFingerless_Green",
 							"Include": "",
-							"Chance": 0.052913268661499,
+							"Chance": 0.142913268661499,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.603744409879049,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -356,7 +356,7 @@
 						{
 							"ClassName": "dzn_lantia_december",
 							"Include": "",
-							"Chance": 0.026873561000824,
+							"Chance": 0.126873561000824,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.145310861269633,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -378,7 +378,7 @@
 						{
 							"ClassName": "AmmoBox_556x45_20Rnd",
 							"Include": "",
-							"Chance": 0.034350492811203,
+							"Chance": 0.134350492811203,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.485386075973511,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],

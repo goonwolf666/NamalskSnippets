@@ -53,7 +53,7 @@
 						{
 							"ClassName": "CJ_Key2",
 							"Include": "",
-							"Chance": 0.038266953086853,
+							"Chance": 0.138266953086853,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.164299709002177,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -119,7 +119,7 @@
 						{
 							"ClassName": "GiftBox_Small_2",
 							"Include": "",
-							"Chance": 0.030790021276474,
+							"Chance": 0.130790021276474,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.313838345209758,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -130,7 +130,7 @@
 						{
 							"ClassName": "MKII",
 							"Include": "",
-							"Chance": 0.059225102519989,
+							"Chance": 0.149225102519989,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.588856202761332,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -141,7 +141,7 @@
 						{
 							"ClassName": "M18SmokeGrenade_Yellow",
 							"Include": "",
-							"Chance": 0.020917715883255,
+							"Chance": 0.120917715883255,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.157178821563721,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -152,7 +152,7 @@
 						{
 							"ClassName": "Crackers",
 							"Include": "",
-							"Chance": 0.05174817070961,
+							"Chance": 0.14174817070961,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.513223193486532,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -217,7 +217,7 @@
 						{
 							"ClassName": "CJ_Key2",
 							"Include": "",
-							"Chance": 0.038266953086853,
+							"Chance": 0.138266953086853,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.164299709002177,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -283,7 +283,7 @@
 						{
 							"ClassName": "GiftBox_Small_2",
 							"Include": "",
-							"Chance": 0.030790021276474,
+							"Chance": 0.130790021276474,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.313838345209758,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -294,7 +294,7 @@
 						{
 							"ClassName": "MKII",
 							"Include": "",
-							"Chance": 0.059225102519989,
+							"Chance": 0.149225102519989,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.588856202761332,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -305,7 +305,7 @@
 						{
 							"ClassName": "M18SmokeGrenade_Yellow",
 							"Include": "",
-							"Chance": 0.020917715883255,
+							"Chance": 0.120917715883255,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.157178821563721,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -316,7 +316,7 @@
 						{
 							"ClassName": "Crackers",
 							"Include": "",
-							"Chance": 0.05174817070961,
+							"Chance": 0.14174817070961,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.513223193486532,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -386,7 +386,7 @@
 						{
 							"ClassName": "CJ_Key2",
 							"Include": "",
-							"Chance": 0.038266953086853,
+							"Chance": 0.138266953086853,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.164299709002177,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -452,7 +452,7 @@
 						{
 							"ClassName": "GiftBox_Small_2",
 							"Include": "",
-							"Chance": 0.030790021276474,
+							"Chance": 0.130790021276474,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.313838345209758,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -463,7 +463,7 @@
 						{
 							"ClassName": "MKII",
 							"Include": "",
-							"Chance": 0.059225102519989,
+							"Chance": 0.149225102519989,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.588856202761332,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -474,7 +474,7 @@
 						{
 							"ClassName": "M18SmokeGrenade_Yellow",
 							"Include": "",
-							"Chance": 0.020917715883255,
+							"Chance": 0.120917715883255,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.157178821563721,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -485,7 +485,7 @@
 						{
 							"ClassName": "Crackers",
 							"Include": "",
-							"Chance": 0.05174817070961,
+							"Chance": 0.14174817070961,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.513223193486532,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -550,7 +550,7 @@
 						{
 							"ClassName": "CJ_Key2",
 							"Include": "",
-							"Chance": 0.038266953086853,
+							"Chance": 0.138266953086853,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.164299709002177,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -616,7 +616,7 @@
 						{
 							"ClassName": "GiftBox_Small_2",
 							"Include": "",
-							"Chance": 0.030790021276474,
+							"Chance": 0.130790021276474,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.313838345209758,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -627,7 +627,7 @@
 						{
 							"ClassName": "MKII",
 							"Include": "",
-							"Chance": 0.059225102519989,
+							"Chance": 0.149225102519989,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.588856202761332,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -638,7 +638,7 @@
 						{
 							"ClassName": "M18SmokeGrenade_Yellow",
 							"Include": "",
-							"Chance": 0.020917715883255,
+							"Chance": 0.120917715883255,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.157178821563721,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -649,7 +649,7 @@
 						{
 							"ClassName": "Crackers",
 							"Include": "",
-							"Chance": 0.05174817070961,
+							"Chance": 0.14174817070961,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.513223193486532,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -1088,7 +1088,7 @@
 		{
 			"ClassName": "dzn_printer_filament_abs",
 			"Include": "",
-			"Chance": 0.056829728937149,
+			"Chance": 0.146829728937149,
 			"Quantity": {"Min": 0,"Max": 0},
 			"Health": [{"Min": 0.105605227152507,"Max": 1,"Zone": ""}],
 			"InventoryAttachments": [],
@@ -1110,7 +1110,7 @@
 		{
 			"ClassName": "Sickle",
 			"Include": "",
-			"Chance": 0.023313089466095,
+			"Chance": 0.123313089466095,
 			"Quantity": {"Min": 0,"Max": 0},
 			"Health": [{"Min": 0.463376981417338,"Max": 1,"Zone": ""}],
 			"InventoryAttachments": [],

@@ -42,7 +42,7 @@
 						{
 							"ClassName": "VitaminBottle",
 							"Include": "",
-							"Chance": 0.021690078830719,
+							"Chance": 0.121690078830719,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.224688512484233,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -75,7 +75,7 @@
 						{
 							"ClassName": "FaceCover_Improvised",
 							"Include": "",
-							"Chance": 0.01421314702034,
+							"Chance": 0.11421314702034,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.374227148691813,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -118,7 +118,7 @@
 						{
 							"ClassName": "VitaminBottle",
 							"Include": "",
-							"Chance": 0.021690078830719,
+							"Chance": 0.121690078830719,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.224688512484233,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -151,7 +151,7 @@
 						{
 							"ClassName": "FaceCover_Improvised",
 							"Include": "",
-							"Chance": 0.01421314702034,
+							"Chance": 0.11421314702034,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.374227148691813,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -188,7 +188,7 @@
 						{
 							"ClassName": "Stoneknife",
 							"Include": "",
-							"Chance": 0.05494761095047,
+							"Chance": 0.14494761095047,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.674273791313171,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -199,7 +199,7 @@
 						{
 							"ClassName": "DogFoodCan",
 							"Include": "",
-							"Chance": 0.020508243894577,
+							"Chance": 0.120508243894577,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.342288834253947,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -210,7 +210,7 @@
 						{
 							"ClassName": "Matchbox",
 							"Include": "",
-							"Chance": 0.026512529706955,
+							"Chance": 0.126512529706955,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.399255933761597,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -232,7 +232,7 @@
 						{
 							"ClassName": "dzn_phoenix_log_5",
 							"Include": "",
-							"Chance": 0.013510386800766,
+							"Chance": 0.113510386800766,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.125965458552043,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -254,7 +254,7 @@
 						{
 							"ClassName": "CJ_Key6",
 							"Include": "",
-							"Chance": 0.019677789068222,
+							"Chance": 0.119677789068222,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.250686667760213,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -265,7 +265,7 @@
 						{
 							"ClassName": "Chemlight_Yellow",
 							"Include": "",
-							"Chance": 0.031594087934494,
+							"Chance": 0.131594087934494,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.433132988611857,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -308,7 +308,7 @@
 						{
 							"ClassName": "Stoneknife",
 							"Include": "",
-							"Chance": 0.05494761095047,
+							"Chance": 0.14494761095047,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.674273791313171,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -319,7 +319,7 @@
 						{
 							"ClassName": "DogFoodCan",
 							"Include": "",
-							"Chance": 0.020508243894577,
+							"Chance": 0.120508243894577,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.342288834253947,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -330,7 +330,7 @@
 						{
 							"ClassName": "Matchbox",
 							"Include": "",
-							"Chance": 0.036512529706955,
+							"Chance": 0.136512529706955,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.399255933761597,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -352,7 +352,7 @@
 						{
 							"ClassName": "dzn_phoenix_log_4",
 							"Include": "",
-							"Chance": 0.013510386800766,
+							"Chance": 0.113510386800766,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.125965458552043,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -374,7 +374,7 @@
 						{
 							"ClassName": "CJ_Key6",
 							"Include": "",
-							"Chance": 0.019677789068222,
+							"Chance": 0.119677789068222,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.250686667760213,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -385,7 +385,7 @@
 						{
 							"ClassName": "Chemlight_Yellow",
 							"Include": "",
-							"Chance": 0.031594087934494,
+							"Chance": 0.131594087934494,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.433132988611857,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -829,7 +829,7 @@
 		{
 			"ClassName": "dzn_printer_filament_abs",
 			"Include": "",
-			"Chance": 0.015262689447403,
+			"Chance": 0.115262689447403,
 			"Quantity": {"Min": 0,"Max": 0},
 			"Health": [{"Min": 0.250351371765137,"Max": 1,"Zone": ""}],
 			"InventoryAttachments": [],
@@ -873,7 +873,7 @@
 		{
 			"ClassName": "Ammo_ImprovisedBolt_2",
 			"Include": "",
-			"Chance": 0.055011018371582,
+			"Chance": 0.145011018371582,
 			"Quantity": {"Min": 0,"Max": 0},
 			"Health": [{"Min": 0.42373806476593,"Max": 1,"Zone": ""}],
 			"InventoryAttachments": [],
@@ -906,7 +906,7 @@
 		{
 			"ClassName": "CJ_Key3",
 			"Include": "",
-			"Chance": 0.026575937128067,
+			"Chance": 0.126575937128067,
 			"Quantity": {"Min": 0,"Max": 0},
 			"Health": [{"Min": 0.325773022969564,"Max": 1,"Zone": ""}],
 			"InventoryAttachments": [],
@@ -937,7 +937,7 @@
 			"Sets": []
 		},
 		{
-			"ClassName": "ZenSleep_StimSyringe",
+			"ClassName": "Epinephrine",
 			"Include": "",
 			"Chance": 0.009226699924469,
 			"Quantity": {"Min": 0,"Max": 0},
@@ -983,7 +983,7 @@
 		{
 			"ClassName": "RDG2SmokeGrenade_Black",
 			"Include": "",
-			"Chance": 0.033857169008255,
+			"Chance": 0.133857169008255,
 			"Quantity": {"Min": 0,"Max": 0},
 			"Health": [{"Min": 0.243441842397054,"Max": 1,"Zone": ""}],
 			"InventoryAttachments": [],
@@ -1071,7 +1071,7 @@
 		{
 			"ClassName": "ShippingContainerKeys_Red",
 			"Include": "",
-			"Chance": 0.0191624127388,
+			"Chance": 0.1191624127388,
 			"Quantity": {"Min": 0,"Max": 0},
 			"Health": [{"Min": 0.224775932629903,"Max": 1,"Zone": ""}],
 			"InventoryAttachments": [],
@@ -1093,7 +1093,7 @@
 		{
 			"ClassName": "Ammo_40mm_Smoke_Red",
 			"Include": "",
-			"Chance": 0.015294393157959,
+			"Chance": 0.115294393157959,
 			"Quantity": {"Min": 0,"Max": 0},
 			"Health": [{"Min": 0.125083508491516,"Max": 1,"Zone": ""}],
 			"InventoryAttachments": [],
@@ -1104,7 +1104,7 @@
 		{
 			"ClassName": "BurlapSack",
 			"Include": "",
-			"Chance": 0.022771324968338,
+			"Chance": 0.122771324968338,
 			"Quantity": {"Min": 0,"Max": 0},
 			"Health": [{"Min": 0.642211538950602,"Max": 1,"Zone": ""}],
 			"InventoryAttachments": [],
@@ -1126,7 +1126,7 @@
 		{
 			"ClassName": "dzn_phoenix_log_4",
 			"Include": "",
-			"Chance": 0.036252542591095,
+			"Chance": 0.136252542591095,
 			"Quantity": {"Min": 0,"Max": 0},
 			"Health": [{"Min": 0.549640002250671,"Max": 1,"Zone": ""}],
 			"InventoryAttachments": [],
@@ -1137,7 +1137,7 @@
 		{
 			"ClassName": "Rice",
 			"Include": "",
-			"Chance": 0.030248256778717,
+			"Chance": 0.130248256778717,
 			"Quantity": {"Min": 0,"Max": 0},
 			"Health": [{"Min": 0.492672902743022,"Max": 1,"Zone": ""}],
 			"InventoryAttachments": [],
@@ -1148,7 +1148,7 @@
 		{
 			"ClassName": "Mag_Ruger1022_15Rnd",
 			"Include": "",
-			"Chance": 0.051206406211853,
+			"Chance": 0.141206406211853,
 			"Quantity": {"Min": 0,"Max": 0},
 			"Health": [{"Min": 0.25056272983551,"Max": 1,"Zone": ""}],
 			"InventoryAttachments": [],
@@ -1170,7 +1170,7 @@
 		{
 			"ClassName": "Ammo_357",
 			"Include": "",
-			"Chance": 0.054815318441391,
+			"Chance": 0.144815318441391,
 			"Quantity": {"Min": 0,"Max": 0},
 			"Health": [{"Min": 0.667998336156209,"Max": 1,"Zone": ""}],
 			"InventoryAttachments": [],
@@ -1192,7 +1192,7 @@
 		{
 			"ClassName": "Ammo_40mm_Smoke_Black",
 			"Include": "",
-			"Chance": 0.038907023525238,
+			"Chance": 0.138907023525238,
 			"Quantity": {"Min": 0,"Max": 0},
 			"Health": [{"Min": 0.225533944765727,"Max": 1,"Zone": ""}],
 			"InventoryAttachments": [],
@@ -1203,7 +1203,7 @@
 		{
 			"ClassName": "Ammo_556x45Tracer",
 			"Include": "",
-			"Chance": 0.052388241147995,
+			"Chance": 0.142388241147995,
 			"Quantity": {"Min": 0,"Max": 0},
 			"Health": [{"Min": 0.132962408065796,"Max": 1,"Zone": ""}],
 			"InventoryAttachments": [],
@@ -1214,7 +1214,7 @@
 		{
 			"ClassName": "DuctTape",
 			"Include": "",
-			"Chance": 0.016476228094101,
+			"Chance": 0.116476228094101,
 			"Quantity": {"Min": 0,"Max": 0},
 			"Health": [{"Min": 0.18453600247701,"Max": 1,"Zone": ""}],
 			"InventoryAttachments": [],
@@ -1225,7 +1225,7 @@
 		{
 			"ClassName": "MetalWire",
 			"Include": "",
-			"Chance": 0.055997153377533,
+			"Chance": 0.145997153377533,
 			"Quantity": {"Min": 0,"Max": 0},
 			"Health": [{"Min": 0.550398014386495,"Max": 1,"Zone": ""}],
 			"InventoryAttachments": [],
@@ -1247,7 +1247,7 @@
 		{
 			"ClassName": "BatteryCharger",
 			"Include": "",
-			"Chance": 0.027821179485321,
+			"Chance": 0.127821179485321,
 			"Quantity": {"Min": 0,"Max": 0},
 			"Health": [{"Min": 0.134689790407817,"Max": 1,"Zone": ""}],
 			"InventoryAttachments": [],
@@ -1335,7 +1335,7 @@
 		{
 			"ClassName": "Deagle",
 			"Include": "",
-			"Chance": 0.02395315990448,
+			"Chance": 0.12395315990448,
 			"Quantity": {"Min": 0,"Max": 0},
 			"Health": [{"Min": 0.524611217180888,"Max": 1,"Zone": ""}],
 			"InventoryAttachments": [],
@@ -1368,7 +1368,7 @@
 		{
 			"ClassName": "Pot",
 			"Include": "",
-			"Chance": 0.059865172958374,
+			"Chance": 0.149865172958374,
 			"Quantity": {"Min": 0,"Max": 0},
 			"Health": [{"Min": 0.420618596076965,"Max": 1,"Zone": ""}],
 			"InventoryAttachments": [],
@@ -1379,7 +1379,7 @@
 		{
 			"ClassName": "Stoneknife",
 			"Include": "",
-			"Chance": 0.05494761095047,
+			"Chance": 0.14494761095047,
 			"Quantity": {"Min": 0,"Max": 0},
 			"Health": [{"Min": 0.674273791313171,"Max": 1,"Zone": ""}],
 			"InventoryAttachments": [],
@@ -1390,7 +1390,7 @@
 		{
 			"ClassName": "DogFoodCan",
 			"Include": "",
-			"Chance": 0.020508243894577,
+			"Chance": 0.120508243894577,
 			"Quantity": {"Min": 0,"Max": 0},
 			"Health": [{"Min": 0.342288834253947,"Max": 1,"Zone": ""}],
 			"InventoryAttachments": [],
@@ -1401,7 +1401,7 @@
 		{
 			"ClassName": "Matchbox",
 			"Include": "",
-			"Chance": 0.026512529706955,
+			"Chance": 0.126512529706955,
 			"Quantity": {"Min": 0,"Max": 0},
 			"Health": [{"Min": 0.399255933761597,"Max": 1,"Zone": ""}],
 			"InventoryAttachments": [],
@@ -1456,7 +1456,7 @@
 		{
 			"ClassName": "Chemlight_Yellow",
 			"Include": "",
-			"Chance": 0.031594087934494,
+			"Chance": 0.131594087934494,
 			"Quantity": {"Min": 0,"Max": 0},
 			"Health": [{"Min": 0.433132988611857,"Max": 1,"Zone": ""}],
 			"InventoryAttachments": [],
@@ -1522,7 +1522,7 @@
 		{
 			"ClassName": "GasMask_Filter_Improvised",
 			"Include": "",
-			"Chance": 0.024117156124115,
+			"Chance": 0.124117156124115,
 			"Quantity": {"Min": 0,"Max": 0},
 			"Health": [{"Min": 0.582671624819438,"Max": 1,"Zone": ""}],
 			"InventoryAttachments": [],
@@ -1588,7 +1588,7 @@
 		{
 			"ClassName": "RedCaviar",
 			"Include": "",
-			"Chance": 0.056161149597168,
+			"Chance": 0.146161149597168,
 			"Quantity": {"Min": 0,"Max": 0},
 			"Health": [{"Min": 0.608458422025045,"Max": 1,"Zone": ""}],
 			"InventoryAttachments": [],
@@ -1599,7 +1599,7 @@
 		{
 			"ClassName": "dzn_blueprint_lehs",
 			"Include": "",
-			"Chance": 0.016640224313736,
+			"Chance": 0.116640224313736,
 			"Quantity": {"Min": 0,"Max": 0},
 			"Health": [{"Min": 0.115389806429545,"Max": 1,"Zone": ""}],
 			"InventoryAttachments": [],
@@ -1687,7 +1687,7 @@
 		{
 			"ClassName": "ElectronicRepairKit",
 			"Include": "",
-			"Chance": 0.025298991060257,
+			"Chance": 0.125298991060257,
 			"Quantity": {"Min": 0,"Max": 0},
 			"Health": [{"Min": 0.465071303049723,"Max": 1,"Zone": ""}],
 			"InventoryAttachments": [],

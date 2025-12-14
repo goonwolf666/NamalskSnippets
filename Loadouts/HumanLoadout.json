@@ -630,7 +630,7 @@
 		{
 			"ClassName": "Colt1911",
 			"Include": "",
-			"Chance": 0.030790021276474,
+			"Chance": 0.130790021276474,
 			"Quantity": {"Min": 0,"Max": 0},
 			"Health": [{"Min": 0.313838345209758,"Max": 1,"Zone": ""}],
 			"InventoryAttachments": [],
@@ -641,7 +641,7 @@
 		{
 			"ClassName": "dzn_ElectronicRepairKit",
 			"Include": "",
-			"Chance": 0.059225102519989,
+			"Chance": 0.149225102519989,
 			"Quantity": {"Min": 0,"Max": 0},
 			"Health": [{"Min": 0.588856202761332,"Max": 1,"Zone": ""}],
 			"InventoryAttachments": [],
@@ -652,7 +652,7 @@
 		{
 			"ClassName": "Marmalade",
 			"Include": "",
-			"Chance": 0.020917715883255,
+			"Chance": 0.120917715883255,
 			"Quantity": {"Min": 0,"Max": 0},
 			"Health": [{"Min": 0.157178821563721,"Max": 1,"Zone": ""}],
 			"InventoryAttachments": [],
@@ -663,7 +663,7 @@
 		{
 			"ClassName": "Engraved1911",
 			"Include": "",
-			"Chance": 0.05174817070961,
+			"Chance": 0.14174817070961,
 			"Quantity": {"Min": 0,"Max": 0},
 			"Health": [{"Min": 0.513223193486532,"Max": 1,"Zone": ""}],
 			"InventoryAttachments": [],
@@ -740,7 +740,7 @@
 		{
 			"ClassName": "RemoteDetonator",
 			"Include": "",
-			"Chance": 0.056829728937149,
+			"Chance": 0.146829728937149,
 			"Quantity": {"Min": 0,"Max": 0},
 			"Health": [{"Min": 0.105605227152507,"Max": 1,"Zone": ""}],
 			"InventoryAttachments": [],
@@ -784,7 +784,7 @@
 		{
 			"ClassName": "Cleaver",
 			"Include": "",
-			"Chance": 0.023313089466095,
+			"Chance": 0.123313089466095,
 			"Quantity": {"Min": 0,"Max": 0},
 			"Health": [{"Min": 0.463376981417338,"Max": 1,"Zone": ""}],
 			"InventoryAttachments": [],
@@ -817,7 +817,7 @@
 		{
 			"ClassName": "Rope",
 			"Include": "",
-			"Chance": 0.059225102519989,
+			"Chance": 0.149225102519989,
 			"Quantity": {"Min": 0,"Max": 0},
 			"Health": [{"Min": 0.588856202761332,"Max": 1,"Zone": ""}],
 			"InventoryAttachments": [],
@@ -839,7 +839,7 @@
 		{
 			"ClassName": "PlateCarrierPouches",
 			"Include": "",
-			"Chance": 0.05174817070961,
+			"Chance": 0.14174817070961,
 			"Quantity": {"Min": 0,"Max": 0},
 			"Health": [{"Min": 0.513223193486532,"Max": 1,"Zone": ""}],
 			"InventoryAttachments": [],

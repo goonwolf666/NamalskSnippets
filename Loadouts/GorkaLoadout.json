@@ -31,7 +31,7 @@
 						{
 							"ClassName": "PlateCarrierPouches_Camo",
 							"Include": "",
-							"Chance": 0.0132949730014801,
+							"Chance": 0.1132949730014801,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.544559779167175,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -64,7 +64,7 @@
 						{
 							"ClassName": "Plastic_Explosive",
 							"Include": "",
-							"Chance": 0.036558642244339,
+							"Chance": 0.136558642244339,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.295328718821208,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -118,7 +118,7 @@
 						{
 							"ClassName": "PlateCarrierPouches_Camo",
 							"Include": "",
-							"Chance": 0.0132949730014801,
+							"Chance": 0.1132949730014801,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.544559779167175,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -151,7 +151,7 @@
 						{
 							"ClassName": "Plastic_Explosive",
 							"Include": "",
-							"Chance": 0.036558642244339,
+							"Chance": 0.136558642244339,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.295328718821208,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -205,7 +205,7 @@
 						{
 							"ClassName": "PlateCarrierPouches_Camo",
 							"Include": "",
-							"Chance": 0.0132949730014801,
+							"Chance": 0.1132949730014801,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.544559779167175,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -238,7 +238,7 @@
 						{
 							"ClassName": "Plastic_Explosive",
 							"Include": "",
-							"Chance": 0.036558642244339,
+							"Chance": 0.136558642244339,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.295328718821208,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -292,7 +292,7 @@
 						{
 							"ClassName": "PlateCarrierPouches_Camo",
 							"Include": "",
-							"Chance": 0.0132949730014801,
+							"Chance": 0.1132949730014801,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.544559779167175,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -325,7 +325,7 @@
 						{
 							"ClassName": "Plastic_Explosive",
 							"Include": "",
-							"Chance": 0.036558642244339,
+							"Chance": 0.136558642244339,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.295328718821208,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -384,7 +384,7 @@
 						{
 							"ClassName": "FishNetTrap",
 							"Include": "",
-							"Chance": 0.02908171043396,
+							"Chance": 0.12908171043396,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.444867355028788,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -417,7 +417,7 @@
 						{
 							"ClassName": "AmmoBox_762x39_20Rnd",
 							"Include": "",
-							"Chance": 0.057516791677475,
+							"Chance": 0.147516791677475,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.42523207505544,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -471,7 +471,7 @@
 						{
 							"ClassName": "FishNetTrap",
 							"Include": "",
-							"Chance": 0.02908171043396,
+							"Chance": 0.12908171043396,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.444867355028788,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -504,7 +504,7 @@
 						{
 							"ClassName": "AmmoBox_762x39_20Rnd",
 							"Include": "",
-							"Chance": 0.057516791677475,
+							"Chance": 0.147516791677475,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.42523207505544,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -558,7 +558,7 @@
 						{
 							"ClassName": "FishNetTrap",
 							"Include": "",
-							"Chance": 0.02908171043396,
+							"Chance": 0.12908171043396,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.444867355028788,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -591,7 +591,7 @@
 						{
 							"ClassName": "AmmoBox_762x39_20Rnd",
 							"Include": "",
-							"Chance": 0.057516791677475,
+							"Chance": 0.147516791677475,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.42523207505544,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -645,7 +645,7 @@
 						{
 							"ClassName": "FishNetTrap",
 							"Include": "",
-							"Chance": 0.02908171043396,
+							"Chance": 0.12908171043396,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.444867355028788,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -678,7 +678,7 @@
 						{
 							"ClassName": "AmmoBox_762x39_20Rnd",
 							"Include": "",
-							"Chance": 0.057516791677475,
+							"Chance": 0.147516791677475,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.42523207505544,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -1165,7 +1165,7 @@
 						{
 							"ClassName": "AmmoBox_556x45Tracer_20Rnd",
 							"Include": "",
-							"Chance": 0.025472798204422,
+							"Chance": 0.125472798204422,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.204484564463298,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -1187,7 +1187,7 @@
 						{
 							"ClassName": "Ammo_545x39",
 							"Include": "",
-							"Chance": 0.011991580581665,
+							"Chance": 0.111991580581665,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.297056101163228,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -1286,7 +1286,7 @@
 						{
 							"ClassName": "AmmoBox_556x45Tracer_20Rnd",
 							"Include": "",
-							"Chance": 0.025472798204422,
+							"Chance": 0.125472798204422,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.204484564463298,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -1308,7 +1308,7 @@
 						{
 							"ClassName": "Ammo_545x39",
 							"Include": "",
-							"Chance": 0.011991580581665,
+							"Chance": 0.111991580581665,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.297056101163228,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -1362,7 +1362,7 @@
 						{
 							"ClassName": "AmmoBox_556x45Tracer_20Rnd",
 							"Include": "",
-							"Chance": 0.025472798204422,
+							"Chance": 0.125472798204422,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.204484564463298,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -1384,7 +1384,7 @@
 						{
 							"ClassName": "Ammo_545x39",
 							"Include": "",
-							"Chance": 0.011991580581665,
+							"Chance": 0.111991580581665,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.297056101163228,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -1643,7 +1643,7 @@
 		{
 			"ClassName": "DeadRabbit",
 			"Include": "",
-			"Chance": 0.021863885974884,
+			"Chance": 0.121863885974884,
 			"Quantity": {"Min": 0,"Max": 0},
 			"Health": [{"Min": 0.453715624809265,"Max": 1,"Zone": ""}],
 			"InventoryAttachments": [],
@@ -1654,7 +1654,7 @@
 		{
 			"ClassName": "Battery9V",
 			"Include": "",
-			"Chance": 0.051512505865097,
+			"Chance": 0.141512505865097,
 			"Quantity": {"Min": 0,"Max": 0},
 			"Health": [{"Min": 0.662918113072713,"Max": 1,"Zone": ""}],
 			"InventoryAttachments": [],
@@ -1676,7 +1676,7 @@
 		{
 			"ClassName": "RDG2SmokeGrenade_Black",
 			"Include": "",
-			"Chance": 0.038954015827179,
+			"Chance": 0.138954015827179,
 			"Quantity": {"Min": 0,"Max": 0},
 			"Health": [{"Min": 0.601526878674825,"Max": 1,"Zone": ""}],
 			"InventoryAttachments": [],
@@ -1687,7 +1687,7 @@
 		{
 			"ClassName": "Rangefinder",
 			"Include": "",
-			"Chance": 0.032949730014801,
+			"Chance": 0.132949730014801,
 			"Quantity": {"Min": 0,"Max": 0},
 			"Health": [{"Min": 0.544559779167175,"Max": 1,"Zone": ""}],
 			"InventoryAttachments": [],
@@ -1720,7 +1720,7 @@
 		{
 			"ClassName": "ChickenFeather",
 			"Include": "",
-			"Chance": 0.036558642244339,
+			"Chance": 0.136558642244339,
 			"Quantity": {"Min": 0,"Max": 0},
 			"Health": [{"Min": 0.295328718821208,"Max": 1,"Zone": ""}],
 			"InventoryAttachments": [],
@@ -1753,7 +1753,7 @@
 		{
 			"ClassName": "UnknownFoodCan",
 			"Include": "",
-			"Chance": 0.02908171043396,
+			"Chance": 0.12908171043396,
 			"Quantity": {"Min": 0,"Max": 0},
 			"Health": [{"Min": 0.444867355028788,"Max": 1,"Zone": ""}],
 			"InventoryAttachments": [],
@@ -1764,7 +1764,7 @@
 		{
 			"ClassName": "Glock19",
 			"Include": "",
-			"Chance": 0.017995866394043,
+			"Chance": 0.117995866394043,
 			"Quantity": {"Min": 0,"Max": 0},
 			"Health": [{"Min": 0.354023200670878,"Max": 1,"Zone": ""}],
 			"InventoryAttachments": [],
@@ -1786,7 +1786,7 @@
 		{
 			"ClassName": "Mosin_Bayonet",
 			"Include": "",
-			"Chance": 0.057516791677475,
+			"Chance": 0.147516791677475,
 			"Quantity": {"Min": 0,"Max": 0},
 			"Health": [{"Min": 0.42523207505544,"Max": 1,"Zone": ""}],
 			"InventoryAttachments": [],
@@ -1841,7 +1841,7 @@
 		{
 			"ClassName": "PlateCarrierPouches_Winter",
 			"Include": "",
-			"Chance": 0.025472798204422,
+			"Chance": 0.125472798204422,
 			"Quantity": {"Min": 0,"Max": 0},
 			"Health": [{"Min": 0.204484564463298,"Max": 1,"Zone": ""}],
 			"InventoryAttachments": [],
@@ -1863,7 +1863,7 @@
 		{
 			"ClassName": "PlateCarrierPouches",
 			"Include": "",
-			"Chance": 0.011991580581665,
+			"Chance": 0.111991580581665,
 			"Quantity": {"Min": 0,"Max": 0},
 			"Health": [{"Min": 0.297056101163228,"Max": 1,"Zone": ""}],
 			"InventoryAttachments": [],
@@ -1874,7 +1874,7 @@
 		{
 			"ClassName": "BudenovkaHat_Gray",
 			"Include": "",
-			"Chance": 0.053907879447937,
+			"Chance": 0.143907879447937,
 			"Quantity": {"Min": 0,"Max": 0},
 			"Health": [{"Min": 0.302449606259664,"Max": 1,"Zone": ""}],
 			"InventoryAttachments": [],
@@ -1896,7 +1896,7 @@
 		{
 			"ClassName": "HandDrillKit",
 			"Include": "",
-			"Chance": 0.021863885974884,
+			"Chance": 0.121863885974884,
 			"Quantity": {"Min": 0,"Max": 0},
 			"Health": [{"Min": 0.453715624809265,"Max": 1,"Zone": ""}],
 			"InventoryAttachments": [],
@@ -1905,9 +1905,9 @@
 			"Sets": []
 		},
 		{
-			"ClassName": "ZenSleep_StimSyringe",
+			"ClassName": "Epinephrine",
 			"Include": "",
-			"Chance": 0.051512505865097,
+			"Chance": 0.141512505865097,
 			"Quantity": {"Min": 0,"Max": 0},
 			"Health": [{"Min": 0.662918113072713,"Max": 1,"Zone": ""}],
 			"InventoryAttachments": [],
@@ -1929,7 +1929,7 @@
 		{
 			"ClassName": "M18SmokeGrenade_Green",
 			"Include": "",
-			"Chance": 0.038954015827179,
+			"Chance": 0.138954015827179,
 			"Quantity": {"Min": 0,"Max": 0},
 			"Health": [{"Min": 0.601526878674825,"Max": 1,"Zone": ""}],
 			"InventoryAttachments": [],
@@ -1940,7 +1940,7 @@
 		{
 			"ClassName": "HandcuffKeys",
 			"Include": "",
-			"Chance": 0.032949730014801,
+			"Chance": 0.132949730014801,
 			"Quantity": {"Min": 0,"Max": 0},
 			"Health": [{"Min": 0.544559779167175,"Max": 1,"Zone": ""}],
 			"InventoryAttachments": [],
@@ -1973,7 +1973,7 @@
 		{
 			"ClassName": "Mag_CZ527_5rnd",
 			"Include": "",
-			"Chance": 0.036558642244339,
+			"Chance": 0.136558642244339,
 			"Quantity": {"Min": 0,"Max": 0},
 			"Health": [{"Min": 0.295328718821208,"Max": 1,"Zone": ""}],
 			"InventoryAttachments": [],
@@ -2006,7 +2006,7 @@
 		{
 			"ClassName": "WoolGloves_White",
 			"Include": "",
-			"Chance": 0.02908171043396,
+			"Chance": 0.12908171043396,
 			"Quantity": {"Min": 0,"Max": 0},
 			"Health": [{"Min": 0.444867355028788,"Max": 1,"Zone": ""}],
 			"InventoryAttachments": [],
@@ -2017,7 +2017,7 @@
 		{
 			"ClassName": "PowderedMilk",
 			"Include": "",
-			"Chance": 0.017995866394043,
+			"Chance": 0.117995866394043,
 			"Quantity": {"Min": 0,"Max": 0},
 			"Health": [{"Min": 0.354023200670878,"Max": 1,"Zone": ""}],
 			"InventoryAttachments": [],
@@ -2039,7 +2039,7 @@
 		{
 			"ClassName": "CJ_Key6",
 			"Include": "",
-			"Chance": 0.057516791677475,
+			"Chance": 0.147516791677475,
 			"Quantity": {"Min": 0,"Max": 0},
 			"Health": [{"Min": 0.42523207505544,"Max": 1,"Zone": ""}],
 			"InventoryAttachments": [],
@@ -2083,7 +2083,7 @@
 		{
 			"ClassName": "BurlapSack",
 			"Include": "",
-			"Chance": 0.025472798204422,
+			"Chance": 0.125472798204422,
 			"Quantity": {"Min": 0,"Max": 0},
 			"Health": [{"Min": 0.204484564463298,"Max": 1,"Zone": ""}],
 			"InventoryAttachments": [],
@@ -2105,7 +2105,7 @@
 		{
 			"ClassName": "Bark_Birch",
 			"Include": "",
-			"Chance": 0.011991580581665,
+			"Chance": 0.111991580581665,
 			"Quantity": {"Min": 0,"Max": 0},
 			"Health": [{"Min": 0.297056101163228,"Max": 1,"Zone": ""}],
 			"InventoryAttachments": [],
@@ -2127,7 +2127,7 @@
 		{
 			"ClassName": "Chemlight_White",
 			"Include": "",
-			"Chance": 0.021863885974884,
+			"Chance": 0.121863885974884,
 			"Quantity": {"Min": 0,"Max": 0},
 			"Health": [{"Min": 0.453715624809265,"Max": 1,"Zone": ""}],
 			"InventoryAttachments": [],
@@ -2160,7 +2160,7 @@
 		{
 			"ClassName": "BakedBeansCan",
 			"Include": "",
-			"Chance": 0.037740477180481,
+			"Chance": 0.137740477180481,
 			"Quantity": {"Min": 0,"Max": 0},
 			"Health": [{"Min": 0.354781212806702,"Max": 1,"Zone": ""}],
 			"InventoryAttachments": [],
@@ -2171,7 +2171,7 @@
 		{
 			"ClassName": "WinterCoif_Black",
 			"Include": "",
-			"Chance": 0.023045720911026,
+			"Chance": 0.123045720911026,
 			"Quantity": {"Min": 0,"Max": 0},
 			"Health": [{"Min": 0.336115303039551,"Max": 1,"Zone": ""}],
 			"InventoryAttachments": [],
@@ -2204,7 +2204,7 @@
 		{
 			"ClassName": "Bandana_Camopattern",
 			"Include": "",
-			"Chance": 0.034131564950943,
+			"Chance": 0.134131564950943,
 			"Quantity": {"Min": 0,"Max": 0},
 			"Health": [{"Min": 0.604012273152669,"Max": 1,"Zone": ""}],
 			"InventoryAttachments": [],
@@ -2215,7 +2215,7 @@
 		{
 			"ClassName": "RemoteDetonator",
 			"Include": "",
-			"Chance": 0.013173415517807,
+			"Chance": 0.113173415517807,
 			"Quantity": {"Min": 0,"Max": 0},
 			"Health": [{"Min": 0.179455779393514,"Max": 1,"Zone": ""}],
 			"InventoryAttachments": [],
@@ -2303,7 +2303,7 @@
 		{
 			"ClassName": "Sardines",
 			"Include": "",
-			"Chance": 0.026654633140564,
+			"Chance": 0.126654633140564,
 			"Quantity": {"Min": 0,"Max": 0},
 			"Health": [{"Min": 0.407324177424113,"Max": 1,"Zone": ""}],
 			"InventoryAttachments": [],
@@ -2336,7 +2336,7 @@
 		{
 			"ClassName": "GiftBox_Small_3",
 			"Include": "",
-			"Chance": 0.030522652721405,
+			"Chance": 0.130522652721405,
 			"Quantity": {"Min": 0,"Max": 0},
 			"Health": [{"Min": 0.18657666683197,"Max": 1,"Zone": ""}],
 			"InventoryAttachments": [],

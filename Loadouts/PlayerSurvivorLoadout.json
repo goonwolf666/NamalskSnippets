@@ -42,7 +42,7 @@
 						{
 							"ClassName": "Ammo_12gaRubberSlug",
 							"Include": "",
-							"Chance": 0.010417272901535,
+							"Chance": 0.110417272901535,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.583910606702169,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -64,7 +64,7 @@
 						{
 							"ClassName": "SardinesCan",
 							"Include": "",
-							"Chance": 0.03885235414505,
+							"Chance": 0.13885235414505,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.35604220867157,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -86,7 +86,7 @@
 						{
 							"ClassName": "ElectronicRepairKit",
 							"Include": "",
-							"Chance": 0.034984334564209,
+							"Chance": 0.134984334564209,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.256349784533183,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -108,7 +108,7 @@
 						{
 							"ClassName": "CarpFilletMeat",
 							"Include": "",
-							"Chance": 0.023898490524292,
+							"Chance": 0.123898490524292,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.655119481086731,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -163,7 +163,7 @@
 						{
 							"ClassName": "Carp",
 							"Include": "",
-							"Chance": 0.031375422334671,
+							"Chance": 0.131375422334671,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.50558084487915,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -206,7 +206,7 @@
 						{
 							"ClassName": "Ammo_12gaRubberSlug",
 							"Include": "",
-							"Chance": 0.010417272901535,
+							"Chance": 0.110417272901535,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.583910606702169,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -228,7 +228,7 @@
 						{
 							"ClassName": "SardinesCan",
 							"Include": "",
-							"Chance": 0.03885235414505,
+							"Chance": 0.13885235414505,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.35604220867157,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -250,7 +250,7 @@
 						{
 							"ClassName": "ElectronicRepairKit",
 							"Include": "",
-							"Chance": 0.034984334564209,
+							"Chance": 0.134984334564209,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.256349784533183,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -272,7 +272,7 @@
 						{
 							"ClassName": "CarpFilletMeat",
 							"Include": "",
-							"Chance": 0.023898490524292,
+							"Chance": 0.123898490524292,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.655119481086731,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -327,7 +327,7 @@
 						{
 							"ClassName": "Carp",
 							"Include": "",
-							"Chance": 0.031375422334671,
+							"Chance": 0.131375422334671,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.50558084487915,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -370,7 +370,7 @@
 						{
 							"ClassName": "Ammo_12gaRubberSlug",
 							"Include": "",
-							"Chance": 0.010417272901535,
+							"Chance": 0.110417272901535,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.583910606702169,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -392,7 +392,7 @@
 						{
 							"ClassName": "SardinesCan",
 							"Include": "",
-							"Chance": 0.03885235414505,
+							"Chance": 0.13885235414505,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.35604220867157,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -414,7 +414,7 @@
 						{
 							"ClassName": "ElectronicRepairKit",
 							"Include": "",
-							"Chance": 0.034984334564209,
+							"Chance": 0.134984334564209,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.256349784533183,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -436,7 +436,7 @@
 						{
 							"ClassName": "CarpFilletMeat",
 							"Include": "",
-							"Chance": 0.023898490524292,
+							"Chance": 0.123898490524292,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.655119481086731,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -491,7 +491,7 @@
 						{
 							"ClassName": "Carp",
 							"Include": "",
-							"Chance": 0.031375422334671,
+							"Chance": 0.131375422334671,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.50558084487915,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -534,7 +534,7 @@
 						{
 							"ClassName": "Ammo_12gaRubberSlug",
 							"Include": "",
-							"Chance": 0.010417272901535,
+							"Chance": 0.110417272901535,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.583910606702169,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -556,7 +556,7 @@
 						{
 							"ClassName": "SardinesCan",
 							"Include": "",
-							"Chance": 0.03885235414505,
+							"Chance": 0.13885235414505,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.35604220867157,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -578,7 +578,7 @@
 						{
 							"ClassName": "ElectronicRepairKit",
 							"Include": "",
-							"Chance": 0.034984334564209,
+							"Chance": 0.134984334564209,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.256349784533183,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -600,7 +600,7 @@
 						{
 							"ClassName": "CarpFilletMeat",
 							"Include": "",
-							"Chance": 0.023898490524292,
+							"Chance": 0.123898490524292,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.655119481086731,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -655,7 +655,7 @@
 						{
 							"ClassName": "Carp",
 							"Include": "",
-							"Chance": 0.031375422334671,
+							"Chance": 0.131375422334671,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.50558084487915,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -698,7 +698,7 @@
 						{
 							"ClassName": "Ammo_12gaRubberSlug",
 							"Include": "",
-							"Chance": 0.010417272901535,
+							"Chance": 0.110417272901535,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.583910606702169,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -720,7 +720,7 @@
 						{
 							"ClassName": "SardinesCan",
 							"Include": "",
-							"Chance": 0.03885235414505,
+							"Chance": 0.13885235414505,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.35604220867157,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -742,7 +742,7 @@
 						{
 							"ClassName": "ElectronicRepairKit",
 							"Include": "",
-							"Chance": 0.034984334564209,
+							"Chance": 0.134984334564209,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.256349784533183,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -764,7 +764,7 @@
 						{
 							"ClassName": "CarpFilletMeat",
 							"Include": "",
-							"Chance": 0.023898490524292,
+							"Chance": 0.123898490524292,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.655119481086731,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -819,7 +819,7 @@
 						{
 							"ClassName": "Carp",
 							"Include": "",
-							"Chance": 0.031375422334671,
+							"Chance": 0.131375422334671,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.50558084487915,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -862,7 +862,7 @@
 						{
 							"ClassName": "Ammo_12gaRubberSlug",
 							"Include": "",
-							"Chance": 0.010417272901535,
+							"Chance": 0.110417272901535,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.583910606702169,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -884,7 +884,7 @@
 						{
 							"ClassName": "SardinesCan",
 							"Include": "",
-							"Chance": 0.03885235414505,
+							"Chance": 0.13885235414505,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.35604220867157,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -906,7 +906,7 @@
 						{
 							"ClassName": "ElectronicRepairKit",
 							"Include": "",
-							"Chance": 0.034984334564209,
+							"Chance": 0.134984334564209,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.256349784533183,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -928,7 +928,7 @@
 						{
 							"ClassName": "CarpFilletMeat",
 							"Include": "",
-							"Chance": 0.023898490524292,
+							"Chance": 0.123898490524292,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.655119481086731,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -983,7 +983,7 @@
 						{
 							"ClassName": "Carp",
 							"Include": "",
-							"Chance": 0.031375422334671,
+							"Chance": 0.131375422334671,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.50558084487915,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -1026,7 +1026,7 @@
 						{
 							"ClassName": "Ammo_12gaRubberSlug",
 							"Include": "",
-							"Chance": 0.010417272901535,
+							"Chance": 0.110417272901535,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.583910606702169,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -1048,7 +1048,7 @@
 						{
 							"ClassName": "SardinesCan",
 							"Include": "",
-							"Chance": 0.03885235414505,
+							"Chance": 0.13885235414505,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.35604220867157,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -1070,7 +1070,7 @@
 						{
 							"ClassName": "ElectronicRepairKit",
 							"Include": "",
-							"Chance": 0.034984334564209,
+							"Chance": 0.134984334564209,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.256349784533183,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -1092,7 +1092,7 @@
 						{
 							"ClassName": "CarpFilletMeat",
 							"Include": "",
-							"Chance": 0.023898490524292,
+							"Chance": 0.123898490524292,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.655119481086731,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -1147,7 +1147,7 @@
 						{
 							"ClassName": "Carp",
 							"Include": "",
-							"Chance": 0.031375422334671,
+							"Chance": 0.131375422334671,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.50558084487915,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -1190,7 +1190,7 @@
 						{
 							"ClassName": "Ammo_12gaRubberSlug",
 							"Include": "",
-							"Chance": 0.010417272901535,
+							"Chance": 0.110417272901535,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.583910606702169,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -1212,7 +1212,7 @@
 						{
 							"ClassName": "SardinesCan",
 							"Include": "",
-							"Chance": 0.03885235414505,
+							"Chance": 0.13885235414505,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.35604220867157,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -1234,7 +1234,7 @@
 						{
 							"ClassName": "ElectronicRepairKit",
 							"Include": "",
-							"Chance": 0.034984334564209,
+							"Chance": 0.134984334564209,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.256349784533183,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -1256,7 +1256,7 @@
 						{
 							"ClassName": "CarpFilletMeat",
 							"Include": "",
-							"Chance": 0.023898490524292,
+							"Chance": 0.123898490524292,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.655119481086731,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -1311,7 +1311,7 @@
 						{
 							"ClassName": "Carp",
 							"Include": "",
-							"Chance": 0.031375422334671,
+							"Chance": 0.131375422334671,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.50558084487915,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -1354,7 +1354,7 @@
 						{
 							"ClassName": "Ammo_12gaRubberSlug",
 							"Include": "",
-							"Chance": 0.010417272901535,
+							"Chance": 0.110417272901535,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.583910606702169,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -1376,7 +1376,7 @@
 						{
 							"ClassName": "SardinesCan",
 							"Include": "",
-							"Chance": 0.03885235414505,
+							"Chance": 0.13885235414505,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.35604220867157,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -1398,7 +1398,7 @@
 						{
 							"ClassName": "ElectronicRepairKit",
 							"Include": "",
-							"Chance": 0.034984334564209,
+							"Chance": 0.134984334564209,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.256349784533183,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -1420,7 +1420,7 @@
 						{
 							"ClassName": "CarpFilletMeat",
 							"Include": "",
-							"Chance": 0.023898490524292,
+							"Chance": 0.123898490524292,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.655119481086731,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -1475,7 +1475,7 @@
 						{
 							"ClassName": "Carp",
 							"Include": "",
-							"Chance": 0.031375422334671,
+							"Chance": 0.131375422334671,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.50558084487915,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -1518,7 +1518,7 @@
 						{
 							"ClassName": "Ammo_12gaRubberSlug",
 							"Include": "",
-							"Chance": 0.010417272901535,
+							"Chance": 0.110417272901535,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.583910606702169,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -1540,7 +1540,7 @@
 						{
 							"ClassName": "SardinesCan",
 							"Include": "",
-							"Chance": 0.03885235414505,
+							"Chance": 0.13885235414505,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.35604220867157,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -1562,7 +1562,7 @@
 						{
 							"ClassName": "ElectronicRepairKit",
 							"Include": "",
-							"Chance": 0.034984334564209,
+							"Chance": 0.134984334564209,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.256349784533183,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -1584,7 +1584,7 @@
 						{
 							"ClassName": "CarpFilletMeat",
 							"Include": "",
-							"Chance": 0.023898490524292,
+							"Chance": 0.123898490524292,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.655119481086731,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -1639,7 +1639,7 @@
 						{
 							"ClassName": "Carp",
 							"Include": "",
-							"Chance": 0.031375422334671,
+							"Chance": 0.131375422334671,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.50558084487915,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -1682,7 +1682,7 @@
 						{
 							"ClassName": "Ammo_12gaRubberSlug",
 							"Include": "",
-							"Chance": 0.010417272901535,
+							"Chance": 0.110417272901535,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.583910606702169,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -1704,7 +1704,7 @@
 						{
 							"ClassName": "SardinesCan",
 							"Include": "",
-							"Chance": 0.03885235414505,
+							"Chance": 0.13885235414505,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.35604220867157,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -1726,7 +1726,7 @@
 						{
 							"ClassName": "ElectronicRepairKit",
 							"Include": "",
-							"Chance": 0.034984334564209,
+							"Chance": 0.134984334564209,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.256349784533183,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -1748,7 +1748,7 @@
 						{
 							"ClassName": "CarpFilletMeat",
 							"Include": "",
-							"Chance": 0.023898490524292,
+							"Chance": 0.123898490524292,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.655119481086731,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -1803,7 +1803,7 @@
 						{
 							"ClassName": "Carp",
 							"Include": "",
-							"Chance": 0.031375422334671,
+							"Chance": 0.131375422334671,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.50558084487915,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -1840,7 +1840,7 @@
 						{
 							"ClassName": "GiftBox_Small_3",
 							"Include": "",
-							"Chance": 0.053547110414505,
+							"Chance": 0.143547110414505,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.374708118438721,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -1884,7 +1884,7 @@
 						{
 							"ClassName": "AmmoBox_380_35rnd",
 							"Include": "",
-							"Chance": 0.016421558713913,
+							"Chance": 0.116421558713913,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.137991450627645,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -1906,7 +1906,7 @@
 						{
 							"ClassName": "dzn_map_namalsk",
 							"Include": "",
-							"Chance": 0.03885235414505,
+							"Chance": 0.13885235414505,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.35604220867157,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -1938,7 +1938,7 @@
 						{
 							"ClassName": "GiftBox_Small_3",
 							"Include": "",
-							"Chance": 0.053547110414505,
+							"Chance": 0.143547110414505,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.374708118438721,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -1982,7 +1982,7 @@
 						{
 							"ClassName": "AmmoBox_380_35rnd",
 							"Include": "",
-							"Chance": 0.016421558713913,
+							"Chance": 0.116421558713913,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.137991450627645,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -2004,7 +2004,7 @@
 						{
 							"ClassName": "dzn_map_namalsk",
 							"Include": "",
-							"Chance": 0.03885235414505,
+							"Chance": 0.13885235414505,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.35604220867157,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -2036,7 +2036,7 @@
 						{
 							"ClassName": "GiftBox_Small_3",
 							"Include": "",
-							"Chance": 0.053547110414505,
+							"Chance": 0.143547110414505,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.374708118438721,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -2080,7 +2080,7 @@
 						{
 							"ClassName": "AmmoBox_380_35rnd",
 							"Include": "",
-							"Chance": 0.016421558713913,
+							"Chance": 0.116421558713913,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.137991450627645,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -2102,7 +2102,7 @@
 						{
 							"ClassName": "dzn_map_namalsk",
 							"Include": "",
-							"Chance": 0.03885235414505,
+							"Chance": 0.13885235414505,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.35604220867157,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -2134,7 +2134,7 @@
 						{
 							"ClassName": "GiftBox_Small_3",
 							"Include": "",
-							"Chance": 0.053547110414505,
+							"Chance": 0.143547110414505,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.374708118438721,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -2178,7 +2178,7 @@
 						{
 							"ClassName": "AmmoBox_380_35rnd",
 							"Include": "",
-							"Chance": 0.016421558713913,
+							"Chance": 0.116421558713913,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.137991450627645,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -2200,7 +2200,7 @@
 						{
 							"ClassName": "dzn_map_namalsk",
 							"Include": "",
-							"Chance": 0.03885235414505,
+							"Chance": 0.13885235414505,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.35604220867157,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -2232,7 +2232,7 @@
 						{
 							"ClassName": "GiftBox_Small_3",
 							"Include": "",
-							"Chance": 0.053547110414505,
+							"Chance": 0.143547110414505,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.374708118438721,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -2276,7 +2276,7 @@
 						{
 							"ClassName": "AmmoBox_380_35rnd",
 							"Include": "",
-							"Chance": 0.016421558713913,
+							"Chance": 0.116421558713913,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.137991450627645,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -2298,7 +2298,7 @@
 						{
 							"ClassName": "dzn_map_namalsk",
 							"Include": "",
-							"Chance": 0.03885235414505,
+							"Chance": 0.13885235414505,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.35604220867157,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -2330,7 +2330,7 @@
 						{
 							"ClassName": "GiftBox_Small_3",
 							"Include": "",
-							"Chance": 0.053547110414505,
+							"Chance": 0.143547110414505,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.374708118438721,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -2374,7 +2374,7 @@
 						{
 							"ClassName": "AmmoBox_380_35rnd",
 							"Include": "",
-							"Chance": 0.016421558713913,
+							"Chance": 0.116421558713913,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.137991450627645,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -2396,7 +2396,7 @@
 						{
 							"ClassName": "dzn_map_namalsk",
 							"Include": "",
-							"Chance": 0.03885235414505,
+							"Chance": 0.13885235414505,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.35604220867157,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -2520,7 +2520,7 @@
 		{
 			"ClassName": "WoolGloves_Tan",
 			"Include": "",
-			"Chance": 0.055942483997345,
+			"Chance": 0.145942483997345,
 			"Quantity": {"Min": 0,"Max": 0},
 			"Health": [{"Min": 0.680906278292338,"Max": 1,"Zone": ""}],
 			"InventoryAttachments": [],
@@ -2542,7 +2542,7 @@
 		{
 			"ClassName": "ShippingContainerKeys_Orange",
 			"Include": "",
-			"Chance": 0.021503116941452,
+			"Chance": 0.121503116941452,
 			"Quantity": {"Min": 0,"Max": 0},
 			"Health": [{"Min": 0.348921321233114,"Max": 1,"Zone": ""}],
 			"InventoryAttachments": [],
@@ -2575,7 +2575,7 @@
 		{
 			"ClassName": "Bark_Oak",
 			"Include": "",
-			"Chance": 0.031375422334671,
+			"Chance": 0.131375422334671,
 			"Quantity": {"Min": 0,"Max": 0},
 			"Health": [{"Min": 0.50558084487915,"Max": 1,"Zone": ""}],
 			"InventoryAttachments": [],
@@ -2608,7 +2608,7 @@
 		{
 			"ClassName": "AmmoBox_762x39Tracer_20Rnd",
 			"Include": "",
-			"Chance": 0.053547110414505,
+			"Chance": 0.143547110414505,
 			"Quantity": {"Min": 0,"Max": 0},
 			"Health": [{"Min": 0.374708118438721,"Max": 1,"Zone": ""}],
 			"InventoryAttachments": [],
@@ -2652,7 +2652,7 @@
 		{
 			"ClassName": "Binoculars",
 			"Include": "",
-			"Chance": 0.010417272901535,
+			"Chance": 0.110417272901535,
 			"Quantity": {"Min": 0,"Max": 0},
 			"Health": [{"Min": 0.583910606702169,"Max": 1,"Zone": ""}],
 			"InventoryAttachments": [],
@@ -2663,7 +2663,7 @@
 		{
 			"ClassName": "TLRLight",
 			"Include": "",
-			"Chance": 0.016421558713913,
+			"Chance": 0.116421558713913,
 			"Quantity": {"Min": 0,"Max": 0},
 			"Health": [{"Min": 0.137991450627645,"Max": 1,"Zone": ""}],
 			"InventoryAttachments": [],
@@ -2683,9 +2683,9 @@
 			"Sets": []
 		},
 		{
-			"ClassName": "ZenSleep_Syringe",
+			"ClassName": "Morphine",
 			"Include": "",
-			"Chance": 0.03885235414505,
+			"Chance": 0.13885235414505,
 			"Quantity": {"Min": 0,"Max": 0},
 			"Health": [{"Min": 0.35604220867157,"Max": 1,"Zone": ""}],
 			"InventoryAttachments": [],

@@ -123,7 +123,7 @@
             },
             {
               "ClassName": "Ammo_40mm_Smoke_White",
-              "Chance": 0.024103613948822,
+              "Chance": 0.124103613948822,
               "Quantity": {
                 "Min": 0,
                 "Max": 0
@@ -218,7 +218,7 @@
             },
             {
               "ClassName": "RDG2SmokeGrenade_White",
-              "Chance": 0.056147607421875,
+              "Chance": 0.146147607421875,
               "Quantity": {
                 "Min": 0,
                 "Max": 0
@@ -256,7 +256,7 @@
             },
             {
               "ClassName": "SnowstormUshanka_Brown",
-              "Chance": 0.013017769908905,
+              "Chance": 0.113017769908905,
               "Quantity": {
                 "Min": 0,
                 "Max": 0
@@ -414,7 +414,7 @@
             },
             {
               "ClassName": "Ammo_40mm_Smoke_White",
-              "Chance": 0.024103613948822,
+              "Chance": 0.124103613948822,
               "Quantity": {
                 "Min": 0,
                 "Max": 0
@@ -509,7 +509,7 @@
             },
             {
               "ClassName": "RDG2SmokeGrenade_White",
-              "Chance": 0.056147607421875,
+              "Chance": 0.146147607421875,
               "Quantity": {
                 "Min": 0,
                 "Max": 0
@@ -547,7 +547,7 @@
             },
             {
               "ClassName": "SnowstormUshanka_Brown",
-              "Chance": 0.013017769908905,
+              "Chance": 0.113017769908905,
               "Quantity": {
                 "Min": 0,
                 "Max": 0
@@ -738,7 +738,7 @@
             },
             {
               "ClassName": "TannedLeather",
-              "Chance": 0.036402996635437,
+              "Chance": 0.136402996635437,
               "Quantity": {
                 "Min": 0,
                 "Max": 0
@@ -776,7 +776,7 @@
             },
             {
               "ClassName": "ShippingContainerKeys_Orange",
-              "Chance": 0.034007623052597,
+              "Chance": 0.134007623052597,
               "Quantity": {
                 "Min": 0,
                 "Max": 0
@@ -833,7 +833,7 @@
             },
             {
               "ClassName": "SmallGasCanister",
-              "Chance": 0.021449133014679,
+              "Chance": 0.121449133014679,
               "Quantity": {
                 "Min": 0,
                 "Max": 0
@@ -852,7 +852,7 @@
             },
             {
               "ClassName": "BrassKnuckles_Dull",
-              "Chance": 0.015444847202301,
+              "Chance": 0.115444847202301,
               "Quantity": {
                 "Min": 0,
                 "Max": 0
@@ -909,7 +909,7 @@
             },
             {
               "ClassName": "Bark_Oak",
-              "Chance": 0.019053759431839,
+              "Chance": 0.119053759431839,
               "Quantity": {
                 "Min": 0,
                 "Max": 0
@@ -928,7 +928,7 @@
             },
             {
               "ClassName": "BeanieHat_Blue",
-              "Chance": 0.026530691242218,
+              "Chance": 0.126530691242218,
               "Quantity": {
                 "Min": 0,
                 "Max": 0
@@ -966,7 +966,7 @@
             },
             {
               "ClassName": "Lard",
-              "Chance": 0.051097752904892,
+              "Chance": 0.141097752904892,
               "Quantity": {
                 "Min": 0,
                 "Max": 0
@@ -985,7 +985,7 @@
             },
             {
               "ClassName": "SodaCan_Kvass",
-              "Chance": 0.01157682762146,
+              "Chance": 0.11157682762146,
               "Quantity": {
                 "Min": 0,
                 "Max": 0
@@ -1162,7 +1162,7 @@
             },
             {
               "ClassName": "SodaCan_Cola",
-              "Chance": 0.052538695192337,
+              "Chance": 0.142538695192337,
               "Quantity": {
                 "Min": 0,
                 "Max": 0
@@ -1181,7 +1181,7 @@
             },
             {
               "ClassName": "Heatpack",
-              "Chance": 0.037584831571579,
+              "Chance": 0.137584831571579,
               "Quantity": {
                 "Min": 0,
                 "Max": 0
@@ -1238,7 +1238,7 @@
             },
             {
               "ClassName": "AmmoBox_762x39_20Rnd",
-              "Chance": 0.020235594367981,
+              "Chance": 0.120235594367981,
               "Quantity": {
                 "Min": 0,
                 "Max": 0
@@ -1276,7 +1276,7 @@
             },
             {
               "ClassName": "WoolGloves_Green",
-              "Chance": 0.058542981004715,
+              "Chance": 0.148542981004715,
               "Quantity": {
                 "Min": 0,
                 "Max": 0
@@ -1314,7 +1314,7 @@
             },
             {
               "ClassName": "SardinesCan",
-              "Chance": 0.016626682138443,
+              "Chance": 0.116626682138443,
               "Quantity": {
                 "Min": 0,
                 "Max": 0
@@ -1371,7 +1371,7 @@
             },
             {
               "ClassName": "Ammo_40mm_ChemGas",
-              "Chance": 0.019053759431839,
+              "Chance": 0.119053759431839,
               "Quantity": {
                 "Min": 0,
                 "Max": 0
@@ -1409,7 +1409,7 @@
             },
             {
               "ClassName": "M4_Suppressor",
-              "Chance": 0.051097752904892,
+              "Chance": 0.141097752904892,
               "Quantity": {
                 "Min": 0,
                 "Max": 0
@@ -1428,7 +1428,7 @@
             },
             {
               "ClassName": "Morphine",
-              "Chance": 0.01157682762146,
+              "Chance": 0.11157682762146,
               "Quantity": {
                 "Min": 0,
                 "Max": 0
@@ -1562,7 +1562,7 @@
             },
             {
               "ClassName": "SodaCan_Cola",
-              "Chance": 0.052538695192337,
+              "Chance": 0.142538695192337,
               "Quantity": {
                 "Min": 0,
                 "Max": 0
@@ -1581,7 +1581,7 @@
             },
             {
               "ClassName": "Heatpack",
-              "Chance": 0.037584831571579,
+              "Chance": 0.137584831571579,
               "Quantity": {
                 "Min": 0,
                 "Max": 0
@@ -1638,7 +1638,7 @@
             },
             {
               "ClassName": "AmmoBox_762x39_20Rnd",
-              "Chance": 0.020235594367981,
+              "Chance": 0.120235594367981,
               "Quantity": {
                 "Min": 0,
                 "Max": 0
@@ -1676,7 +1676,7 @@
             },
             {
               "ClassName": "WoolGloves_Green",
-              "Chance": 0.058542981004715,
+              "Chance": 0.148542981004715,
               "Quantity": {
                 "Min": 0,
                 "Max": 0
@@ -1714,7 +1714,7 @@
             },
             {
               "ClassName": "SardinesCan",
-              "Chance": 0.016626682138443,
+              "Chance": 0.116626682138443,
               "Quantity": {
                 "Min": 0,
                 "Max": 0
@@ -1771,7 +1771,7 @@
             },
             {
               "ClassName": "Ammo_40mm_ChemGas",
-              "Chance": 0.019053759431839,
+              "Chance": 0.119053759431839,
               "Quantity": {
                 "Min": 0,
                 "Max": 0
@@ -1809,7 +1809,7 @@
             },
             {
               "ClassName": "M4_Suppressor",
-              "Chance": 0.051097752904892,
+              "Chance": 0.141097752904892,
               "Quantity": {
                 "Min": 0,
                 "Max": 0
@@ -1828,7 +1828,7 @@
             },
             {
               "ClassName": "Morphine",
-              "Chance": 0.01157682762146,
+              "Chance": 0.11157682762146,
               "Quantity": {
                 "Min": 0,
                 "Max": 0
@@ -2223,7 +2223,7 @@
           "SlotName": "Shoulder",
           "Items": [
             {
-              "ClassName": "AKM",
+              "ClassName": "Saiga",
               "Chance": 1.0,
               "Quantity": {
                 "Min": 0.0,
@@ -2416,6 +2416,30 @@
                       "Sets": []
                     }
                   ]
+                },
+                {
+                  "SlotName": "",
+                  "Items": [
+                    {
+                      "ClassName": "Mag_Saiga_8Rnd",
+                      "Chance": 1,
+                      "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                      },
+                      "Health": [
+                        {
+                          "Min": 0.7,
+                          "Max": 1,
+                          "Zone": ""
+                        }
+                      ],
+                      "InventoryAttachments": [],
+                      "InventoryCargo": [],
+                      "ConstructionPartsBuilt": [],
+                      "Sets": []
+                    }
+                  ]
                 }
               ],
               "InventoryCargo": [],
@@ -2427,7 +2451,7 @@
       ],
       "InventoryCargo": [
         {
-          "ClassName": "Mag_AKM_30Rnd",
+          "ClassName": "Mag_Saiga_5Rnd",
           "Chance": 1.0,
           "Quantity": {
             "Min": 0.0,
@@ -2440,11 +2464,24 @@
           "Sets": []
         },
         {
-          "ClassName": "Mag_AKM_30Rnd",
-          "Chance": 0.15000000596046449,
+          "ClassName": "Mag_Saiga_Drum20Rnd",
+          "Chance": 0.55,
           "Quantity": {
             "Min": 0.0,
             "Max": 0.0
+          },
+          "Health": [],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "ConstructionPartsBuilt": [],
+          "Sets": []
+        },
+        {
+          "ClassName": "Ammo_12gaSlug",
+          "Chance": 1,
+          "Quantity": {
+            "Min": 0,
+            "Max": 0
           },
           "Health": [],
           "InventoryAttachments": [],

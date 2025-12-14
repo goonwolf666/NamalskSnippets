@@ -206,9 +206,9 @@
 							"Sets": []
 						},
 						{
-							"ClassName": "ZenSleep_Syringe",
+							"ClassName": "Morphine",
 							"Include": "",
-							"Chance": 0.03885235414505,
+							"Chance": 0.13885235414505,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.35604220867157,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -219,7 +219,7 @@
 						{
 							"ClassName": "WoolGloves_White",
 							"Include": "",
-							"Chance": 0.087986477470398,
+							"Chance": 0.187986477470398,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.571396214167277,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -230,7 +230,7 @@
 						{
 							"ClassName": "Chemlight_White",
 							"Include": "",
-							"Chance": 0.034984334564209,
+							"Chance": 0.134984334564209,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.256349784533183,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -252,7 +252,7 @@
 						{
 							"ClassName": "dzn_phoenix_log_1",
 							"Include": "",
-							"Chance": 0.067028328037262,
+							"Chance": 0.057028328037262,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.28213658173879,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -261,9 +261,9 @@
 							"Sets": []
 						},
 						{
-							"ClassName": "ZenSleep_StimSyringe",
+							"ClassName": "Epinephrine",
 							"Include": "",
-							"Chance": 0.031375422334671,
+							"Chance": 0.131375422334671,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.50558084487915,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -296,7 +296,7 @@
 						{
 							"ClassName": "Battery9V",
 							"Include": "",
-							"Chance": 0.08198219165802,
+							"Chance": 0.18198219165802,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.649725975990295,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -328,7 +328,7 @@
 						{
 							"ClassName": "dzn_athena3_exp1",
 							"Include": "",
-							"Chance": 0.089459123468399,
+							"Chance": 0.0945912346839,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.323134524027507,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -337,9 +337,9 @@
 							"Sets": []
 						},
 						{
-							"ClassName": "ZenSleep_Syringe",
+							"ClassName": "Morphine",
 							"Include": "",
-							"Chance": 0.03885235414505,
+							"Chance": 0.13885235414505,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.35604220867157,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -350,7 +350,7 @@
 						{
 							"ClassName": "WoolGloves_White",
 							"Include": "",
-							"Chance": 0.087986477470398,
+							"Chance": 0.187986477470398,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.571396214167277,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -361,7 +361,7 @@
 						{
 							"ClassName": "Chemlight_White",
 							"Include": "",
-							"Chance": 0.034984334564209,
+							"Chance": 0.134984334564209,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.256349784533183,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -372,7 +372,7 @@
 						{
 							"ClassName": "dzn_phoenix_log_3",
 							"Include": "",
-							"Chance": 0.070896347618103,
+							"Chance": 0.170896347618103,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.381829005877177,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -383,7 +383,7 @@
 						{
 							"ClassName": "dzn_phoenix_log_1",
 							"Include": "",
-							"Chance": 0.067028328037262,
+							"Chance": 0.157028328037262,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.28213658173879,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -392,9 +392,9 @@
 							"Sets": []
 						},
 						{
-							"ClassName": "ZenSleep_StimSyringe",
+							"ClassName": "Epinephrine",
 							"Include": "",
-							"Chance": 0.031375422334671,
+							"Chance": 0.131375422334671,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.50558084487915,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -427,7 +427,7 @@
 						{
 							"ClassName": "Battery9V",
 							"Include": "",
-							"Chance": 0.08198219165802,
+							"Chance": 0.18198219165802,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.649725975990295,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -630,7 +630,7 @@
         {
             "ClassName": "AntiChemInjector",
             "Include": "",
-            "Chance": 0.05000000074505806,
+            "Chance": 0.14000000074505806,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -644,7 +644,7 @@
 		{
 			"ClassName": "dzn_athena3_exp1",
 			"Include": "",
-			"Chance": 0.089459123468399,
+			"Chance": 0.089459123,
 			"Quantity": {"Min": 0,"Max": 0},
 			"Health": [{"Min": 0.323134524027507,"Max": 1,"Zone": ""}],
 			"InventoryAttachments": [],
@@ -653,9 +653,9 @@
 			"Sets": []
 		},
 		{
-			"ClassName": "ZenSleep_Syringe",
+			"ClassName": "Morphine",
 			"Include": "",
-			"Chance": 0.03885235414505,
+			"Chance": 0.13885235414505,
 			"Quantity": {"Min": 0,"Max": 0},
 			"Health": [{"Min": 0.35604220867157,"Max": 1,"Zone": ""}],
 			"InventoryAttachments": [],
@@ -666,7 +666,7 @@
 		{
 			"ClassName": "WoolGloves_White",
 			"Include": "",
-			"Chance": 0.087986477470398,
+			"Chance": 0.187986477470398,
 			"Quantity": {"Min": 0,"Max": 0},
 			"Health": [{"Min": 0.571396214167277,"Max": 1,"Zone": ""}],
 			"InventoryAttachments": [],
@@ -677,7 +677,7 @@
 		{
 			"ClassName": "Chemlight_White",
 			"Include": "",
-			"Chance": 0.034984334564209,
+			"Chance": 0.134984334564209,
 			"Quantity": {"Min": 0,"Max": 0},
 			"Health": [{"Min": 0.256349784533183,"Max": 1,"Zone": ""}],
 			"InventoryAttachments": [],
@@ -699,7 +699,7 @@
 		{
 			"ClassName": "dzn_phoenix_log_1",
 			"Include": "",
-			"Chance": 0.067028328037262,
+			"Chance": 0.07028328037262,
 			"Quantity": {"Min": 0,"Max": 0},
 			"Health": [{"Min": 0.28213658173879,"Max": 1,"Zone": ""}],
 			"InventoryAttachments": [],
@@ -708,9 +708,9 @@
 			"Sets": []
 		},
 		{
-			"ClassName": "ZenSleep_StimSyringe",
+			"ClassName": "Epinephrine",
 			"Include": "",
-			"Chance": 0.031375422334671,
+			"Chance": 0.131375422334671,
 			"Quantity": {"Min": 0,"Max": 0},
 			"Health": [{"Min": 0.50558084487915,"Max": 1,"Zone": ""}],
 			"InventoryAttachments": [],
@@ -743,7 +743,7 @@
 		{
 			"ClassName": "Battery9V",
 			"Include": "",
-			"Chance": 0.08198219165802,
+			"Chance": 0.18198219165802,
 			"Quantity": {"Min": 0,"Max": 0},
 			"Health": [{"Min": 0.649725975990295,"Max": 1,"Zone": ""}],
 			"InventoryAttachments": [],
@@ -787,7 +787,7 @@
 								{
 									"ClassName": "Ammo_12gaRubberSlug",
 									"Include": "",
-									"Chance": 0.010417272901535,
+									"Chance": 0.110417272901535,
 									"Quantity": {"Min": 0,"Max": 0},
 									"Health": [{"Min": 0.583910606702169,"Max": 1,"Zone": ""}],
 									"InventoryAttachments": [],
@@ -798,7 +798,7 @@
 								{
 									"ClassName": "Mag_SSG82_5rnd",
 									"Include": "",
-									"Chance": 0.089459123468399,
+									"Chance": 0.189459123468399,
 									"Quantity": {"Min": 0,"Max": 0},
 									"Health": [{"Min": 0.323134524027507,"Max": 1,"Zone": ""}],
 									"InventoryAttachments": [],
@@ -809,7 +809,7 @@
 								{
 									"ClassName": "SardinesCan",
 									"Include": "",
-									"Chance": 0.03885235414505,
+									"Chance": 0.13885235414505,
 									"Quantity": {"Min": 0,"Max": 0},
 									"Health": [{"Min": 0.35604220867157,"Max": 1,"Zone": ""}],
 									"InventoryAttachments": [],
@@ -820,7 +820,7 @@
 								{
 									"ClassName": "LeatherSewingKit",
 									"Include": "",
-									"Chance": 0.087986477470398,
+									"Chance": 0.187986477470398,
 									"Quantity": {"Min": 0,"Max": 0},
 									"Health": [{"Min": 0.571396214167277,"Max": 1,"Zone": ""}],
 									"InventoryAttachments": [],
@@ -831,7 +831,7 @@
 								{
 									"ClassName": "ElectronicRepairKit",
 									"Include": "",
-									"Chance": 0.034984334564209,
+									"Chance": 0.134984334564209,
 									"Quantity": {"Min": 0,"Max": 0},
 									"Health": [{"Min": 0.256349784533183,"Max": 1,"Zone": ""}],
 									"InventoryAttachments": [],
@@ -853,7 +853,7 @@
 								{
 									"ClassName": "CarpFilletMeat",
 									"Include": "",
-									"Chance": 0.023898490524292,
+									"Chance": 0.123898490524292,
 									"Quantity": {"Min": 0,"Max": 0},
 									"Health": [{"Min": 0.655119481086731,"Max": 1,"Zone": ""}],
 									"InventoryAttachments": [],
@@ -875,7 +875,7 @@
 								{
 									"ClassName": "CharcoalTablets",
 									"Include": "",
-									"Chance": 0.070896347618103,
+									"Chance": 0.170896347618103,
 									"Quantity": {"Min": 0,"Max": 0},
 									"Health": [{"Min": 0.381829005877177,"Max": 1,"Zone": ""}],
 									"InventoryAttachments": [],
@@ -886,7 +886,7 @@
 								{
 									"ClassName": "Epinephrine",
 									"Include": "",
-									"Chance": 0.074505259847641,
+									"Chance": 0.174505259847641,
 									"Quantity": {"Min": 0,"Max": 0},
 									"Health": [{"Min": 0.132597945531209,"Max": 1,"Zone": ""}],
 									"InventoryAttachments": [],
@@ -923,7 +923,7 @@
 								{
 									"ClassName": "Ammo_12gaRubberSlug",
 									"Include": "",
-									"Chance": 0.010417272901535,
+									"Chance": 0.110417272901535,
 									"Quantity": {"Min": 0,"Max": 0},
 									"Health": [{"Min": 0.583910606702169,"Max": 1,"Zone": ""}],
 									"InventoryAttachments": [],
@@ -934,7 +934,7 @@
 								{
 									"ClassName": "Mag_SSG82_5rnd",
 									"Include": "",
-									"Chance": 0.089459123468399,
+									"Chance": 0.189459123468399,
 									"Quantity": {"Min": 0,"Max": 0},
 									"Health": [{"Min": 0.323134524027507,"Max": 1,"Zone": ""}],
 									"InventoryAttachments": [],
@@ -945,7 +945,7 @@
 								{
 									"ClassName": "SardinesCan",
 									"Include": "",
-									"Chance": 0.03885235414505,
+									"Chance": 0.13885235414505,
 									"Quantity": {"Min": 0,"Max": 0},
 									"Health": [{"Min": 0.35604220867157,"Max": 1,"Zone": ""}],
 									"InventoryAttachments": [],
@@ -956,7 +956,7 @@
 								{
 									"ClassName": "LeatherSewingKit",
 									"Include": "",
-									"Chance": 0.087986477470398,
+									"Chance": 0.187986477470398,
 									"Quantity": {"Min": 0,"Max": 0},
 									"Health": [{"Min": 0.571396214167277,"Max": 1,"Zone": ""}],
 									"InventoryAttachments": [],
@@ -967,7 +967,7 @@
 								{
 									"ClassName": "ElectronicRepairKit",
 									"Include": "",
-									"Chance": 0.034984334564209,
+									"Chance": 0.134984334564209,
 									"Quantity": {"Min": 0,"Max": 0},
 									"Health": [{"Min": 0.256349784533183,"Max": 1,"Zone": ""}],
 									"InventoryAttachments": [],
@@ -989,7 +989,7 @@
 								{
 									"ClassName": "CarpFilletMeat",
 									"Include": "",
-									"Chance": 0.023898490524292,
+									"Chance": 0.123898490524292,
 									"Quantity": {"Min": 0,"Max": 0},
 									"Health": [{"Min": 0.655119481086731,"Max": 1,"Zone": ""}],
 									"InventoryAttachments": [],
@@ -1011,7 +1011,7 @@
 								{
 									"ClassName": "CharcoalTablets",
 									"Include": "",
-									"Chance": 0.070896347618103,
+									"Chance": 0.170896347618103,
 									"Quantity": {"Min": 0,"Max": 0},
 									"Health": [{"Min": 0.381829005877177,"Max": 1,"Zone": ""}],
 									"InventoryAttachments": [],
@@ -1022,7 +1022,7 @@
 								{
 									"ClassName": "Epinephrine",
 									"Include": "",
-									"Chance": 0.074505259847641,
+									"Chance": 0.174505259847641,
 									"Quantity": {"Min": 0,"Max": 0},
 									"Health": [{"Min": 0.132597945531209,"Max": 1,"Zone": ""}],
 									"InventoryAttachments": [],
@@ -1149,7 +1149,7 @@
 								{
 									"ClassName": "Ammo_12gaRubberSlug",
 									"Include": "",
-									"Chance": 0.010417272901535,
+									"Chance": 0.110417272901535,
 									"Quantity": {"Min": 0,"Max": 0},
 									"Health": [{"Min": 0.583910606702169,"Max": 1,"Zone": ""}],
 									"InventoryAttachments": [],
@@ -1160,7 +1160,7 @@
 								{
 									"ClassName": "Mag_SSG82_5rnd",
 									"Include": "",
-									"Chance": 0.089459123468399,
+									"Chance": 0.189459123468399,
 									"Quantity": {"Min": 0,"Max": 0},
 									"Health": [{"Min": 0.323134524027507,"Max": 1,"Zone": ""}],
 									"InventoryAttachments": [],
@@ -1171,7 +1171,7 @@
 								{
 									"ClassName": "SardinesCan",
 									"Include": "",
-									"Chance": 0.03885235414505,
+									"Chance": 0.13885235414505,
 									"Quantity": {"Min": 0,"Max": 0},
 									"Health": [{"Min": 0.35604220867157,"Max": 1,"Zone": ""}],
 									"InventoryAttachments": [],
@@ -1182,7 +1182,7 @@
 								{
 									"ClassName": "LeatherSewingKit",
 									"Include": "",
-									"Chance": 0.087986477470398,
+									"Chance": 0.187986477470398,
 									"Quantity": {"Min": 0,"Max": 0},
 									"Health": [{"Min": 0.571396214167277,"Max": 1,"Zone": ""}],
 									"InventoryAttachments": [],
@@ -1193,7 +1193,7 @@
 								{
 									"ClassName": "ElectronicRepairKit",
 									"Include": "",
-									"Chance": 0.034984334564209,
+									"Chance": 0.134984334564209,
 									"Quantity": {"Min": 0,"Max": 0},
 									"Health": [{"Min": 0.256349784533183,"Max": 1,"Zone": ""}],
 									"InventoryAttachments": [],
@@ -1215,7 +1215,7 @@
 								{
 									"ClassName": "CarpFilletMeat",
 									"Include": "",
-									"Chance": 0.023898490524292,
+									"Chance": 0.123898490524292,
 									"Quantity": {"Min": 0,"Max": 0},
 									"Health": [{"Min": 0.655119481086731,"Max": 1,"Zone": ""}],
 									"InventoryAttachments": [],
@@ -1237,7 +1237,7 @@
 								{
 									"ClassName": "CharcoalTablets",
 									"Include": "",
-									"Chance": 0.070896347618103,
+									"Chance": 0.170896347618103,
 									"Quantity": {"Min": 0,"Max": 0},
 									"Health": [{"Min": 0.381829005877177,"Max": 1,"Zone": ""}],
 									"InventoryAttachments": [],
@@ -1248,7 +1248,7 @@
 								{
 									"ClassName": "Epinephrine",
 									"Include": "",
-									"Chance": 0.074505259847641,
+									"Chance": 0.174505259847641,
 									"Quantity": {"Min": 0,"Max": 0},
 									"Health": [{"Min": 0.132597945531209,"Max": 1,"Zone": ""}],
 									"InventoryAttachments": [],
@@ -1285,7 +1285,7 @@
 								{
 									"ClassName": "Ammo_12gaRubberSlug",
 									"Include": "",
-									"Chance": 0.010417272901535,
+									"Chance": 0.110417272901535,
 									"Quantity": {"Min": 0,"Max": 0},
 									"Health": [{"Min": 0.583910606702169,"Max": 1,"Zone": ""}],
 									"InventoryAttachments": [],
@@ -1296,7 +1296,7 @@
 								{
 									"ClassName": "Mag_SSG82_5rnd",
 									"Include": "",
-									"Chance": 0.089459123468399,
+									"Chance": 0.189459123468399,
 									"Quantity": {"Min": 0,"Max": 0},
 									"Health": [{"Min": 0.323134524027507,"Max": 1,"Zone": ""}],
 									"InventoryAttachments": [],
@@ -1307,7 +1307,7 @@
 								{
 									"ClassName": "SardinesCan",
 									"Include": "",
-									"Chance": 0.03885235414505,
+									"Chance": 0.13885235414505,
 									"Quantity": {"Min": 0,"Max": 0},
 									"Health": [{"Min": 0.35604220867157,"Max": 1,"Zone": ""}],
 									"InventoryAttachments": [],
@@ -1318,7 +1318,7 @@
 								{
 									"ClassName": "LeatherSewingKit",
 									"Include": "",
-									"Chance": 0.087986477470398,
+									"Chance": 0.187986477470398,
 									"Quantity": {"Min": 0,"Max": 0},
 									"Health": [{"Min": 0.571396214167277,"Max": 1,"Zone": ""}],
 									"InventoryAttachments": [],
@@ -1329,7 +1329,7 @@
 								{
 									"ClassName": "ElectronicRepairKit",
 									"Include": "",
-									"Chance": 0.034984334564209,
+									"Chance": 0.134984334564209,
 									"Quantity": {"Min": 0,"Max": 0},
 									"Health": [{"Min": 0.256349784533183,"Max": 1,"Zone": ""}],
 									"InventoryAttachments": [],
@@ -1351,7 +1351,7 @@
 								{
 									"ClassName": "CarpFilletMeat",
 									"Include": "",
-									"Chance": 0.023898490524292,
+									"Chance": 0.123898490524292,
 									"Quantity": {"Min": 0,"Max": 0},
 									"Health": [{"Min": 0.655119481086731,"Max": 1,"Zone": ""}],
 									"InventoryAttachments": [],
@@ -1373,7 +1373,7 @@
 								{
 									"ClassName": "CharcoalTablets",
 									"Include": "",
-									"Chance": 0.070896347618103,
+									"Chance": 0.170896347618103,
 									"Quantity": {"Min": 0,"Max": 0},
 									"Health": [{"Min": 0.381829005877177,"Max": 1,"Zone": ""}],
 									"InventoryAttachments": [],
@@ -1384,7 +1384,7 @@
 								{
 									"ClassName": "Epinephrine",
 									"Include": "",
-									"Chance": 0.074505259847641,
+									"Chance": 0.174505259847641,
 									"Quantity": {"Min": 0,"Max": 0},
 									"Health": [{"Min": 0.132597945531209,"Max": 1,"Zone": ""}],
 									"InventoryAttachments": [],
@@ -2882,7 +2882,7 @@
                                         {
                                             "ClassName": "ReflexOptic",
                                             "Include": "",
-                                            "Chance": 0.07500000298023224,
+                                            "Chance": 0.17500000298023224,
                                             "Quantity": {
                                                 "Min": 0.0,
                                                 "Max": 0.0
@@ -2916,7 +2916,7 @@
                                         {
                                             "ClassName": "M68Optic",
                                             "Include": "",
-                                            "Chance": 0.07500000298023224,
+                                            "Chance": 0.17500000298023224,
                                             "Quantity": {
                                                 "Min": 0.0,
                                                 "Max": 0.0
@@ -2950,7 +2950,7 @@
                                         {
                                             "ClassName": "StarlightOptic",
                                             "Include": "",
-                                            "Chance": 0.05000000074505806,
+                                            "Chance": 0.14000000074505806,
                                             "Quantity": {
                                                 "Min": 0.0,
                                                 "Max": 0.0
@@ -3176,7 +3176,7 @@
                                         {
                                             "ClassName": "Mag_CMAG_10Rnd",
                                             "Include": "",
-                                            "Chance": 0.05000000074505806,
+                                            "Chance": 0.14000000074505806,
                                             "Quantity": {
                                                 "Min": 0.0,
                                                 "Max": 0.0
@@ -3190,7 +3190,7 @@
                                         {
                                             "ClassName": "Mag_CMAG_20Rnd",
                                             "Include": "",
-                                            "Chance": 0.05000000074505806,
+                                            "Chance": 0.14000000074505806,
                                             "Quantity": {
                                                 "Min": 0.0,
                                                 "Max": 0.0
@@ -3204,7 +3204,7 @@
                                         {
                                             "ClassName": "Mag_CMAG_30Rnd",
                                             "Include": "",
-                                            "Chance": 0.05000000074505806,
+                                            "Chance": 0.14000000074505806,
                                             "Quantity": {
                                                 "Min": 0.0,
                                                 "Max": 0.0
@@ -3218,7 +3218,7 @@
                                         {
                                             "ClassName": "Mag_CMAG_40Rnd",
                                             "Include": "",
-                                            "Chance": 0.05000000074505806,
+                                            "Chance": 0.14000000074505806,
                                             "Quantity": {
                                                 "Min": 0.0,
                                                 "Max": 0.0
@@ -3330,7 +3330,7 @@
                                         {
                                             "ClassName": "ACOGOptic_6x",
                                             "Include": "",
-                                            "Chance": 0.05000000074505806,
+                                            "Chance": 0.14000000074505806,
                                             "Quantity": {
                                                 "Min": 0.0,
                                                 "Max": 0.0
@@ -3686,7 +3686,7 @@
                                         {
                                             "ClassName": "ACOGOptic_6x",
                                             "Include": "",
-                                            "Chance": 0.05000000074505806,
+                                            "Chance": 0.14000000074505806,
                                             "Quantity": {
                                                 "Min": 0.0,
                                                 "Max": 0.0

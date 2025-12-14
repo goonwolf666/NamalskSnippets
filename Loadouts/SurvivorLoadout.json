@@ -31,7 +31,7 @@
 						{
 							"ClassName": "CJ_Key1",
 							"Include": "",
-							"Chance": 0.024103613948822,
+							"Chance": 0.124103613948822,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.337774418195089,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -86,7 +86,7 @@
 						{
 							"ClassName": "HeadlightH7_Box",
 							"Include": "",
-							"Chance": 0.013017769908905,
+							"Chance": 0.113017769908905,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.658214352925618,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -129,7 +129,7 @@
 						{
 							"ClassName": "CJ_Key1",
 							"Include": "",
-							"Chance": 0.024103613948822,
+							"Chance": 0.124103613948822,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.337774418195089,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -184,7 +184,7 @@
 						{
 							"ClassName": "HeadlightH7_Box",
 							"Include": "",
-							"Chance": 0.013017769908905,
+							"Chance": 0.113017769908905,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.658214352925618,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -227,7 +227,7 @@
 						{
 							"ClassName": "CJ_Key1",
 							"Include": "",
-							"Chance": 0.024103613948822,
+							"Chance": 0.124103613948822,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.337774418195089,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -282,7 +282,7 @@
 						{
 							"ClassName": "HeadlightH7_Box",
 							"Include": "",
-							"Chance": 0.013017769908905,
+							"Chance": 0.113017769908905,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.658214352925618,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -325,7 +325,7 @@
 						{
 							"ClassName": "CJ_Key1",
 							"Include": "",
-							"Chance": 0.024103613948822,
+							"Chance": 0.124103613948822,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.337774418195089,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -380,7 +380,7 @@
 						{
 							"ClassName": "HeadlightH7_Box",
 							"Include": "",
-							"Chance": 0.013017769908905,
+							"Chance": 0.113017769908905,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.658214352925618,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -423,7 +423,7 @@
 						{
 							"ClassName": "CJ_Key1",
 							"Include": "",
-							"Chance": 0.024103613948822,
+							"Chance": 0.124103613948822,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.337774418195089,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -478,7 +478,7 @@
 						{
 							"ClassName": "HeadlightH7_Box",
 							"Include": "",
-							"Chance": 0.013017769908905,
+							"Chance": 0.113017769908905,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.658214352925618,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -521,7 +521,7 @@
 						{
 							"ClassName": "CJ_Key1",
 							"Include": "",
-							"Chance": 0.024103613948822,
+							"Chance": 0.124103613948822,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.337774418195089,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -576,7 +576,7 @@
 						{
 							"ClassName": "HeadlightH7_Box",
 							"Include": "",
-							"Chance": 0.013017769908905,
+							"Chance": 0.113017769908905,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.658214352925618,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -619,7 +619,7 @@
 						{
 							"ClassName": "CJ_Key1",
 							"Include": "",
-							"Chance": 0.024103613948822,
+							"Chance": 0.124103613948822,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.337774418195089,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -674,7 +674,7 @@
 						{
 							"ClassName": "HeadlightH7_Box",
 							"Include": "",
-							"Chance": 0.013017769908905,
+							"Chance": 0.113017769908905,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.658214352925618,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -717,7 +717,7 @@
 						{
 							"ClassName": "CJ_Key1",
 							"Include": "",
-							"Chance": 0.024103613948822,
+							"Chance": 0.124103613948822,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.337774418195089,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -772,7 +772,7 @@
 						{
 							"ClassName": "HeadlightH7_Box",
 							"Include": "",
-							"Chance": 0.013017769908905,
+							"Chance": 0.113017769908905,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.658214352925618,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -815,7 +815,7 @@
 						{
 							"ClassName": "CJ_Key1",
 							"Include": "",
-							"Chance": 0.024103613948822,
+							"Chance": 0.124103613948822,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.337774418195089,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -870,7 +870,7 @@
 						{
 							"ClassName": "HeadlightH7_Box",
 							"Include": "",
-							"Chance": 0.013017769908905,
+							"Chance": 0.113017769908905,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.658214352925618,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -913,7 +913,7 @@
 						{
 							"ClassName": "CJ_Key1",
 							"Include": "",
-							"Chance": 0.024103613948822,
+							"Chance": 0.124103613948822,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.337774418195089,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -968,7 +968,7 @@
 						{
 							"ClassName": "HeadlightH7_Box",
 							"Include": "",
-							"Chance": 0.013017769908905,
+							"Chance": 0.113017769908905,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.658214352925618,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -1011,7 +1011,7 @@
 						{
 							"ClassName": "CJ_Key1",
 							"Include": "",
-							"Chance": 0.024103613948822,
+							"Chance": 0.124103613948822,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.337774418195089,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -1066,7 +1066,7 @@
 						{
 							"ClassName": "HeadlightH7_Box",
 							"Include": "",
-							"Chance": 0.013017769908905,
+							"Chance": 0.113017769908905,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.658214352925618,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -1109,7 +1109,7 @@
 						{
 							"ClassName": "CJ_Key1",
 							"Include": "",
-							"Chance": 0.024103613948822,
+							"Chance": 0.124103613948822,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.337774418195089,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -1164,7 +1164,7 @@
 						{
 							"ClassName": "HeadlightH7_Box",
 							"Include": "",
-							"Chance": 0.013017769908905,
+							"Chance": 0.113017769908905,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.658214352925618,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -1207,7 +1207,7 @@
 						{
 							"ClassName": "CJ_Key1",
 							"Include": "",
-							"Chance": 0.024103613948822,
+							"Chance": 0.124103613948822,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.337774418195089,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -1262,7 +1262,7 @@
 						{
 							"ClassName": "HeadlightH7_Box",
 							"Include": "",
-							"Chance": 0.013017769908905,
+							"Chance": 0.113017769908905,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.658214352925618,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -1305,7 +1305,7 @@
 						{
 							"ClassName": "CJ_Key1",
 							"Include": "",
-							"Chance": 0.024103613948822,
+							"Chance": 0.124103613948822,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.337774418195089,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -1360,7 +1360,7 @@
 						{
 							"ClassName": "HeadlightH7_Box",
 							"Include": "",
-							"Chance": 0.013017769908905,
+							"Chance": 0.113017769908905,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.658214352925618,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -1403,7 +1403,7 @@
 						{
 							"ClassName": "CJ_Key1",
 							"Include": "",
-							"Chance": 0.024103613948822,
+							"Chance": 0.124103613948822,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.337774418195089,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -1458,7 +1458,7 @@
 						{
 							"ClassName": "HeadlightH7_Box",
 							"Include": "",
-							"Chance": 0.013017769908905,
+							"Chance": 0.113017769908905,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.658214352925618,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -1501,7 +1501,7 @@
 						{
 							"ClassName": "CJ_Key1",
 							"Include": "",
-							"Chance": 0.024103613948822,
+							"Chance": 0.124103613948822,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.337774418195089,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -1556,7 +1556,7 @@
 						{
 							"ClassName": "HeadlightH7_Box",
 							"Include": "",
-							"Chance": 0.013017769908905,
+							"Chance": 0.113017769908905,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.658214352925618,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -1599,7 +1599,7 @@
 						{
 							"ClassName": "CJ_Key1",
 							"Include": "",
-							"Chance": 0.024103613948822,
+							"Chance": 0.124103613948822,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.337774418195089,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -1654,7 +1654,7 @@
 						{
 							"ClassName": "HeadlightH7_Box",
 							"Include": "",
-							"Chance": 0.013017769908905,
+							"Chance": 0.113017769908905,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.658214352925618,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -1697,7 +1697,7 @@
 						{
 							"ClassName": "CJ_Key1",
 							"Include": "",
-							"Chance": 0.024103613948822,
+							"Chance": 0.124103613948822,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.337774418195089,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -1752,7 +1752,7 @@
 						{
 							"ClassName": "HeadlightH7_Box",
 							"Include": "",
-							"Chance": 0.013017769908905,
+							"Chance": 0.113017769908905,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.658214352925618,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -1795,7 +1795,7 @@
 						{
 							"ClassName": "CJ_Key1",
 							"Include": "",
-							"Chance": 0.024103613948822,
+							"Chance": 0.124103613948822,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.337774418195089,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -1850,7 +1850,7 @@
 						{
 							"ClassName": "HeadlightH7_Box",
 							"Include": "",
-							"Chance": 0.013017769908905,
+							"Chance": 0.113017769908905,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.658214352925618,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -1893,7 +1893,7 @@
 						{
 							"ClassName": "CJ_Key1",
 							"Include": "",
-							"Chance": 0.024103613948822,
+							"Chance": 0.124103613948822,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.337774418195089,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -1948,7 +1948,7 @@
 						{
 							"ClassName": "HeadlightH7_Box",
 							"Include": "",
-							"Chance": 0.013017769908905,
+							"Chance": 0.113017769908905,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.658214352925618,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -1991,7 +1991,7 @@
 						{
 							"ClassName": "CJ_Key1",
 							"Include": "",
-							"Chance": 0.024103613948822,
+							"Chance": 0.124103613948822,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.337774418195089,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -2046,7 +2046,7 @@
 						{
 							"ClassName": "HeadlightH7_Box",
 							"Include": "",
-							"Chance": 0.013017769908905,
+							"Chance": 0.113017769908905,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.658214352925618,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -2089,7 +2089,7 @@
 						{
 							"ClassName": "CJ_Key1",
 							"Include": "",
-							"Chance": 0.024103613948822,
+							"Chance": 0.124103613948822,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.337774418195089,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -2144,7 +2144,7 @@
 						{
 							"ClassName": "HeadlightH7_Box",
 							"Include": "",
-							"Chance": 0.013017769908905,
+							"Chance": 0.113017769908905,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.658214352925618,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -2187,7 +2187,7 @@
 						{
 							"ClassName": "CJ_Key1",
 							"Include": "",
-							"Chance": 0.024103613948822,
+							"Chance": 0.124103613948822,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.337774418195089,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -2242,7 +2242,7 @@
 						{
 							"ClassName": "HeadlightH7_Box",
 							"Include": "",
-							"Chance": 0.013017769908905,
+							"Chance": 0.113017769908905,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.658214352925618,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -2285,7 +2285,7 @@
 						{
 							"ClassName": "CJ_Key1",
 							"Include": "",
-							"Chance": 0.024103613948822,
+							"Chance": 0.124103613948822,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.337774418195089,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -2340,7 +2340,7 @@
 						{
 							"ClassName": "HeadlightH7_Box",
 							"Include": "",
-							"Chance": 0.013017769908905,
+							"Chance": 0.113017769908905,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.658214352925618,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -2383,7 +2383,7 @@
 						{
 							"ClassName": "CJ_Key1",
 							"Include": "",
-							"Chance": 0.024103613948822,
+							"Chance": 0.124103613948822,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.337774418195089,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -2438,7 +2438,7 @@
 						{
 							"ClassName": "HeadlightH7_Box",
 							"Include": "",
-							"Chance": 0.013017769908905,
+							"Chance": 0.113017769908905,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.658214352925618,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -2481,7 +2481,7 @@
 						{
 							"ClassName": "CJ_Key1",
 							"Include": "",
-							"Chance": 0.024103613948822,
+							"Chance": 0.124103613948822,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.337774418195089,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -2536,7 +2536,7 @@
 						{
 							"ClassName": "HeadlightH7_Box",
 							"Include": "",
-							"Chance": 0.013017769908905,
+							"Chance": 0.113017769908905,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.658214352925618,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -2579,7 +2579,7 @@
 						{
 							"ClassName": "CJ_Key1",
 							"Include": "",
-							"Chance": 0.024103613948822,
+							"Chance": 0.124103613948822,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.337774418195089,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -2634,7 +2634,7 @@
 						{
 							"ClassName": "HeadlightH7_Box",
 							"Include": "",
-							"Chance": 0.013017769908905,
+							"Chance": 0.113017769908905,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.658214352925618,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -2677,7 +2677,7 @@
 						{
 							"ClassName": "CJ_Key1",
 							"Include": "",
-							"Chance": 0.024103613948822,
+							"Chance": 0.124103613948822,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.337774418195089,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -2732,7 +2732,7 @@
 						{
 							"ClassName": "HeadlightH7_Box",
 							"Include": "",
-							"Chance": 0.013017769908905,
+							"Chance": 0.113017769908905,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.658214352925618,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -2775,7 +2775,7 @@
 						{
 							"ClassName": "CJ_Key1",
 							"Include": "",
-							"Chance": 0.024103613948822,
+							"Chance": 0.124103613948822,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.337774418195089,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -2830,7 +2830,7 @@
 						{
 							"ClassName": "HeadlightH7_Box",
 							"Include": "",
-							"Chance": 0.013017769908905,
+							"Chance": 0.113017769908905,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.658214352925618,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -2873,7 +2873,7 @@
 						{
 							"ClassName": "CJ_Key1",
 							"Include": "",
-							"Chance": 0.024103613948822,
+							"Chance": 0.124103613948822,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.337774418195089,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -2928,7 +2928,7 @@
 						{
 							"ClassName": "HeadlightH7_Box",
 							"Include": "",
-							"Chance": 0.013017769908905,
+							"Chance": 0.113017769908905,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.658214352925618,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -2971,7 +2971,7 @@
 						{
 							"ClassName": "CJ_Key1",
 							"Include": "",
-							"Chance": 0.024103613948822,
+							"Chance": 0.124103613948822,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.337774418195089,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -3026,7 +3026,7 @@
 						{
 							"ClassName": "HeadlightH7_Box",
 							"Include": "",
-							"Chance": 0.013017769908905,
+							"Chance": 0.113017769908905,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.658214352925618,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -3069,7 +3069,7 @@
 						{
 							"ClassName": "CJ_Key1",
 							"Include": "",
-							"Chance": 0.024103613948822,
+							"Chance": 0.124103613948822,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.337774418195089,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -3124,7 +3124,7 @@
 						{
 							"ClassName": "HeadlightH7_Box",
 							"Include": "",
-							"Chance": 0.013017769908905,
+							"Chance": 0.113017769908905,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.658214352925618,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -3167,7 +3167,7 @@
 						{
 							"ClassName": "CJ_Key1",
 							"Include": "",
-							"Chance": 0.024103613948822,
+							"Chance": 0.124103613948822,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.337774418195089,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -3222,7 +3222,7 @@
 						{
 							"ClassName": "HeadlightH7_Box",
 							"Include": "",
-							"Chance": 0.013017769908905,
+							"Chance": 0.113017769908905,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.658214352925618,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -3265,7 +3265,7 @@
 						{
 							"ClassName": "CJ_Key1",
 							"Include": "",
-							"Chance": 0.024103613948822,
+							"Chance": 0.124103613948822,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.337774418195089,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -3320,7 +3320,7 @@
 						{
 							"ClassName": "HeadlightH7_Box",
 							"Include": "",
-							"Chance": 0.013017769908905,
+							"Chance": 0.113017769908905,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.658214352925618,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -3363,7 +3363,7 @@
 						{
 							"ClassName": "CJ_Key1",
 							"Include": "",
-							"Chance": 0.024103613948822,
+							"Chance": 0.124103613948822,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.337774418195089,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -3418,7 +3418,7 @@
 						{
 							"ClassName": "HeadlightH7_Box",
 							"Include": "",
-							"Chance": 0.013017769908905,
+							"Chance": 0.113017769908905,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.658214352925618,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -3461,7 +3461,7 @@
 						{
 							"ClassName": "CJ_Key1",
 							"Include": "",
-							"Chance": 0.024103613948822,
+							"Chance": 0.124103613948822,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.337774418195089,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -3516,7 +3516,7 @@
 						{
 							"ClassName": "HeadlightH7_Box",
 							"Include": "",
-							"Chance": 0.013017769908905,
+							"Chance": 0.113017769908905,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.658214352925618,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -3575,7 +3575,7 @@
 						{
 							"ClassName": "UnknownFoodCan",
 							"Include": "",
-							"Chance": 0.052538695192337,
+							"Chance": 0.142538695192337,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.612792275746663,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -3586,7 +3586,7 @@
 						{
 							"ClassName": "FryingPan",
 							"Include": "",
-							"Chance": 0.037584831571579,
+							"Chance": 0.137584831571579,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.245202881495158,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -3630,7 +3630,7 @@
 						{
 							"ClassName": "Bark_Birch",
 							"Include": "",
-							"Chance": 0.020235594367981,
+							"Chance": 0.120235594367981,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.238081994056702,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -3652,7 +3652,7 @@
 						{
 							"ClassName": "Zagorky",
 							"Include": "",
-							"Chance": 0.058542981004715,
+							"Chance": 0.148542981004715,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.669759375254313,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -3706,7 +3706,7 @@
 						{
 							"ClassName": "UnknownFoodCan",
 							"Include": "",
-							"Chance": 0.052538695192337,
+							"Chance": 0.142538695192337,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.612792275746663,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -3717,7 +3717,7 @@
 						{
 							"ClassName": "FryingPan",
 							"Include": "",
-							"Chance": 0.037584831571579,
+							"Chance": 0.137584831571579,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.245202881495158,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -3761,7 +3761,7 @@
 						{
 							"ClassName": "Bark_Birch",
 							"Include": "",
-							"Chance": 0.020235594367981,
+							"Chance": 0.120235594367981,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.238081994056702,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -3783,7 +3783,7 @@
 						{
 							"ClassName": "Zagorky",
 							"Include": "",
-							"Chance": 0.058542981004715,
+							"Chance": 0.148542981004715,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.669759375254313,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -3837,7 +3837,7 @@
 						{
 							"ClassName": "UnknownFoodCan",
 							"Include": "",
-							"Chance": 0.052538695192337,
+							"Chance": 0.142538695192337,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.612792275746663,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -3848,7 +3848,7 @@
 						{
 							"ClassName": "FryingPan",
 							"Include": "",
-							"Chance": 0.037584831571579,
+							"Chance": 0.137584831571579,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.245202881495158,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -3892,7 +3892,7 @@
 						{
 							"ClassName": "Bark_Birch",
 							"Include": "",
-							"Chance": 0.020235594367981,
+							"Chance": 0.120235594367981,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.238081994056702,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -3914,7 +3914,7 @@
 						{
 							"ClassName": "Zagorky",
 							"Include": "",
-							"Chance": 0.058542981004715,
+							"Chance": 0.148542981004715,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.669759375254313,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -3968,7 +3968,7 @@
 						{
 							"ClassName": "UnknownFoodCan",
 							"Include": "",
-							"Chance": 0.052538695192337,
+							"Chance": 0.142538695192337,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.612792275746663,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -3979,7 +3979,7 @@
 						{
 							"ClassName": "FryingPan",
 							"Include": "",
-							"Chance": 0.037584831571579,
+							"Chance": 0.137584831571579,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.245202881495158,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -4023,7 +4023,7 @@
 						{
 							"ClassName": "Bark_Birch",
 							"Include": "",
-							"Chance": 0.020235594367981,
+							"Chance": 0.120235594367981,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.238081994056702,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -4045,7 +4045,7 @@
 						{
 							"ClassName": "Zagorky",
 							"Include": "",
-							"Chance": 0.058542981004715,
+							"Chance": 0.148542981004715,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.669759375254313,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -4099,7 +4099,7 @@
 						{
 							"ClassName": "UnknownFoodCan",
 							"Include": "",
-							"Chance": 0.052538695192337,
+							"Chance": 0.142538695192337,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.612792275746663,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -4110,7 +4110,7 @@
 						{
 							"ClassName": "FryingPan",
 							"Include": "",
-							"Chance": 0.037584831571579,
+							"Chance": 0.137584831571579,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.245202881495158,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -4154,7 +4154,7 @@
 						{
 							"ClassName": "Bark_Birch",
 							"Include": "",
-							"Chance": 0.020235594367981,
+							"Chance": 0.120235594367981,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.238081994056702,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -4176,7 +4176,7 @@
 						{
 							"ClassName": "Zagorky",
 							"Include": "",
-							"Chance": 0.058542981004715,
+							"Chance": 0.148542981004715,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.669759375254313,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -4230,7 +4230,7 @@
 						{
 							"ClassName": "UnknownFoodCan",
 							"Include": "",
-							"Chance": 0.052538695192337,
+							"Chance": 0.142538695192337,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.612792275746663,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -4241,7 +4241,7 @@
 						{
 							"ClassName": "FryingPan",
 							"Include": "",
-							"Chance": 0.037584831571579,
+							"Chance": 0.137584831571579,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.245202881495158,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -4285,7 +4285,7 @@
 						{
 							"ClassName": "Bark_Birch",
 							"Include": "",
-							"Chance": 0.020235594367981,
+							"Chance": 0.120235594367981,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.238081994056702,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -4307,7 +4307,7 @@
 						{
 							"ClassName": "Zagorky",
 							"Include": "",
-							"Chance": 0.058542981004715,
+							"Chance": 0.148542981004715,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.669759375254313,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -4361,7 +4361,7 @@
 						{
 							"ClassName": "UnknownFoodCan",
 							"Include": "",
-							"Chance": 0.052538695192337,
+							"Chance": 0.142538695192337,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.612792275746663,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -4372,7 +4372,7 @@
 						{
 							"ClassName": "FryingPan",
 							"Include": "",
-							"Chance": 0.037584831571579,
+							"Chance": 0.137584831571579,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.245202881495158,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -4416,7 +4416,7 @@
 						{
 							"ClassName": "Bark_Birch",
 							"Include": "",
-							"Chance": 0.020235594367981,
+							"Chance": 0.120235594367981,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.238081994056702,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -4438,7 +4438,7 @@
 						{
 							"ClassName": "Zagorky",
 							"Include": "",
-							"Chance": 0.058542981004715,
+							"Chance": 0.148542981004715,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.669759375254313,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -4492,7 +4492,7 @@
 						{
 							"ClassName": "UnknownFoodCan",
 							"Include": "",
-							"Chance": 0.052538695192337,
+							"Chance": 0.142538695192337,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.612792275746663,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -4503,7 +4503,7 @@
 						{
 							"ClassName": "FryingPan",
 							"Include": "",
-							"Chance": 0.037584831571579,
+							"Chance": 0.137584831571579,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.245202881495158,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -4547,7 +4547,7 @@
 						{
 							"ClassName": "Bark_Birch",
 							"Include": "",
-							"Chance": 0.020235594367981,
+							"Chance": 0.120235594367981,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.238081994056702,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -4569,7 +4569,7 @@
 						{
 							"ClassName": "Zagorky",
 							"Include": "",
-							"Chance": 0.058542981004715,
+							"Chance": 0.148542981004715,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.669759375254313,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -4623,7 +4623,7 @@
 						{
 							"ClassName": "UnknownFoodCan",
 							"Include": "",
-							"Chance": 0.052538695192337,
+							"Chance": 0.142538695192337,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.612792275746663,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -4634,7 +4634,7 @@
 						{
 							"ClassName": "FryingPan",
 							"Include": "",
-							"Chance": 0.037584831571579,
+							"Chance": 0.137584831571579,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.245202881495158,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -4678,7 +4678,7 @@
 						{
 							"ClassName": "Bark_Birch",
 							"Include": "",
-							"Chance": 0.020235594367981,
+							"Chance": 0.120235594367981,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.238081994056702,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -4700,7 +4700,7 @@
 						{
 							"ClassName": "Zagorky",
 							"Include": "",
-							"Chance": 0.058542981004715,
+							"Chance": 0.148542981004715,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.669759375254313,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -4754,7 +4754,7 @@
 						{
 							"ClassName": "UnknownFoodCan",
 							"Include": "",
-							"Chance": 0.052538695192337,
+							"Chance": 0.142538695192337,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.612792275746663,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -4765,7 +4765,7 @@
 						{
 							"ClassName": "FryingPan",
 							"Include": "",
-							"Chance": 0.037584831571579,
+							"Chance": 0.137584831571579,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.245202881495158,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -4809,7 +4809,7 @@
 						{
 							"ClassName": "Bark_Birch",
 							"Include": "",
-							"Chance": 0.020235594367981,
+							"Chance": 0.120235594367981,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.238081994056702,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -4831,7 +4831,7 @@
 						{
 							"ClassName": "Zagorky",
 							"Include": "",
-							"Chance": 0.058542981004715,
+							"Chance": 0.148542981004715,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.669759375254313,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -4885,7 +4885,7 @@
 						{
 							"ClassName": "UnknownFoodCan",
 							"Include": "",
-							"Chance": 0.052538695192337,
+							"Chance": 0.142538695192337,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.612792275746663,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -4896,7 +4896,7 @@
 						{
 							"ClassName": "FryingPan",
 							"Include": "",
-							"Chance": 0.037584831571579,
+							"Chance": 0.137584831571579,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.245202881495158,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -4940,7 +4940,7 @@
 						{
 							"ClassName": "Bark_Birch",
 							"Include": "",
-							"Chance": 0.020235594367981,
+							"Chance": 0.120235594367981,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.238081994056702,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -4962,7 +4962,7 @@
 						{
 							"ClassName": "Zagorky",
 							"Include": "",
-							"Chance": 0.058542981004715,
+							"Chance": 0.148542981004715,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.669759375254313,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -5016,7 +5016,7 @@
 						{
 							"ClassName": "UnknownFoodCan",
 							"Include": "",
-							"Chance": 0.052538695192337,
+							"Chance": 0.142538695192337,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.612792275746663,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -5027,7 +5027,7 @@
 						{
 							"ClassName": "FryingPan",
 							"Include": "",
-							"Chance": 0.037584831571579,
+							"Chance": 0.137584831571579,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.245202881495158,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -5071,7 +5071,7 @@
 						{
 							"ClassName": "Bark_Birch",
 							"Include": "",
-							"Chance": 0.020235594367981,
+							"Chance": 0.120235594367981,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.238081994056702,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -5093,7 +5093,7 @@
 						{
 							"ClassName": "Zagorky",
 							"Include": "",
-							"Chance": 0.058542981004715,
+							"Chance": 0.148542981004715,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.669759375254313,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -5147,7 +5147,7 @@
 						{
 							"ClassName": "UnknownFoodCan",
 							"Include": "",
-							"Chance": 0.052538695192337,
+							"Chance": 0.142538695192337,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.612792275746663,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -5158,7 +5158,7 @@
 						{
 							"ClassName": "FryingPan",
 							"Include": "",
-							"Chance": 0.037584831571579,
+							"Chance": 0.137584831571579,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.245202881495158,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -5202,7 +5202,7 @@
 						{
 							"ClassName": "Bark_Birch",
 							"Include": "",
-							"Chance": 0.020235594367981,
+							"Chance": 0.120235594367981,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.238081994056702,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -5224,7 +5224,7 @@
 						{
 							"ClassName": "Zagorky",
 							"Include": "",
-							"Chance": 0.058542981004715,
+							"Chance": 0.148542981004715,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.669759375254313,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -5278,7 +5278,7 @@
 						{
 							"ClassName": "UnknownFoodCan",
 							"Include": "",
-							"Chance": 0.052538695192337,
+							"Chance": 0.142538695192337,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.612792275746663,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -5289,7 +5289,7 @@
 						{
 							"ClassName": "FryingPan",
 							"Include": "",
-							"Chance": 0.037584831571579,
+							"Chance": 0.137584831571579,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.245202881495158,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -5333,7 +5333,7 @@
 						{
 							"ClassName": "Bark_Birch",
 							"Include": "",
-							"Chance": 0.020235594367981,
+							"Chance": 0.120235594367981,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.238081994056702,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -5355,7 +5355,7 @@
 						{
 							"ClassName": "Zagorky",
 							"Include": "",
-							"Chance": 0.058542981004715,
+							"Chance": 0.148542981004715,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.669759375254313,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -5409,7 +5409,7 @@
 						{
 							"ClassName": "UnknownFoodCan",
 							"Include": "",
-							"Chance": 0.052538695192337,
+							"Chance": 0.142538695192337,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.612792275746663,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -5420,7 +5420,7 @@
 						{
 							"ClassName": "FryingPan",
 							"Include": "",
-							"Chance": 0.037584831571579,
+							"Chance": 0.137584831571579,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.245202881495158,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -5464,7 +5464,7 @@
 						{
 							"ClassName": "Bark_Birch",
 							"Include": "",
-							"Chance": 0.020235594367981,
+							"Chance": 0.120235594367981,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.238081994056702,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -5486,7 +5486,7 @@
 						{
 							"ClassName": "Zagorky",
 							"Include": "",
-							"Chance": 0.058542981004715,
+							"Chance": 0.148542981004715,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.669759375254313,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -5540,7 +5540,7 @@
 						{
 							"ClassName": "UnknownFoodCan",
 							"Include": "",
-							"Chance": 0.052538695192337,
+							"Chance": 0.142538695192337,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.612792275746663,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -5551,7 +5551,7 @@
 						{
 							"ClassName": "FryingPan",
 							"Include": "",
-							"Chance": 0.037584831571579,
+							"Chance": 0.137584831571579,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.245202881495158,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -5595,7 +5595,7 @@
 						{
 							"ClassName": "Bark_Birch",
 							"Include": "",
-							"Chance": 0.020235594367981,
+							"Chance": 0.120235594367981,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.238081994056702,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -5617,7 +5617,7 @@
 						{
 							"ClassName": "Zagorky",
 							"Include": "",
-							"Chance": 0.058542981004715,
+							"Chance": 0.148542981004715,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.669759375254313,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -5671,7 +5671,7 @@
 						{
 							"ClassName": "UnknownFoodCan",
 							"Include": "",
-							"Chance": 0.052538695192337,
+							"Chance": 0.142538695192337,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.612792275746663,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -5682,7 +5682,7 @@
 						{
 							"ClassName": "FryingPan",
 							"Include": "",
-							"Chance": 0.037584831571579,
+							"Chance": 0.137584831571579,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.245202881495158,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -5726,7 +5726,7 @@
 						{
 							"ClassName": "Bark_Birch",
 							"Include": "",
-							"Chance": 0.020235594367981,
+							"Chance": 0.120235594367981,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.238081994056702,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -5748,7 +5748,7 @@
 						{
 							"ClassName": "Zagorky",
 							"Include": "",
-							"Chance": 0.058542981004715,
+							"Chance": 0.148542981004715,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.669759375254313,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -5802,7 +5802,7 @@
 						{
 							"ClassName": "UnknownFoodCan",
 							"Include": "",
-							"Chance": 0.052538695192337,
+							"Chance": 0.142538695192337,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.612792275746663,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -5813,7 +5813,7 @@
 						{
 							"ClassName": "FryingPan",
 							"Include": "",
-							"Chance": 0.037584831571579,
+							"Chance": 0.137584831571579,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.245202881495158,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -5857,7 +5857,7 @@
 						{
 							"ClassName": "Bark_Birch",
 							"Include": "",
-							"Chance": 0.020235594367981,
+							"Chance": 0.120235594367981,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.238081994056702,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -5879,7 +5879,7 @@
 						{
 							"ClassName": "Zagorky",
 							"Include": "",
-							"Chance": 0.058542981004715,
+							"Chance": 0.148542981004715,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.669759375254313,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -5933,7 +5933,7 @@
 						{
 							"ClassName": "UnknownFoodCan",
 							"Include": "",
-							"Chance": 0.052538695192337,
+							"Chance": 0.142538695192337,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.612792275746663,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -5944,7 +5944,7 @@
 						{
 							"ClassName": "FryingPan",
 							"Include": "",
-							"Chance": 0.037584831571579,
+							"Chance": 0.137584831571579,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.245202881495158,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -5988,7 +5988,7 @@
 						{
 							"ClassName": "Bark_Birch",
 							"Include": "",
-							"Chance": 0.020235594367981,
+							"Chance": 0.120235594367981,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.238081994056702,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -6010,7 +6010,7 @@
 						{
 							"ClassName": "Zagorky",
 							"Include": "",
-							"Chance": 0.058542981004715,
+							"Chance": 0.148542981004715,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.669759375254313,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -6064,7 +6064,7 @@
 						{
 							"ClassName": "UnknownFoodCan",
 							"Include": "",
-							"Chance": 0.052538695192337,
+							"Chance": 0.142538695192337,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.612792275746663,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -6075,7 +6075,7 @@
 						{
 							"ClassName": "FryingPan",
 							"Include": "",
-							"Chance": 0.037584831571579,
+							"Chance": 0.137584831571579,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.245202881495158,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -6119,7 +6119,7 @@
 						{
 							"ClassName": "Bark_Birch",
 							"Include": "",
-							"Chance": 0.020235594367981,
+							"Chance": 0.120235594367981,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.238081994056702,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -6141,7 +6141,7 @@
 						{
 							"ClassName": "Zagorky",
 							"Include": "",
-							"Chance": 0.058542981004715,
+							"Chance": 0.148542981004715,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.669759375254313,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -6195,7 +6195,7 @@
 						{
 							"ClassName": "UnknownFoodCan",
 							"Include": "",
-							"Chance": 0.052538695192337,
+							"Chance": 0.142538695192337,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.612792275746663,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -6206,7 +6206,7 @@
 						{
 							"ClassName": "FryingPan",
 							"Include": "",
-							"Chance": 0.037584831571579,
+							"Chance": 0.137584831571579,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.245202881495158,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -6250,7 +6250,7 @@
 						{
 							"ClassName": "Bark_Birch",
 							"Include": "",
-							"Chance": 0.020235594367981,
+							"Chance": 0.120235594367981,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.238081994056702,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -6272,7 +6272,7 @@
 						{
 							"ClassName": "Zagorky",
 							"Include": "",
-							"Chance": 0.058542981004715,
+							"Chance": 0.148542981004715,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.669759375254313,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -6568,7 +6568,7 @@
                 {
                     "ClassName": "OMNOGloves_Brown",
                     "Include": "",
-                    "Chance": 0.019999999552965165,
+                    "Chance": 0.119999999552965165,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
@@ -6588,7 +6588,7 @@
                 {
                     "ClassName": "OMNOGloves_Gray",
                     "Include": "",
-                    "Chance": 0.019999999552965165,
+                    "Chance": 0.119999999552965165,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
@@ -6658,7 +6658,7 @@
                 {
                     "ClassName": "BaseballBat",
                     "Include": "",
-                    "Chance": 0.05000000074505806,
+                    "Chance": 0.14000000074505806,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
@@ -6678,7 +6678,7 @@
                 {
                     "ClassName": "FirefighterAxe",
                     "Include": "",
-                    "Chance": 0.05000000074505806,
+                    "Chance": 0.14000000074505806,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
@@ -6698,7 +6698,7 @@
                 {
                     "ClassName": "Shovel",
                     "Include": "",
-                    "Chance": 0.05000000074505806,
+                    "Chance": 0.14000000074505806,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
@@ -6718,7 +6718,7 @@
                 {
                     "ClassName": "PipeWrench",
                     "Include": "",
-                    "Chance": 0.05000000074505806,
+                    "Chance": 0.14000000074505806,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
@@ -6738,7 +6738,7 @@
                 {
                     "ClassName": "Pipe",
                     "Include": "",
-                    "Chance": 0.05000000074505806,
+                    "Chance": 0.14000000074505806,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
@@ -6758,7 +6758,7 @@
                 {
                     "ClassName": "Pickaxe",
                     "Include": "",
-                    "Chance": 0.05000000074505806,
+                    "Chance": 0.14000000074505806,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0

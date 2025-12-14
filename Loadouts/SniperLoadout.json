@@ -81,7 +81,7 @@
 						{
 							"ClassName": "Rope",
 							"Include": "",
-							"Chance": 0.059225102519989,
+							"Chance": 0.149225102519989,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.588856202761332,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -92,7 +92,7 @@
 						{
 							"ClassName": "AmmoBox_545x39_20Rnd",
 							"Include": "",
-							"Chance": 0.020917715883255,
+							"Chance": 0.120917715883255,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.157178821563721,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -103,7 +103,7 @@
 						{
 							"ClassName": "FNP45_MRDSOptic",
 							"Include": "",
-							"Chance": 0.05174817070961,
+							"Chance": 0.14174817070961,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.513223193486532,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -112,7 +112,7 @@
 							"Sets": []
 						},
 						{
-							"ClassName": "ZenSleep_StimSyringe",
+							"ClassName": "Epinephrine",
 							"Include": "",
 							"Chance": 0.04935279712677,
 							"Quantity": {"Min": 0,"Max": 0},
@@ -180,7 +180,7 @@
 						{
 							"ClassName": "Derringer_Grey",
 							"Include": "",
-							"Chance": 0.056829728937149,
+							"Chance": 0.146829728937149,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.105605227152507,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -239,7 +239,7 @@
 						},
 						{
 							"ClassName": "CJ_Key1",
-							"Chance": 0.03,
+							"Chance": 0.13,
 							"Quantity": {
 								"Min": 0.0,
 								"Max": 0.0
@@ -252,7 +252,7 @@
 						},
 						{
 							"ClassName": "CJ_Key2",
-							"Chance": 0.03,
+							"Chance": 0.13,
 							"Quantity": {
 								"Min": 0.0,
 								"Max": 0.0
@@ -265,7 +265,7 @@
 						},
 						{
 							"ClassName": "CJ_Key3",
-							"Chance": 0.03,
+							"Chance": 0.13,
 							"Quantity": {
 								"Min": 0.0,
 								"Max": 0.0
@@ -278,7 +278,7 @@
 						},
 						{
 							"ClassName": "CJ_Key4",
-							"Chance": 0.03,
+							"Chance": 0.13,
 							"Quantity": {
 								"Min": 0.0,
 								"Max": 0.0
@@ -291,7 +291,7 @@
 						},
 						{
 							"ClassName": "CJ_Key5",
-							"Chance": 0.03,
+							"Chance": 0.13,
 							"Quantity": {
 								"Min": 0.0,
 								"Max": 0.0
@@ -304,7 +304,7 @@
 						},
 						{
 							"ClassName": "CJ_Key6",
-							"Chance": 0.03,
+							"Chance": 0.13,
 							"Quantity": {
 								"Min": 0.0,
 								"Max": 0.0
@@ -787,7 +787,7 @@
 										},
 										{
 											"ClassName": "StarlightOptic",
-											"Chance": 0.05000000074505806,
+											"Chance": 0.14000000074505806,
 											"Quantity": {
 												"Min": 0.0,
 												"Max": 0.0
@@ -1395,7 +1395,7 @@
 				{
 					"ClassName": "dzn_ElectronicRepairKit",
 					"Include": "",
-					"Chance": 0.059225102519989,
+					"Chance": 0.149225102519989,
 					"Quantity": {"Min": 0,"Max": 0},
 					"Health": [{"Min": 0.588856202761332,"Max": 1,"Zone": ""}],
 					"InventoryAttachments": [],
@@ -1406,7 +1406,7 @@
 				{
 					"ClassName": "Marmalade",
 					"Include": "",
-					"Chance": 0.020917715883255,
+					"Chance": 0.120917715883255,
 					"Quantity": {"Min": 0,"Max": 0},
 					"Health": [{"Min": 0.157178821563721,"Max": 1,"Zone": ""}],
 					"InventoryAttachments": [],
@@ -1417,7 +1417,7 @@
 				{
 					"ClassName": "Engraved1911",
 					"Include": "",
-					"Chance": 0.05174817070961,
+					"Chance": 0.14174817070961,
 					"Quantity": {"Min": 0,"Max": 0},
 					"Health": [{"Min": 0.513223193486532,"Max": 1,"Zone": ""}],
 					"InventoryAttachments": [],
@@ -1494,7 +1494,7 @@
 				{
 					"ClassName": "RemoteDetonator",
 					"Include": "",
-					"Chance": 0.056829728937149,
+					"Chance": 0.146829728937149,
 					"Quantity": {"Min": 0,"Max": 0},
 					"Health": [{"Min": 0.105605227152507,"Max": 1,"Zone": ""}],
 					"InventoryAttachments": [],
@@ -1538,7 +1538,7 @@
 				{
 					"ClassName": "Cleaver",
 					"Include": "",
-					"Chance": 0.023313089466095,
+					"Chance": 0.123313089466095,
 					"Quantity": {"Min": 0,"Max": 0},
 					"Health": [{"Min": 0.463376981417338,"Max": 1,"Zone": ""}],
 					"InventoryAttachments": [],
@@ -1571,7 +1571,7 @@
 				{
 					"ClassName": "SodaCan_Pipsi",
 					"Include": "",
-					"Chance": 0.038266953086853,
+					"Chance": 0.138266953086853,
 					"Quantity": {"Min": 0,"Max": 0},
 					"Health": [{"Min": 0.164299709002177,"Max": 1,"Zone": ""}],
 					"InventoryAttachments": [],
@@ -1637,7 +1637,7 @@
 				{
 					"ClassName": "UniversalLight",
 					"Include": "",
-					"Chance": 0.030790021276474,
+					"Chance": 0.130790021276474,
 					"Quantity": {"Min": 0,"Max": 0},
 					"Health": [{"Min": 0.313838345209758,"Max": 1,"Zone": ""}],
 					"InventoryAttachments": [],

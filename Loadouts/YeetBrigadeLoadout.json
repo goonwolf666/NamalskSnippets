@@ -125,7 +125,7 @@
 						{
 							"ClassName": "RabbitLegMeat",
 							"Include": "",
-							"Chance": 0.010605569934845,
+							"Chance": 0.110605569934845,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.378660184542338,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],

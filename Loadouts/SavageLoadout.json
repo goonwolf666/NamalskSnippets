@@ -40,7 +40,7 @@
 						{
 							"ClassName": "dzn_athena_action2",
 							"Include": "",
-							"Chance": 0.054126807308197,
+							"Chance": 0.144126807308197,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.537929040590922,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -51,7 +51,7 @@
 						{
 							"ClassName": "DisinfectantAlcohol",
 							"Include": "",
-							"Chance": 0.010996969795227,
+							"Chance": 0.110996969795227,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.244245273272196,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -95,7 +95,7 @@
 						{
 							"ClassName": "RabbitLegMeat",
 							"Include": "",
-							"Chance": 0.010605569934845,
+							"Chance": 0.110605569934845,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.378660184542338,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -137,7 +137,7 @@
 						{
 							"ClassName": "dzn_athena_action2",
 							"Include": "",
-							"Chance": 0.054126807308197,
+							"Chance": 0.144126807308197,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.537929040590922,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -148,7 +148,7 @@
 						{
 							"ClassName": "DisinfectantAlcohol",
 							"Include": "",
-							"Chance": 0.010996969795227,
+							"Chance": 0.110996969795227,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.244245273272196,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -192,7 +192,7 @@
 						{
 							"ClassName": "RabbitLegMeat",
 							"Include": "",
-							"Chance": 0.010605569934845,
+							"Chance": 0.110605569934845,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.378660184542338,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -234,7 +234,7 @@
 						{
 							"ClassName": "dzn_athena_action2",
 							"Include": "",
-							"Chance": 0.054126807308197,
+							"Chance": 0.144126807308197,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.537929040590922,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -245,7 +245,7 @@
 						{
 							"ClassName": "DisinfectantAlcohol",
 							"Include": "",
-							"Chance": 0.010996969795227,
+							"Chance": 0.110996969795227,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.244245273272196,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -289,7 +289,7 @@
 						{
 							"ClassName": "RabbitLegMeat",
 							"Include": "",
-							"Chance": 0.010605569934845,
+							"Chance": 0.110605569934845,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.378660184542338,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -325,7 +325,7 @@
 						{
 							"ClassName": "dzn_athena3_exp1",
 							"Include": "",
-							"Chance": 0.017001255607605,
+							"Chance": 0.117001255607605,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.478265188535055,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -380,7 +380,7 @@
 						{
 							"ClassName": "WoodenHook",
 							"Include": "",
-							"Chance": 0.054126807308197,
+							"Chance": 0.144126807308197,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.537929040590922,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -391,7 +391,7 @@
 						{
 							"ClassName": "CJ_Key5",
 							"Include": "",
-							"Chance": 0.035564031457901,
+							"Chance": 0.135564031457901,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.419570706685384,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -413,7 +413,7 @@
 						{
 							"ClassName": "dzn_phoenix_log_3",
 							"Include": "",
-							"Chance": 0.010737862443924,
+							"Chance": 0.110737862443924,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.561988455454508,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -444,7 +444,7 @@
 						{
 							"ClassName": "dzn_athena3_exp1",
 							"Include": "",
-							"Chance": 0.017001255607605,
+							"Chance": 0.117001255607605,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.478265188535055,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -499,7 +499,7 @@
 						{
 							"ClassName": "WoodenHook",
 							"Include": "",
-							"Chance": 0.054126807308197,
+							"Chance": 0.144126807308197,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.537929040590922,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -510,7 +510,7 @@
 						{
 							"ClassName": "CJ_Key5",
 							"Include": "",
-							"Chance": 0.035564031457901,
+							"Chance": 0.135564031457901,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.419570706685384,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -532,7 +532,7 @@
 						{
 							"ClassName": "dzn_phoenix_log_3",
 							"Include": "",
-							"Chance": 0.010737862443924,
+							"Chance": 0.110737862443924,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.561988455454508,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -563,7 +563,7 @@
 						{
 							"ClassName": "dzn_athena3_exp1",
 							"Include": "",
-							"Chance": 0.017001255607605,
+							"Chance": 0.117001255607605,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.478265188535055,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -618,7 +618,7 @@
 						{
 							"ClassName": "WoodenHook",
 							"Include": "",
-							"Chance": 0.054126807308197,
+							"Chance": 0.144126807308197,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.537929040590922,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -629,7 +629,7 @@
 						{
 							"ClassName": "CJ_Key5",
 							"Include": "",
-							"Chance": 0.035564031457901,
+							"Chance": 0.135564031457901,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.419570706685384,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -651,7 +651,7 @@
 						{
 							"ClassName": "dzn_phoenix_log_3",
 							"Include": "",
-							"Chance": 0.010737862443924,
+							"Chance": 0.110737862443924,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.561988455454508,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -682,7 +682,7 @@
 						{
 							"ClassName": "dzn_athena3_exp1",
 							"Include": "",
-							"Chance": 0.017001255607605,
+							"Chance": 0.117001255607605,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.478265188535055,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -737,7 +737,7 @@
 						{
 							"ClassName": "WoodenHook",
 							"Include": "",
-							"Chance": 0.054126807308197,
+							"Chance": 0.144126807308197,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.537929040590922,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -748,7 +748,7 @@
 						{
 							"ClassName": "CJ_Key5",
 							"Include": "",
-							"Chance": 0.035564031457901,
+							"Chance": 0.135564031457901,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.419570706685384,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -770,7 +770,7 @@
 						{
 							"ClassName": "dzn_phoenix_log_3",
 							"Include": "",
-							"Chance": 0.010737862443924,
+							"Chance": 0.110737862443924,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.561988455454508,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -801,7 +801,7 @@
 						{
 							"ClassName": "dzn_athena3_exp1",
 							"Include": "",
-							"Chance": 0.017001255607605,
+							"Chance": 0.117001255607605,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.478265188535055,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -856,7 +856,7 @@
 						{
 							"ClassName": "WoodenHook",
 							"Include": "",
-							"Chance": 0.054126807308197,
+							"Chance": 0.144126807308197,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.537929040590922,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -867,7 +867,7 @@
 						{
 							"ClassName": "CJ_Key5",
 							"Include": "",
-							"Chance": 0.035564031457901,
+							"Chance": 0.135564031457901,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.419570706685384,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -889,7 +889,7 @@
 						{
 							"ClassName": "dzn_phoenix_log_3",
 							"Include": "",
-							"Chance": 0.010737862443924,
+							"Chance": 0.110737862443924,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.561988455454508,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -920,7 +920,7 @@
 						{
 							"ClassName": "dzn_athena3_exp1",
 							"Include": "",
-							"Chance": 0.017001255607605,
+							"Chance": 0.117001255607605,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.478265188535055,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -975,7 +975,7 @@
 						{
 							"ClassName": "WoodenHook",
 							"Include": "",
-							"Chance": 0.054126807308197,
+							"Chance": 0.144126807308197,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.537929040590922,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -986,7 +986,7 @@
 						{
 							"ClassName": "CJ_Key5",
 							"Include": "",
-							"Chance": 0.035564031457901,
+							"Chance": 0.135564031457901,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.419570706685384,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -1008,7 +1008,7 @@
 						{
 							"ClassName": "dzn_phoenix_log_3",
 							"Include": "",
-							"Chance": 0.010737862443924,
+							"Chance": 0.110737862443924,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.561988455454508,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -1088,7 +1088,7 @@
 						{
 							"ClassName": "WoodenHook",
 							"Include": "",
-							"Chance": 0.054126807308197,
+							"Chance": 0.144126807308197,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.537929040590922,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -1099,7 +1099,7 @@
 						{
 							"ClassName": "CJ_Key5",
 							"Include": "",
-							"Chance": 0.035564031457901,
+							"Chance": 0.135564031457901,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.419570706685384,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -1121,7 +1121,7 @@
 						{
 							"ClassName": "dzn_phoenix_log_3",
 							"Include": "",
-							"Chance": 0.010737862443924,
+							"Chance": 0.110737862443924,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.561988455454508,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -1143,7 +1143,7 @@
 						{
 							"ClassName": "dzn_athena_action2",
 							"Include": "",
-							"Chance": 0.054126807308197,
+							"Chance": 0.144126807308197,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.537929040590922,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -1154,7 +1154,7 @@
 						{
 							"ClassName": "DisinfectantAlcohol",
 							"Include": "",
-							"Chance": 0.010996969795227,
+							"Chance": 0.110996969795227,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.244245273272196,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -1229,7 +1229,7 @@
 						{
 							"ClassName": "WoodenHook",
 							"Include": "",
-							"Chance": 0.054126807308197,
+							"Chance": 0.144126807308197,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.537929040590922,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -1240,7 +1240,7 @@
 						{
 							"ClassName": "CJ_Key5",
 							"Include": "",
-							"Chance": 0.035564031457901,
+							"Chance": 0.135564031457901,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.419570706685384,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -1262,7 +1262,7 @@
 						{
 							"ClassName": "dzn_phoenix_log_3",
 							"Include": "",
-							"Chance": 0.010737862443924,
+							"Chance": 0.110737862443924,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.561988455454508,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -1284,7 +1284,7 @@
 						{
 							"ClassName": "dzn_athena_action2",
 							"Include": "",
-							"Chance": 0.054126807308197,
+							"Chance": 0.144126807308197,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.537929040590922,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -1295,7 +1295,7 @@
 						{
 							"ClassName": "DisinfectantAlcohol",
 							"Include": "",
-							"Chance": 0.010996969795227,
+							"Chance": 0.110996969795227,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.244245273272196,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -1370,7 +1370,7 @@
 						{
 							"ClassName": "WoodenHook",
 							"Include": "",
-							"Chance": 0.054126807308197,
+							"Chance": 0.144126807308197,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.537929040590922,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -1381,7 +1381,7 @@
 						{
 							"ClassName": "CJ_Key5",
 							"Include": "",
-							"Chance": 0.035564031457901,
+							"Chance": 0.135564031457901,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.419570706685384,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -1403,7 +1403,7 @@
 						{
 							"ClassName": "dzn_phoenix_log_3",
 							"Include": "",
-							"Chance": 0.010737862443924,
+							"Chance": 0.110737862443924,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.561988455454508,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -1425,7 +1425,7 @@
 						{
 							"ClassName": "dzn_athena_action2",
 							"Include": "",
-							"Chance": 0.054126807308197,
+							"Chance": 0.144126807308197,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.537929040590922,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -1436,7 +1436,7 @@
 						{
 							"ClassName": "DisinfectantAlcohol",
 							"Include": "",
-							"Chance": 0.010996969795227,
+							"Chance": 0.110996969795227,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.244245273272196,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -1511,7 +1511,7 @@
 						{
 							"ClassName": "WoodenHook",
 							"Include": "",
-							"Chance": 0.054126807308197,
+							"Chance": 0.144126807308197,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.537929040590922,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -1522,7 +1522,7 @@
 						{
 							"ClassName": "CJ_Key5",
 							"Include": "",
-							"Chance": 0.035564031457901,
+							"Chance": 0.135564031457901,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.419570706685384,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -1544,7 +1544,7 @@
 						{
 							"ClassName": "dzn_phoenix_log_3",
 							"Include": "",
-							"Chance": 0.010737862443924,
+							"Chance": 0.110737862443924,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.561988455454508,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -1566,7 +1566,7 @@
 						{
 							"ClassName": "dzn_athena_action2",
 							"Include": "",
-							"Chance": 0.054126807308197,
+							"Chance": 0.144126807308197,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.537929040590922,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -1577,7 +1577,7 @@
 						{
 							"ClassName": "DisinfectantAlcohol",
 							"Include": "",
-							"Chance": 0.010996969795227,
+							"Chance": 0.110996969795227,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.244245273272196,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -1652,7 +1652,7 @@
 						{
 							"ClassName": "WoodenHook",
 							"Include": "",
-							"Chance": 0.054126807308197,
+							"Chance": 0.144126807308197,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.537929040590922,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -1663,7 +1663,7 @@
 						{
 							"ClassName": "CJ_Key5",
 							"Include": "",
-							"Chance": 0.035564031457901,
+							"Chance": 0.135564031457901,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.419570706685384,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -1685,7 +1685,7 @@
 						{
 							"ClassName": "dzn_phoenix_log_3",
 							"Include": "",
-							"Chance": 0.010737862443924,
+							"Chance": 0.110737862443924,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.561988455454508,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -1707,7 +1707,7 @@
 						{
 							"ClassName": "dzn_athena_action2",
 							"Include": "",
-							"Chance": 0.054126807308197,
+							"Chance": 0.144126807308197,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.537929040590922,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -1718,7 +1718,7 @@
 						{
 							"ClassName": "DisinfectantAlcohol",
 							"Include": "",
-							"Chance": 0.010996969795227,
+							"Chance": 0.110996969795227,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.244245273272196,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -1984,7 +1984,7 @@
 						{
 							"ClassName": "dzn_athena3_exp1",
 							"Include": "",
-							"Chance": 0.017001255607605,
+							"Chance": 0.117001255607605,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.478265188535055,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -2039,7 +2039,7 @@
 						{
 							"ClassName": "WoodenHook",
 							"Include": "",
-							"Chance": 0.054126807308197,
+							"Chance": 0.144126807308197,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.537929040590922,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -2050,7 +2050,7 @@
 						{
 							"ClassName": "CJ_Key5",
 							"Include": "",
-							"Chance": 0.035564031457901,
+							"Chance": 0.135564031457901,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.419570706685384,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -2072,7 +2072,7 @@
 						{
 							"ClassName": "dzn_phoenix_log_3",
 							"Include": "",
-							"Chance": 0.010737862443924,
+							"Chance": 0.110737862443924,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.561988455454508,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -2094,7 +2094,7 @@
 						{
 							"ClassName": "dzn_athena_action2",
 							"Include": "",
-							"Chance": 0.054126807308197,
+							"Chance": 0.144126807308197,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.537929040590922,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -2105,7 +2105,7 @@
 						{
 							"ClassName": "DisinfectantAlcohol",
 							"Include": "",
-							"Chance": 0.010996969795227,
+							"Chance": 0.110996969795227,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.244245273272196,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -2149,7 +2149,7 @@
 						{
 							"ClassName": "RabbitLegMeat",
 							"Include": "",
-							"Chance": 0.010605569934845,
+							"Chance": 0.110605569934845,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.378660184542338,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -2310,7 +2310,7 @@
 						{
 							"ClassName": "dzn_athena3_exp1",
 							"Include": "",
-							"Chance": 0.017001255607605,
+							"Chance": 0.117001255607605,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.478265188535055,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -2365,7 +2365,7 @@
 						{
 							"ClassName": "WoodenHook",
 							"Include": "",
-							"Chance": 0.054126807308197,
+							"Chance": 0.144126807308197,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.537929040590922,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -2376,7 +2376,7 @@
 						{
 							"ClassName": "CJ_Key5",
 							"Include": "",
-							"Chance": 0.035564031457901,
+							"Chance": 0.135564031457901,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.419570706685384,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -2398,7 +2398,7 @@
 						{
 							"ClassName": "dzn_phoenix_log_3",
 							"Include": "",
-							"Chance": 0.010737862443924,
+							"Chance": 0.110737862443924,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.561988455454508,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -2420,7 +2420,7 @@
 						{
 							"ClassName": "dzn_athena_action2",
 							"Include": "",
-							"Chance": 0.054126807308197,
+							"Chance": 0.144126807308197,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.537929040590922,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -2431,7 +2431,7 @@
 						{
 							"ClassName": "DisinfectantAlcohol",
 							"Include": "",
-							"Chance": 0.010996969795227,
+							"Chance": 0.110996969795227,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.244245273272196,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -2475,7 +2475,7 @@
 						{
 							"ClassName": "RabbitLegMeat",
 							"Include": "",
-							"Chance": 0.010605569934845,
+							"Chance": 0.110605569934845,
 							"Quantity": {"Min": 0,"Max": 0},
 							"Health": [{"Min": 0.378660184542338,"Max": 1,"Zone": ""}],
 							"InventoryAttachments": [],
@@ -3000,7 +3000,7 @@
 		{
 			"ClassName": "dzn_athena3_exp1",
 			"Include": "",
-			"Chance": 0.017001255607605,
+			"Chance": 0.117001255607605,
 			"Quantity": {"Min": 0,"Max": 0},
 			"Health": [{"Min": 0.265188535055,"Max": 0.4321,"Zone": ""}],
 			"InventoryAttachments": [],
@@ -3055,7 +3055,7 @@
 		{
 			"ClassName": "WoodenHook",
 			"Include": "",
-			"Chance": 0.054126807308197,
+			"Chance": 0.144126807308197,
 			"Quantity": {"Min": 0,"Max": 0},
 			"Health": [{"Min": 0.37929040590922,"Max": 0.4321,"Zone": ""}],
 			"InventoryAttachments": [],
@@ -3066,7 +3066,7 @@
 		{
 			"ClassName": "CJ_Key5",
 			"Include": "",
-			"Chance": 0.035564031457901,
+			"Chance": 0.135564031457901,
 			"Quantity": {"Min": 0,"Max": 0},
 			"Health": [{"Min": 0.19570706685384,"Max": 0.4321,"Zone": ""}],
 			"InventoryAttachments": [],
@@ -3088,7 +3088,7 @@
 		{
 			"ClassName": "dzn_phoenix_log_3",
 			"Include": "",
-			"Chance": 0.010737862443924,
+			"Chance": 0.110737862443924,
 			"Quantity": {"Min": 0,"Max": 0},
 			"Health": [{"Min": 0.1988455454508,"Max": 0.4321,"Zone": ""}],
 			"InventoryAttachments": [],
@@ -3110,7 +3110,7 @@
 		{
 			"ClassName": "dzn_athena_action2",
 			"Include": "",
-			"Chance": 0.054126807308197,
+			"Chance": 0.144126807308197,
 			"Quantity": {"Min": 0,"Max": 0},
 			"Health": [{"Min": 0.0590922,"Max": 0.4321,"Zone": ""}],
 			"InventoryAttachments": [],
@@ -3121,7 +3121,7 @@
 		{
 			"ClassName": "DisinfectantAlcohol",
 			"Include": "",
-			"Chance": 0.010996969795227,
+			"Chance": 0.110996969795227,
 			"Quantity": {"Min": 0,"Max": 0},
 			"Health": [{"Min": 0.1244245273272196,"Max": 0.4321,"Zone": ""}],
 			"InventoryAttachments": [],
@@ -3165,7 +3165,7 @@
 		{
 			"ClassName": "RabbitLegMeat",
 			"Include": "",
-			"Chance": 0.010605569934845,
+			"Chance": 0.110605569934845,
 			"Quantity": {"Min": 0,"Max": 0},
 			"Health": [{"Min": 0.178660184542338,"Max": 0.4321,"Zone": ""}],
 			"InventoryAttachments": [],
@@ -3176,7 +3176,7 @@
 		{
 			"ClassName": "CJ_Key1",
 			"Include": "",
-			"Chance": 0.024103613948822,
+			"Chance": 0.124103613948822,
 			"Quantity": {"Min": 0,"Max": 0},
 			"Health": [{"Min": 0.237774418195089,"Max": 0.4321,"Zone": ""}],
 			"InventoryAttachments": [],
@@ -3187,7 +3187,7 @@
 		{
 			"ClassName": "UnknownFoodCan",
 			"Include": "",
-			"Chance": 0.052538695192337,
+			"Chance": 0.142538695192337,
 			"Quantity": {"Min": 0,"Max": 0},
 			"Health": [{"Min": 0.12792275746663,"Max": 0.4321,"Zone": ""}],
 			"InventoryAttachments": [],
@@ -3198,7 +3198,7 @@
 		{
 			"ClassName": "Bark_Birch",
 			"Include": "",
-			"Chance": 0.020235594367981,
+			"Chance": 0.120235594367981,
 			"Quantity": {"Min": 0,"Max": 0},
 			"Health": [{"Min": 0.138081994056702,"Max": 0.4321,"Zone": ""}],
 			"InventoryAttachments": [],
@@ -3275,7 +3275,7 @@
 		{
 			"ClassName": "ShippingContainerKeys_Orange",
 			"Include": "",
-			"Chance": 0.034007623052597,
+			"Chance": 0.134007623052597,
 			"Quantity": {"Min": 0,"Max": 0},
 			"Health": [{"Min": 0.118894322713,"Max": 0.4321,"Zone": ""}],
 			"InventoryAttachments": [],
@@ -3286,7 +3286,7 @@
 		{
 			"ClassName": "Lard",
 			"Include": "",
-			"Chance": 0.051097752904892,
+			"Chance": 0.141097752904892,
 			"Quantity": {"Min": 0,"Max": 0},
 			"Health": [{"Min": 0.04416297276815,"Max": 0.5,"Zone": ""}],
 			"InventoryAttachments": [],
